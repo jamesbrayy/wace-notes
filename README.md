@@ -1,6 +1,5 @@
----
-icon: pi
----
+# yo
 
-# specialist
+use my notes to study
 
+good luck for wace
