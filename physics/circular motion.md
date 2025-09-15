@@ -1,3 +1,5 @@
+
+-----
 # **uniform circular motion**
 - uniform circular motion occurs when a body travels at a constant speed and is constantly accelerating towards the centre curvature
 - direction is constantly changing and hence velocity is always changing despite no change in speed

@@ -1,3 +1,5 @@
+
+-----
 # **newton's laws of motion**
 1. a body at rest will stay at rest and an object in motion will stay in uniform rectilinear motion unless acted upon by an unbalanced external force (law of inertia)
 2. the acceleration of a body will vary proportionate to the unbalanced external force and inversely to the mass of the body
