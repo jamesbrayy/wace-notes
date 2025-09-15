@@ -19,7 +19,7 @@
 ## **electrolytes**
 - substances that dissociate/ionise in water to form a solution that conducts electricity
 - there are strong electrolytes which completely dissociate in water and exist as ions in solution
-  - $$\mathrm{NaCl}(s) \rightarrow \mathrm{Na}^{+}_{(aq)} + \mathrm{Cl}^{-}_{(aq)}$$
+  - $$\mathrm{NaCl}_{(s)} \rightarrow \mathrm{Na}^{+}_{(aq)} + \mathrm{Cl}^{-}_{(aq)}$$
   - dissociation involves two ions splitting into two separate ions
 - there are also weak electrolytes which partially ionise in water and exist as both molecules and the composite ions of the molecule in solution
   - $$\mathrm{NH_3}_{(aq)} + \mathrm{H_2O}(l) \rightleftharpoons \mathrm{NH_4}^{+}_{(aq)} + \mathrm{OH}^{-}_{(aq)}$$
@@ -27,7 +27,7 @@
 
 ## **hydrolysis of salts**
 - salts are strong electrolytes and so they completely dissociate into ions
-  - *e.g.* $$\mathrm{Na_2CO_3}(s) \rightarrow 2\mathrm{Na}^{+}_{(aq)} + \mathrm{CO_3}^{2-}_{(aq)}$$
+  - *e.g.* $$\mathrm{Na_2CO_3}_{(s)} \rightarrow 2\mathrm{Na}^{+}_{(aq)} + \mathrm{CO_3}^{2-}_{(aq)}$$
 - it is then possible for some ions to undergo a further reaction with water
   - *e.g.* $$\mathrm{CO_3^{2-}} + \mathrm{H_2O} \rightleftharpoons \mathrm{HCO_3^{-}} + \mathrm{OH^{-}}$$
 #### *neutral salts*

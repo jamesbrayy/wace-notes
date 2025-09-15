@@ -11,7 +11,7 @@
     * slow
     * require UV light for halogens
 #### _alkenes_
-  * contain at least one double C=C bond (unsaturated)
+  * contain at least one double $$\mathrm{C=C}$$ bond (unsaturated)
   * demonstrate the formula $$\mathrm{C_nH_{2n}}$$
   * _addition reactions:_
     * substances such as halogens, hydrogen, hydrogen halides will readily add across the double bond
@@ -39,7 +39,8 @@
     * weak acids, with strength decreasing as the chain length increases
 #### _esters ($$-\mathrm{COO}-$$):_
   * esters are formed from the esterification reaction of a carboxylic acid with an alcohol in the presence of a concentrated acid catalyst (_e.g._ concentrated $$\mathrm{H_2SO_4}$$)
-    * ![](images/image_1.d3f12366.png) ethanoic acid ethanol ethanoate (ethyl)
+    * ![](images/image_1.d3f12366.png)
+    ethanoic acid ethanol ethanoate (ethyl)
   * _hydrolysis of esters:_
     * hydrolysis is a means of conversion of the ester to the original alcohol and either the carboxylic acid or the salt of the acid
     * either $$\mathrm{H_3O^+}$$ or $$\mathrm{OH^-}$$ acts as a catalyst
@@ -62,7 +63,8 @@
     * primary amides are prepared by reaction of $$(\mathrm{NH_4})_2\mathrm{CO_3}$$ with a corresponding carboxylic acid:
       * _e.g._ $$\mathrm{2CH_3COOH (aq) + (NH_4)_2CO_3 (aq) \rightarrow 2CH_3COONH_4 (aq) + CO_2 (g) + H_2O (l)}$$
   * _types of amides:_
-    * ![](images/image_3.ba95e1c9.png) primary secondary tertiary
+    * ![](images/image_3.ba95e1c9.png)
+    primary secondary tertiary
   * _hydrolysis of amides:_
     * $$\mathrm{R-CO-NH_2 + H_2O + H^+ \rightarrow R-COOH + NH_4^+}$$
     * $$\mathrm{R-CO-NH_2 + NaOH \rightarrow R-COONa + NH_3}$$
@@ -132,7 +134,7 @@
     * ![](images/image_10.5610b8e0.png)
   * _properties:_
     * the long hydrocarbon chains of the fat (triglyceride) is non-polar meaning dispersion forces over most molecules are predominant
-    * animal fats are usually saturated (_i.e._ single $$\mathrm{C-C}$$ bond) whereas plant oils are often unsaturated (_i.e._ containing at least one C=C bond)
+    * animal fats are usually saturated (_i.e._ single $$\mathrm{C-C}$$ bond) whereas plant oils are often unsaturated (_i.e._ containing at least one $$\mathrm{C=C}$$ bond)
 #### _hydrolysis of triglycerides_
   * triglycerides may be hydrolysed using a strong base such as $$\mathrm{NaOH}$$ or $$\mathrm{KOH}$$ to produce glycerol and the salt of the long chain fatty acid in a process known as saponification
   * the salt of the fatty acid precipitates and is removed by filtration

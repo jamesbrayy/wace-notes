@@ -67,7 +67,7 @@
 #### _standard hydrogen electrode:_
   * ![](images/image_2.0c01a45e.png)
   * at STP, the standard reduction potential for the reduction of hydrogen ions is zero volts
-    * $$2\mathrm{H^+}(aq) + 2e^- \rightarrow \mathrm{H_2 (g)}$$
+    * $$2\mathrm{H^+}_{(aq)} + 2e^- \rightarrow \mathrm{H_2}_{(g)}$$
   * this 'reference' electrode enables standard reduction potentials to be determined for a range of substances
 
 ## **electrolysis:**
@@ -98,15 +98,16 @@
   * as they are rechargeable, there are two states:
     * _discharging (producing voltage)_
       * ![](images/image_5.553aca21.png)
-      * _at the anode:_ $$\mathrm{Pb (aq)} + \mathrm{SO_4^{2-}}(aq) \rightarrow \mathrm{PbSO_4 (s)} + 2e^-$$
-      * _at the cathode:_ $$\mathrm{PbO_2} + 4\mathrm{H^+} + \mathrm{SO_4^{2-}} + 2e^- \rightarrow \mathrm{PbSO_4} + 2\mathrm{H_2O}$$
-      * _overall:_ $$\mathrm{Pb (aq)} + \mathrm{PbO_2}$$
+      * _at the anode:_ $$\mathrm{Pb_{(aq)}} + \mathrm{SO_4^{2-}}_{(aq)} \rightarrow \mathrm{PbSO_4}_{(s)} + 2e^-$$
+      * _at the cathode:_ $$\mathrm{PbO}_{2\,(s)} + 4\mathrm{H^+}_{(aq)} + \mathrm{SO_4^{2-}}_{(aq)} + 2e^- \rightarrow \mathrm{PbSO_4}_{(s)} + 2\mathrm{H_2O}_{(l)}$$
+      * _overall:_ $$\mathrm{Pb}_{(s)} + \mathrm{PbO}_{2\,(s)} + 4\mathrm{H^+}_{(aq)} + \mathrm{SO_4^{2-}}_{(aq)} \rightarrow 2\mathrm{PbSO}_{4\,(s)} + 2\mathrm{H}_{2}\mathrm{O}_{(l)}$$
 #### _hydrogen fuel cells:_
   * the hydrogen fuel cell is an electrochemical cell that can operate perpetually because the reactants required for the redox reaction can be constantly replaced
   * the reactions can take place in either an acidic or alkaline electrolyte
   * _in acid electrolyte:_
-    * $$\mathrm{H_2} \rightarrow 2\mathrm{H^+} + 2e^- \quad E^0 = 0.00\mathrm{V}$$
-    * $$\mathrm{O_2} + 4\mathrm{H^+} + 4e^- \rightarrow 2\mathrm{H_2O} \quad E^0 = +1.23\mathrm{V}$$
+    $$\mathrm{H_{2\,(g)}} \rightarrow 2\mathrm{H^+_{(aq)}} + 2e^- \quad \left( E^0 = 0.00\mathrm{V} \right)$$
+    $$\mathrm{O_{2\,(g)}} + 4\mathrm{H^+_{(aq)}} + 4e^- \rightarrow 2\mathrm{H_2O_{(l)}} \quad \left( E^0 = +1.23\mathrm{V} \right)$$
   * _in alkaline electrolyte:_
-    * $$\mathrm{H_2} + 2\mathrm{OH^-} \rightarrow 2\mathrm{H_2O} + 2e^- \quad E^0 = -0.83\mathrm{V}$$
-    * $$\mathrm{O_2} + 2\mathrm{H_2O} + 4e^- \rightarrow 4\mathrm{OH^-} \quad E^0 = +0.40$$
+    $$\mathrm{H_{2\,(g)}} + 2\mathrm{OH^-_{(aq)}} \rightarrow 2\mathrm{H_2O_{(l)}} + 2e^- \quad \left( E^0 = -0.83\mathrm{V} \right)$$
+    $$\mathrm{O_{2\,(g)}} + 2\mathrm{H_2O_{(l)}} + 4e^- \rightarrow 4\mathrm{OH^-_{(aq)}} \quad \left( E^0 = +0.40\mathrm{V} \right)$$
+

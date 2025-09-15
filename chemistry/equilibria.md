@@ -30,7 +30,6 @@
       * ![](images/image_3.8f602956.png)
     * _concentration vs time:_
       * ![](images/image_4.c538dfdf.png)
-  *
 #### _change in temperature:_
   * *e.g.* $$2\mathrm{NO}_{2\,(g)} \rightleftharpoons \mathrm{N}_2\mathrm{O}_{4\,(g)} \quad \quad \quad \left( \Delta H = -57 \, \mathrm{kJ} \right)$$
     * _rate vs time:_

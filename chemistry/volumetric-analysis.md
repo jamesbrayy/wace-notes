@@ -24,10 +24,10 @@
   * the volume of this second solution is measured accurately using the pipette
   * the solution in the pipette is called the aliquot
 * indicator
-  * alizarin yellow
-  * methyl orange
-  * bromothymol blue
-  * phenolphthalein
+  * alizarin yellow ($$\mathrm{pH_{end}}\approx 11$$)
+  * methyl orange ($$\mathrm{pH_{end}}\approx 3.7$$)
+  * bromothymol blue ($$\mathrm{pH_{end}}\approx 7$$)
+  * phenolphthalein ($$\mathrm{pH_{end}}\approx 9.3$$)
 
 **equivalence point:**
 
