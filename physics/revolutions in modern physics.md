@@ -12,7 +12,7 @@
   - *the photoelectric effect:*
     - einstein attributed the quantisation of energy that planck suggested to be intrinsic to the light itself, called the particles photons
     - the photons were extremely localised in that they give all of their energy to one electron in the metal
-      -  $brightness\propto {n}_{photons}$ and f$\propto {E}_{photons}$
+      -  $$brightness\propto {n}_{photons}$$ and f$$\propto {E}_{photons}$$
     - if the energy of a photon is greater than or equal to the work function for a metal, a photoelectron can be emitted
       - the energy of this photoelectron is given by the formula:
         - 
@@ -44,8 +44,8 @@
     - planck successfully derived the correct formula by assuming that electromagnetic radiation can only be emitted or absorbed in discrete quanta of energy
     - 
       - where:
-        -  $h$ is planck's constant ($~6.626\times {10}^{-34}\ \mathrm{Js}$)
-        -  $k$ is boltzmann's constant ($~1.381\times {10}^{-23}\ \mathrm{J}{\mathrm{K}}^{-1}$
+        -  $$h$$ is planck's constant ($$~6.626\times {10}^{-34}\ \mathrm{Js}$$)
+        -  $$k$$ is boltzmann's constant ($$~1.381\times {10}^{-23}\ \mathrm{J}{\mathrm{K}}^{-1}$$
     - this formula produces two bold results about the atoms at the surface of a blackbody:
       1. the atoms can only have discrete values of energy
       2. the atoms emit or absorb energy in discrete amounts
@@ -60,35 +60,35 @@
     - these electrons are called photoelectrons
   - first noted in 1887 by Heinrich Rudolf Hertz
   - *key terms:*
-    -  ${f}_{0}$* = threshold frequency*
+    -  $${f}_{0}$$* = threshold frequency*
       - *the frequency below which no electrons are ejected from the metal surface*
-    -  ${V}_{0}$* = stopping voltage*
-      - *to measure the *${E}_{k}$* of ejected electrons, a voltage can be applied in the opposite direction of electron current*
+    -  $${V}_{0}$$* = stopping voltage*
+      - *to measure the *$${E}_{k}$$* of ejected electrons, a voltage can be applied in the opposite direction of electron current*
       - *stopping voltage is the voltage required to stop the most energetic photoelectron (when the photocurrent is reduced to zero)*
-      - *the energy of photoelectrons can then be measured as *${E}_{k}=q{V}_{0}$
-    -  $\mathit{\phi}$* = work function*
+      - *the energy of photoelectrons can then be measured as *$${E}_{k}=q{V}_{0}$$
+    -  $$\mathit{\phi}$$* = work function*
       - *the energy required to liberate the least bound electron from the surface of the metal*
   - *experiments:*
     - experiment 1 (- cathode, + anode):
       - aim was to observe the emission of electrons from a metal surface when illuminated
       - light of varying frequency and intensity was directed at the cathode, and the anode was positively charged to attract emitted electrons
       - observed:
-        - electrons emitted only when light frequency exceeded the threshold ${f}_{0}$
-        - increasing intensity below ${f}_{0}$​ resulted in no emission
-        - above ${f}_{0}$​, emission occurred without delay regardless of intensity
-        - photocurrent increased with light intensity (above ${f}_{0}$​) but ${E}_{k}$ of electrons depended on frequency
+        - electrons emitted only when light frequency exceeded the threshold $${f}_{0}$$
+        - increasing intensity below $${f}_{0}$$​ resulted in no emission
+        - above $${f}_{0}$$​, emission occurred without delay regardless of intensity
+        - photocurrent increased with light intensity (above $${f}_{0}$$​) but $${E}_{k}$$ of electrons depended on frequency
     - experiment 2 (+ cathode, - anode):
       - aim was to determine the kinetic energy of photoelectrons by opposing their motion with an electric field
       - observed:
         - some electrons had enough energy to overcome the opposing field and reach the anode, causing a detectable current
         - as the reverse voltage increased, fewer electrons arrived
-        - photocurrent became zero at the stopping voltage ${V}_{0}$​, where even the most energetic electrons were repelled
-      - the maximum kinetic energy of the emitted electrons was determined from ${E}_{k}=q{V}_{0}$
-      - confirmed that maximum kinetic energy given by ${E}_{k}=q{V}_{0}$ independent of intensity, linear with light frequency, confirming Einstein’s photoelectric equation ${E}_{k}=hf-\mathit{\phi}$
+        - photocurrent became zero at the stopping voltage $${V}_{0}$$​, where even the most energetic electrons were repelled
+      - the maximum kinetic energy of the emitted electrons was determined from $${E}_{k}=q{V}_{0}$$
+      - confirmed that maximum kinetic energy given by $${E}_{k}=q{V}_{0}$$ independent of intensity, linear with light frequency, confirming Einstein’s photoelectric equation $${E}_{k}=hf-\mathit{\phi}$$
       
 - ***de broglie wavelength:***
-  -  $${\mathit{\lambda}}_{d}=\frac{h}{p}$$
-$$\ \ \ \ \ \ =\frac{h}{mv}$$
+  -  $$$${\mathit{\lambda}}_{d}=\frac{h}{p}$$$$
+$$$$\ \ \ \ \ \ =\frac{h}{mv}$$$$
   - any particle with momentum has a wavelength
     - for large objects this wavelength is so small it is undetectable but for subatomic particles it is increasingly important
 - ***phosphorescence:***
@@ -119,7 +119,7 @@ $$\ \ \ \ \ \ =\frac{h}{mv}$$
     1. light hits the cell
       - the cell is made of semiconductor materials (typically silicon) with an electric field at the p-n junction
     2. photon absorption
-      - when a photon strikes the cell, it may transfer its energy to an electron in the semiconductor if $hf$ exceeds the band gap
+      - when a photon strikes the cell, it may transfer its energy to an electron in the semiconductor if $$hf$$ exceeds the band gap
     3. electron excitation
       - the electron is promoted from the valence band to the conduction band, leaving behind a hole
       - the built-in electric field at the junction drives electrons toward the n-type side and holes toward the p-type side
@@ -133,7 +133,7 @@ $$\ \ \ \ \ \ =\frac{h}{mv}$$
     - in addition to spontaneous emission, stimulated emission also occurs
       - where the decay is forced to occur before the lifetime of the state
     - if an atom is in a metastable excited state (a state with a lifetime longer than the usual 10^\-8^ s lifetime of excited states) then the time interval until spontaneous emission occurs will be relatively long
-    - if in that period of time a photon of energy equal to ${E}_{2}-{E}_{1}$ is incident on the atom stimulated emission can occur
+    - if in that period of time a photon of energy equal to $${E}_{2}-{E}_{1}$$ is incident on the atom stimulated emission can occur
   - *for laser action:*
     - the system must be in a state of population inversion
     - the excited state to be metastable, so stimulated emission occurs before spontaneous emission
@@ -141,7 +141,7 @@ $$\ \ \ \ \ \ =\frac{h}{mv}$$
 
 **special relativity:**
 - at high speeds, the laws of classical mechanics break down and cannot be used to explain or predict observed behaviour and phenomenon
-- the special theory of relativity explains and quantifies the behaviour of objects travelling at relativistic ($>0.1c$) speeds
+- the special theory of relativity explains and quantifies the behaviour of objects travelling at relativistic ($$>0.1c$$) speeds
 - ***experiments:***
   - *michelson-morley experiment:*
     - aim was to detect earth's movement through the aether by measuring changes in light speed in different directions
@@ -163,12 +163,12 @@ $$\ \ \ \ \ \ =\frac{h}{mv}$$
         - acts on colour charge
       - photons (electromagnetism)
         - acts on the charge of particles
-      - ${W}^{+}$, ${W}^{-}$, ${Z}^{0}$ bosons (weak nuclear force)
+      - $${W}^{+}$$, $${W}^{-}$$, $${Z}^{0}$$ bosons (weak nuclear force)
         - acts on the flavour of particles, require weak isospin to interact, allowed to violate conservation of strangeness
       - graviton (gravity, theorised)
         - acts on energy
     - scalar bosons:
-      - higgs boson (gives $W$ and $Z$ bosons, quarks and charged leptons their mass)
+      - higgs boson (gives $$W$$ and $$Z$$ bosons, quarks and charged leptons their mass)
   - *composite bosons:*
     - mesons:
       - bosonic hadrons composed of a quark-antiquark pair
@@ -205,9 +205,9 @@ $$\ \ \ \ \ \ =\frac{h}{mv}$$
     - if a source is travelling away from us, we observe red shift
     - if a source is travelling towards us, we observe blue shift
 - ***hubble's law:***
-  - the redshift of a cosmic object is directly proportional to its distance through ${v}_{object}={H}_{0}d$
-    - where ${H}_{0}$ is hubble's constant ($km\ {s}^{-1}\ {Mpc}^{-1}$) and $d$ is the distance of the object ($Mpc$)
-  - the inverse of ${H}_{0}$ is proposed to give the time that the universe had zero volume and existed at a single point in space known as a singularity
+  - the redshift of a cosmic object is directly proportional to its distance through $${v}_{object}={H}_{0}d$$
+    - where $${H}_{0}$$ is hubble's constant ($$km\ {s}^{-1}\ {Mpc}^{-1}$$) and $$d$$ is the distance of the object ($$Mpc$$)
+  - the inverse of $${H}_{0}$$ is proposed to give the time that the universe had zero volume and existed at a single point in space known as a singularity
   - one issue that can impact data is that the closer galaxies can be moving towards us, and rotating spiral galaxies close to us can be approaching on one side and receding on the other
     - however, further galaxies all show a common recession as these irregularities become negligible due to the proposed expansion of the universe
 - ***evidence for the big bang theory:***
