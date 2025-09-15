@@ -1,5 +1,14 @@
-# yo
+# wace notes
 
-use my notes to study
+contains all the stuff you probably forgot.
 
-good luck for wace
+centralised reference for:
+- methods
+- spec
+- physics
+- chem
+- engineering studies
+- literature
+
+good luck for mocks and wace!
+
