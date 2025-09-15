@@ -1,5 +1,7 @@
+# functions
 
------
+***
+
 ## **composition**
 - the domain of $$f\circ g\left(x\right)$$ is all $$x$$ where $$g\left(x\right)$$ is in the domain of $$f$$ and $$x$$ is in the domain of $$g$$
   - *i.e.* $$dom\left(f\circ g\right)=\left\{x\in dom\left(g\right)\ :\ g\left(x\right)\in dom\left(f\right)\right\}$$
