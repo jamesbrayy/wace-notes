@@ -145,8 +145,7 @@
   - to produce DC, a split-ring commutator can be used which will ensure the polarity of the current is the same at all points in the cycle despite a changing magnitude
   - *maximum EMF:*
     - an AC generator produces an AC voltage, with the peak voltage given by the below formula
-      - $$\begin{aligned}\Phi &= n |\overrightharpoon{B}| |\overrightharpoon{A}| \cos(2\pi f t) \\[1.2ex] \frac{d\Phi}{dt} &= 2\pi f n |\overrightharpoon{B}|  |\overrightharpoon{A}| \sin(2\pi f t) \quad \quad , \text{maximum will occur when} \sin(2\pi f t)=1\\[1.2ex] \therefore \varepsilon_{\max} &= 2\pi |\overrightharpoon{B}| |\overrightharpoon{A}| n f \\ &= 2 n \left| \overrightharpoon{v} \right| \left| \overrightharpoon{B} \right| \left| \overrightharpoon{L} \right| \end{aligned}
-$$
+      - $$\begin{aligned}\Phi &= n |\overrightharpoon{B}| |\overrightharpoon{A}| \cos(2\pi f t) \\[1.2ex] \frac{d\Phi}{dt} &= 2\pi f n |\overrightharpoon{B}|  |\overrightharpoon{A}| \sin(2\pi f t) \quad \quad , \text{maximum will occur when} \sin(2\pi f t)=1\\[1.2ex] \therefore \varepsilon_{\max} &= 2\pi |\overrightharpoon{B}| |\overrightharpoon{A}| n f \\ &= 2 n \left| \overrightharpoon{v} \right| \left| \overrightharpoon{B} \right| \left| \overrightharpoon{L} \right| \end{aligned} $$
     - in order to apply standard circuit equations to the AC, the root mean square (RMS) voltage must be considered instead of the peak voltage
       - the RMS voltage represents the equivalent DC voltage that would deliver the same power to a resistive load
       
