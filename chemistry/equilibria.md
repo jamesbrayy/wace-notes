@@ -11,7 +11,7 @@
 
 * "if a system at equilibrium is subjected to a change in conditions, the system will adjust to re-establish equilibrium in such a way as to partially counteract the imposed change"
 #### _change in concentration:_
-  * \*e.g. \* $$\begin{aligned} 2\mathrm{CrO}_4^{2-}(aq) + 2\mathrm{H}^+(aq) &\rightleftharpoons \mathrm{Cr}_2\mathrm{O}_7^{2-}(aq) + \mathrm{H}_2\mathrm{O}(l) \end{aligned}$$ , increasing $$[\mathrm{H}^+]$$
+  * *e.g.* $$\begin{aligned} 2\mathrm{CrO}_4^{2-}(aq) + 2\mathrm{H}^+(aq) &\rightleftharpoons \mathrm{Cr}_2\mathrm{O}_7^{2-}(aq) + \mathrm{H}_2\mathrm{O}(l) \end{aligned}$$ , increasing $$[\mathrm{H}^+]$$
     * _rate vs time:_
       * an increase in $$[\mathrm{H}^+]$$ causes collisions to occur more frequently between the reactants than the products
       * this causes the initial rate of the forwards reaction to increase while the reverse rate is initially unaffected
@@ -20,7 +20,7 @@
     * _concentration vs time:_
       * ![](images/image_2.6a1119d3.png)
 #### _change in pressure/volume:_
-  * \*e.g. \* $$\begin{aligned} 2\mathrm{NO}_2(g) &\rightleftharpoons \mathrm{N}_2\mathrm{O}_4(g) \end{aligned}$$ , increased pressure
+  * *e.g.* $$2\mathrm{NO}_{2\,(g)} \rightleftharpoons \mathrm{N}_2\mathrm{O}_{4\,(g)}$$
     * _rate vs time:_
       * an increase in pressure is equivalent to a decrease in volume, and as concentration is inversely proportional to volume while the amount of all substances remains constant, all concentrations are increased
       * thus when the pressure is increased, the rate of both forward and reverse reactions increases immediately; however, the rate of the forwards reaction will increase by a greater extent as there are more participating moles of gas
@@ -30,7 +30,7 @@
       * ![](images/image_4.c538dfdf.png)
   *
 #### _change in temperature:_
-  * ### _e.g._ $$\begin{aligned} 2\mathrm{NO}_2(g) &\rightleftharpoons \mathrm{N}_2\mathrm{O}_4(g) \\ \text{forward: }\Delta H &= -57\ \mathrm{kJ} \\ \text{reverse: }\Delta H &= +57\ \mathrm{kJ} \end{aligned}$$
+  * *e.g.* $$2\mathrm{NO}_{2\,(g)} \rightleftharpoons \mathrm{N}_2\mathrm{O}_{4\,(g)} \quad \quad \quad \left( \Delta H = -57 \, \mathrm{kJ} \right)$$
     * _rate vs time:_
       * an increase in temperature causes an increase in both the frequency of collisions and the proportion of collisions with energy greater than the activation energy, resulting in an increase in the rates of both the forward and reverse reactions
       * the endothermic rate of reaction is affected to a greater extent due to its higher activation energy, and so the rate of the reverse reaction is increased more than that of the forwards reaction
@@ -43,7 +43,7 @@
   * as there is no change to the proportions of either reactants or products the system is still in equilibrium
   * the rates of forward and reverse reactions increase by the same amount
 #### _addition of inert gas:_
-  * _e.g._ $$\begin{aligned} 2\mathrm{NO}_2(g) &\rightleftharpoons \mathrm{N}_2\mathrm{O}_4(g) \end{aligned}$$
+  * *e.g.* $$\begin{aligned} 2\mathrm{NO}_2(g) &\rightleftharpoons \mathrm{N}_2\mathrm{O}_4(g) \end{aligned}$$
     * _at constant volume:_
       * no effect as partial pressures remain constant
     * _at constant pressure:_
