@@ -5,11 +5,11 @@
   - $$z=a+bi$$
 ### *polar:*
   - $$z=r\mathrm{cis}\mathit{\theta}$$
-  - the principal argument $\theta $ occupies the domain $$-\mathit{\pi}<\mathit{\theta}\le \mathit{\pi}$$
+  - the principal argument $$\theta$$ occupies the domain $$-\mathit{\pi}<\mathit{\theta}\le \mathit{\pi}$$
   - *multiplying and dividing:*
     - ![](./images/image_1.b235a270.png)
   - *de moivre's theorem:*
-    - 
+    - $$[r \operatorname{cis} \theta]^n = r^n \operatorname{cis} (n \theta), \quad n \in \mathbb{Z}$$
     - *proving triple-angle identities:*
       - ![](./images/image_2.156f1a28.png)
 
