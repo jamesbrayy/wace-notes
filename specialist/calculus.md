@@ -3,7 +3,7 @@
   - 
   - 
 - *trig substitution:*
-  - ![Integration with trigonometric substitution | StudyPug](image_1.13eda047.jpg)
+  - ![Integration with trigonometric substitution | StudyPug](./images/image_1.13eda047.jpg)
 - *partial fractions:*
   - given a function $\frac{f\left(x\right)}{g\left(x\right)}$ where the degree of $f$ is greater than the degree of $q$:
     - for distinct linear factors $g\left(x\right)=\left(x-a\right)\left(x-b\right)\dots $
@@ -14,13 +14,13 @@
       - 
 - *volumes of revolution:*
   - 
-  - ![](image_2.474f03f1.png)
+  - ![](./images/image_2.474f03f1.png)
 
 **differentiation:**
 - *implicit differentiation:*
   - 
 - *logarithmic differentiation:*
-  - ![](image_3.bf30445b.emf)
+  - ![](./images/image_3.bf30445b.emf)
 - *differential equations:*
   - just integrate with separation of variables
 - *related rates:*
@@ -28,10 +28,10 @@
 - logistic curves:
   - 
   - 
-  - ![](image_4.cdceb8f1.emf)
+  - ![](./images/image_4.cdceb8f1.emf)
   - to go from $\frac{dP}{dt}$ to $P$, separate and use partial fractions
   - to go from $P$ to $\frac{dP}{dt}$, use a u- substitution for the denominator and implicitly differentiate
-    - ![](image_5.661d2628.png)
+    - ![](./images/image_5.661d2628.png)
 
 **motion:**
 - *rectilinear motion:*

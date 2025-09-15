@@ -7,7 +7,7 @@
     - the experiment:
       - used a monochromatic light source with two narrow slits
       - the light emerging from the slits is coherent (in phase) because a single source produced both beams of light
-    - ![Single and Double Slit Comparison](image_1.59f91fea.png)
+    - ![Single and Double Slit Comparison](./images/image_1.59f91fea.png)
     - 
   - *the photoelectric effect:*
     - einstein attributed the quantisation of energy that planck suggested to be intrinsic to the light itself, called the particles photons
@@ -18,7 +18,7 @@
         - 
       - the excess energy of the photon (after overcoming the work function) becomes the kinetic energy of the ejected electron
       - the work done by the stopping potential is equal to the maximum kinetic energy of the photoelectrons:
-    - ![](image_2.4d214fe4.png)
+    - ![](./images/image_2.4d214fe4.png)
 - ***uv catastrophe:***
   - *black body radiation:*
     - an ideal system that absorbs all energy incident on it
@@ -39,7 +39,7 @@
       4. the visible spectrum is only a small region of the whole emission spectrum
     - 
     - wien’s law could only accurately describes the short wavelength (high frequency) spectrum of thermal emission of objects, BUT fails to accurately fit the experimental data for long wavelengths (low frequency emissions)
-    - ![](image_3.6c0f82af.png)
+    - ![](./images/image_3.6c0f82af.png)
   - *planck:*
     - planck successfully derived the correct formula by assuming that electromagnetic radiation can only be emitted or absorbed in discrete quanta of energy
     - 
@@ -227,9 +227,9 @@ $$\ \ \ \ \ \ =\frac{h}{mv}$$
       - this is a strong argument against the steady-state model
 - ***nuclear fusion in stars:***
   - *proton-proton chain:*
-    - ![File:Proton-proton reaction chain.svg - Wikimedia Commons](image_4.65d25dcf.png)
+    - ![File:Proton-proton reaction chain.svg - Wikimedia Commons](./images/image_4.65d25dcf.png)
   - *CNO cycle:*
-    - ![CNO Cycle | Physics Feed](image_5.11e4dcec.jpg)
+    - ![CNO Cycle | Physics Feed](./images/image_5.11e4dcec.jpg)
 - ***chronology of the universe:***
   1. planck epoch
     - separation of gravity from the electronuclear force

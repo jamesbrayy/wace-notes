@@ -6,19 +6,22 @@
   - units of $C$
 - ***electrostatic force:***
   - coulomb's law states that the magnitude of an electric force between two point charges is directly proportional to the product of the charges and inversely proportional to the square of the distance between them
-  - 
+    - $\begin{aligned}\overrightharpoon{F}_E = \frac{1}{4\pi\varepsilon_0} \frac{q_1 q_2}{r^2}\end{aligned}$
   - in a tri-charge system, calculate the forces exerted from other charges and use the pythagorean theorem or…
-    - 
+    - $\begin{aligned}\overrightharpoon{F}_{E \to q_0} = \frac{q_0}{4\pi\varepsilon_0} \sum_{i=1}^{N} \frac{ \overrightharpoon{r} - \overrightharpoon{r}_i }{ \left| \overrightharpoon{r} - \overrightharpoon{r}_i \right|^3 }q_i \end{aligned}$
 - ***electric fields:***
   - an electric field is a region of influence that surrounds a charged particle
   - the assigned direction of an electric field at a given point is the direction in which a positive test charge would move under the influence of the field
   - uniform electric fields produce the parabolic motion of a charge as they provide constant acceleration in the same direction
   - *electric field strength:*
-    - the electric field strength ($\stackrel{\u20d1}{E}$) is defined as the force per unit positive charge at a specific point in space
-    - 
+    - the electric field strength ($\overrightharpoon{E}$) is defined as the force per unit positive charge at a specific point in space
+    - $\begin{aligned}\overrightharpoon{E} &= \frac{\overrightharpoon{V}}{\overrightharpoon{s}} \\ &= \frac{\overrightharpoon{F}_E}{q} \end{aligned}$
       - units of $N{C}^{-1}$ or $V{m}^{-1}$
   - *work:*
-    - 
+    - $\begin{aligned}
+    W &= \Delta E \\
+    &= q \Delta V
+    \end{aligned}$
     - the field will do work on the charged particle when:
       - a positive charge moves with the field
       - a negative charge moves against the field
@@ -53,10 +56,16 @@
     - materials with narrow loops (*e.g.* soft iron) require very little energy to lose domain alignment, making them ideal for minimising energy loss in AC applications like transformer cores
     - materials with wide loops (*e.g.* hard iron) retain domain alignment, making them ideal for permanent magnets
 - ***magnetic force:***
-  - on a charged particle:
-    - 
+  - on a moving charged particle:
+    - $\begin{aligned}
+    \overrightharpoon{F}_B &= q \left( \overrightharpoon{v} \times \overrightharpoon{B} \right) \\
+    \left| \overrightharpoon{F}_B \right|&= q \left| v \right| \left| B \right| \sin\theta
+    \end{aligned}$
   - on a current-carrying conductor:
-    - 
+    - $\begin{aligned}
+    \overrightharpoon{F}_B &= I \left( \overrightharpoon{L} \times \overrightharpoon{B} \right) \\
+    \left| \overrightharpoon{F}_B \right| &= I \left| \overrightharpoon{L}\right| \left| \overrightharpoon{B} \right| \sin\theta
+    \end{aligned}$
 - ***magnetic fields:***
   - a magnetic field is a region of influence that surrounds a magnetic material
   - magnets are always dipolar unlike electric charges which can exist as isolated monopoles
@@ -70,7 +79,10 @@
 - ***magnetic flux:***
   - magnetic flux is a measurement of the total magnetic field that passes through a given area
     - effectively a measurement of the concentration of the magnetic field
-  - 
+  - $\begin{aligned}
+  \Phi &= \overrightharpoon{B} \cdot \overrightharpoon{A}_\perp \\
+  &= \left| \overrightharpoon{B} \right| \, \left| \overrightharpoon{A} \right| \cos\theta
+  \end{aligned}$
     - where $\mathit{\theta}$ is the angle between the normal vector of the area and the direction of the magnetic field
     - units of $Wb$ or $T{m}^{2}$ or $Vs$
 
@@ -82,7 +94,10 @@
   - electromagnetic induction is the production of an electromotive force and thus current across an electrical conductor due to its interaction with an external magnetic field
   - *faraday's law:*
     - "the induced EMF in a conductor is proportional to the rate of change of magnetic flux with respect to time"
-    - 
+    - $\begin{aligned}
+    \varepsilon &= -\frac{d\Phi}{dt} \\
+    &\approx -\frac{\Delta\Phi}{\Delta t}
+    \end{aligned}$
   - *lenz's law:*
     - "the direction of the induced EMF and thus the associated current will be such as to oppose the change in magnetic flux that induced it" or "if the magnetic flux increases, the induced EMF and current will be in such a direction to decrease the net magnetic flux"
     - required by the conservation of energy as otherwise magnets and solenoids would form positive feedback loops and accelerate without work being done on the system
@@ -94,25 +109,28 @@
     - the induced magnetic field interacts with the external magnetic field to create a \_\_\_\_\_ force
   - *graphing changes in EMF:*
     - for a magnet dropped through a coil (accelerating):
-      - ![Electricity - detailed contents](image_1.e3c40bbc.jpg)
+      - ![Electricity - detailed contents](./images/image_1.e3c40bbc.jpg)
   - *motional induced EMF:*
     - when a metal conductor moves in an external magnetic field, forces will be exerted on the charged particles within it
     - the forces on the different charges will be in different directions, creating a separation of charges across its direction of movement and thus an induced EMF
     - realistically, only the delocalised electrons within the metal will move as the positively charged atomic nuclei are locked into a lattice
-    - 
-- ***hand rules (thumb, 1******^st^******, 2******^nd^******):***
-  - *fleming's left-hand rule (*$\stackrel{\u20d1}{F}$, $\stackrel{\u20d1}{B}$, $I$*):*
-    - use when a ==current is flowing== through a conductor in a magnetic field and you want to find the ==direction of the force== on that conductor
+    - $\begin{aligned}
+    \varepsilon &= \left( \overrightharpoon{v} \times \overrightharpoon{B} \right) \cdot \overrightharpoon{L} \\
+    &= \left| \overrightharpoon{v} \right| \left| \overrightharpoon{B} \right| \left| \overrightharpoon{L} \right| \sin\theta
+    \end{aligned}$
+- ***hand rules (thumb, $\bm{1^{st}}$, $\bm{2^{nd}}$):***
+  - *fleming's left-hand rule ($\overrightharpoon{F}$, $\overrightharpoon{B}$, $I$):*
+    - use when a current is flowing through a conductor in a magnetic field and you want to find the direction of the force on that conductor
     - also called the motor rule
-  - *fleming's right-hand rule (*$\stackrel{\u20d1}{F}$, $\stackrel{\u20d1}{B}$, $I$*):*
-    - use when a ==conductor is moving== in a magnetic field and you want to find the ==direction of motional EMF / current== in the conductor
+  - *fleming's right-hand rule ($\overrightharpoon{F}$, $\overrightharpoon{B}$, $I$):*
+    - use when a conductor is moving in a magnetic field and you want to find the direction of motional EMF / current in the conductor
     - also called the generator rule
-  - *lorentz right-hand rule (*$F$, $\stackrel{\u20d1}{v}$, $\stackrel{\u20d1}{B}$*):*
+  - *lorentz right-hand rule ($\overrightharpoon{F}$, $\overrightharpoon{v}$, $\overrightharpoon{B}$):*
     - use when a charged particle is moving in magnetic field to find the direction of the force on the particle
     - also called the motional EMF rule
   - *ampere's right-hand grip rule:*
     - use to find the direction of the magnetic field around a current-carrying conductor
-    - fingers curl in the direction of the magnetic field $\stackrel{\u20d1}{B}$ and thumb points in the direction of the current $I$
+    - fingers curl in the direction of the magnetic field $\overrightharpoon{B}$ and thumb points in the direction of the current $I$
 
 **applications of electromagnetism:**
 - ***DC motors:***
@@ -124,10 +142,19 @@
     - brushes: supplies current to the rotating split-ring commutator from a stationary circuit
   - *functionality:*
     1. current flows through the rotor and generates a magnetic field by ampere's law
-    2. the rotor field interacts with the approximately uniform stator field, producing equal and opposite forces to be exerted on the rotor and stator by newton's 3^rd^ law
+    2. the rotor field interacts with the approximately uniform stator field, producing equal and opposite forces to be exerted on the rotor and stator by newton's $3^{\mathrm{rd}}$ law
     3. the forces exerted on opposite sides of the rotor act at a distance from the rotation axis in opposing directions, producing a net torque that rotates the rotor in a single direction while the fixed stator experiences no motion
     4. the split-ring commutator reverses the current in the rotor every half rotation, maintaining the torque direction and enabling continuous rotation
-  - ![DC Electric Motors](image_2.40808227.png)
+  - ![DC Electric Motors](./images/image_2.40808227.png)
+  - *torque:*
+    - $\begin{aligned}
+      \vec{\tau}
+      &= r \overrightharpoon{F}_\perp \\
+      &= r |\overrightharpoon{\overrightharpoon{F}}| \sin\theta \\
+      \vec{\tau}_{\max} &= n\,2r\,|\overrightharpoon{F}| \sin\theta \\
+      &= n\,2r\,I\,|\overrightharpoon{L}|\,|\overrightharpoon{B}| \sin\theta \\
+      &= n\,A\,I\,|\overrightharpoon{B}| \sin\theta
+      \end{aligned}$
 - ***generators:***
   - a generator is a device that converts mechanical energy into electrical energy
   - *components of an AC generator:*
@@ -143,17 +170,23 @@
   - to produce DC, a split-ring commutator can be used which will ensure the polarity of the current is the same at all points in the cycle despite a changing magnitude
   - *maximum EMF:*
     - an AC generator produces an AC voltage, with the peak voltage given by the below formula
-    
-    
-    $$\therefore \ {\epsilon}_{max}=2\mathit{\pi}\left|\stackrel{\u20d1}{B}\right|\left|\stackrel{\u20d1}{A}\right|nf$$
-$$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ =2nv\stackrel{\u20d1}{B}l$$
+      - $\begin{aligned}
+\Phi
+   &= n |\overrightharpoon{B}| |\overrightharpoon{A}| \cos(2\pi f t) \\[1.2ex]
+\frac{d\Phi}{dt}
+   &= 2\pi f n |\overrightharpoon{B}|  |\overrightharpoon{A}| \sin(2\pi f t) \quad \quad , \text{maximum will occur when} \sin(2\pi f t)=1\\[1.2ex]
+\therefore \varepsilon_{\max}
+   &= 2\pi |\overrightharpoon{B}| |\overrightharpoon{A}| n f \\
+      &= 2 n \left| \overrightharpoon{v} \right| \left| \overrightharpoon{B} \right| \left| \overrightharpoon{L} \right|
+\end{aligned}
+$
     - in order to apply standard circuit equations to the AC, the root mean square (RMS) voltage must be considered instead of the peak voltage
       - the RMS voltage represents the equivalent DC voltage that would deliver the same power to a resistive load
       
 - ***self-induction:***
   - self-induction is the process by which a changing current in a conductor induces EMF in the same conductor
   - *consider the below circuit:*
-    - ![A battery, an open switch and a resistor are connected in series as sh](image_3.3791af6a.png)
+    - ![A battery, an open switch and a resistor are connected in series as sh](./images/image_3.3791af6a.png)
     - when the switch is closed, current flows through the circuit due to the voltage supply
     - this $\mathrm{\Delta}I$ results in a $\mathrm{\Delta}\mathrm{\Phi}$ and thus an induced EMF by faraday's law
     - this EMF is known as back EMF and will oppose the change in current that caused it by lenz's law, reducing the net rate at which current is drawn
@@ -191,8 +224,8 @@ $$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ =2nv\stackrel{\u20d1}{B}l$$
     - the alternating magnetic flux permeates through the transformer core and passes through the secondary coil, which induces an alternating EMF and associated current by faraday's law
     - if the number of windings on the secondary is greater than the number on the primary, there will be more charged particles to experience the magnetic force and a larger EMF will be induced
       - this comes at the compromise of a decreased current
-    - 
-    - 
+    - $\begin{aligned}\frac{V_s}{V_p} = \eta \frac{n_s}{n_p}\end{aligned}$
+    - $\begin{aligned}\frac{I_s}{I_p} = \frac{n_p}{n_s}\end{aligned}$
   - *types of transformer:*
     - step-up transformers have a $1:\_$ ratio as ${n}_{s}>{n}_{p}$ causing ${V}_{s}>{V}_{p}$
     - step-down transformers have a $\_:1$ ratio as ${n}_{s}<{n}_{p}$ causing ${V}_{s}<{V}_{p}$
