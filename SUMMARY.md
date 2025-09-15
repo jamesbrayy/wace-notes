@@ -1,11 +1,11 @@
 # Table of contents
 
 * [specialist](specialist/intro.md)
-  * [calculus](specialist/calculus.md)
   * [complex numbers](<specialist/complex numbers.md>)
   * [functions](specialist/functions.md)
-  * [relevant calcs:](<specialist/sample means.md>)
-  * [basics:](specialist/vectors.md)
+  * [vectors](specialist/vectors.md)
+  * [calculus](specialist/calculus.md)
+  * [sample means](<specialist/sample means.md>)
 * [physics](physics/intro.md)
   * [motion and forces](<physics/motion and forces.md>)
   * [circular motion](<physics/circular motion.md>)

@@ -20,14 +20,14 @@
 ### *implicit differentiation:*
   - $$\frac{d}{dx} \big(x^p + y^q \big) = p x^{p-1} + \frac{dy}{dx} \, q y^{q-1}$$
 ### *logarithmic differentiation:*
-  - ![](./images/image_3.bf30445b.emf)
+  - ![](./images/image_3.bf30445b.png)
 ### *differential equations:*
   - just integrate with separation of variables
 ### *related rates:*
   - just write down all parameters at start of question and remember $\frac{dy}{dx}=\frac{dy}{dz}\times \frac{dz}{dx}$
 ### logistic curves:
   - $$\begin{aligned}\frac{dP}{dt} &= r P (k - P) \\P &= \frac{k}{1 + \left( \frac{k}{P_0} - 1 \right) e^{-r k t}}\end{aligned}$$
-  - ![](./images/image_4.cdceb8f1.emf)
+  - ![](./images/image_4.cdceb8f1.png)
   - to go from $\frac{dP}{dt}$ to $P$, separate and use partial fractions
   - to go from $P$ to $\frac{dP}{dt}$, use a u- substitution for the denominator and implicitly differentiate
     - ![](./images/image_5.661d2628.png)
