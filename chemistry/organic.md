@@ -4,27 +4,28 @@
 
 ## **hydrocarbons**
 
-* _alkanes:_
-  * contain only single C-C bonds (saturated)
+#### _alkanes_
+  * contain only single $$\mathrm{C-C}$$ bonds (saturated)
   * always demonstrate the formula $$\mathrm{C_nH_{2n+2}}$$
   * _substitution reactions:_
     * slow
     * require UV light for halogens
-* _alkenes:_
+#### _alkenes_
   * contain at least one double C=C bond (unsaturated)
   * demonstrate the formula $$\mathrm{C_nH_{2n}}$$
   * _addition reactions:_
     * substances such as halogens, hydrogen, hydrogen halides will readily add across the double bond
     * fast
     * once the reaction has completed, substitution can occur if exposed to UV light
-* _aromatic compounds:_
+#### _aromatic compounds_
   * aromatic compounds are composed of a benzene ring with atoms/groups bonded to it
+  * all the carbon-carbon bonds in benzene are equivalent, meaning they are neither single nor double bonds; they are all te same length somewhere between the length of a single and double carbon-carbon bond
 
 ## **functional groups**
 
 #### _alcohols ($$-\mathrm{OH}$$):_
   * _types of alcohols:_
-    * primary alcohols have 1 carbon atom attached to the carbon atom that the -OH group is bonded to
+    * primary alcohols have 1 carbon atom attached to the carbon atom that the $$\mathrm{OH}$$ group is bonded to
     * secondary alcohols have 2, and tertiary alcohols have 3
   * _physical properties:_
     * boiling point is higher than that of the parent alcohol
@@ -100,7 +101,7 @@
 * proteins are macromolecules consisting of amino acid monomers joined together by peptide linkages
   * ![](images/image_5.fc3f5f79.png)
 * sequences of less than 50 amino acids are typically called peptides
-* _protein structure:_
+#### _protein structure_
   * _primary structure:_
     * the primary structure of a protein is given by the amino acids sequence of the protein
   * _secondary structure:_
@@ -123,7 +124,7 @@
 
 ## **soaps and detergents**
 
-* _fats and oils:_
+#### _fats and oils_
   * soaps are derived from natural fats and oils (esters referred to as triglycerides) and are formed from the same alcohol precursor (glycerol / triol)
     * ![](images/image_9.1e8b7298.png)
   * glycerol requires a carboxylic acid (normally referred to as a fatty acid) to form a triester fat
@@ -131,8 +132,8 @@
     * ![](images/image_10.5610b8e0.png)
   * _properties:_
     * the long hydrocarbon chains of the fat (triglyceride) is non-polar meaning dispersion forces over most molecules are predominant
-    * animal fats are usually saturated (_i.e._ single C-C bond) whereas plant oils are often unsaturated (_i.e._ containing at least one C=C bond)
-* _hydrolysis of triglycerides:_
+    * animal fats are usually saturated (_i.e._ single $$\mathrm{C-C}$$ bond) whereas plant oils are often unsaturated (_i.e._ containing at least one C=C bond)
+#### _hydrolysis of triglycerides_
   * triglycerides may be hydrolysed using a strong base such as $$\mathrm{NaOH}$$ or $$\mathrm{KOH}$$ to produce glycerol and the salt of the long chain fatty acid in a process known as saponification
   * the salt of the fatty acid precipitates and is removed by filtration
   * ![](images/image_11.f8bf4e33.png)
@@ -154,7 +155,7 @@
 
 ## **biodiesel**
 
-* _transesterification:_
+#### _transesterification_
   * a triester (vegetable oil) has its three fatty acids removed
   * the fatty acids react with a small alcohol molecule to produce three esters
   * ![](images/image_15.b33aa6a1.png)
