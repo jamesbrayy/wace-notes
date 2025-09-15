@@ -1,5 +1,5 @@
 # **quantum theory:**
-- ***evidence for wave-particle duality:***
+### ***evidence for wave-particle duality:***
   - *young's double-slit experiment:*
     - thomas young proposed that light was a wave and so it was therefore subject to the superposition principle
     - explanation was based on constructive and destructive interference producing bright and dark bands, which was empirically observed
@@ -19,7 +19,8 @@
       - the excess energy of the photon (after overcoming the work function) becomes the kinetic energy of the ejected electron
       - the work done by the stopping potential is equal to the maximum kinetic energy of the photoelectrons:
     - ![](./images/image_2.4d214fe4.png)
-- ***uv catastrophe:***
+
+### ***uv catastrophe:***
   - *black body radiation:*
     - an ideal system that absorbs all energy incident on it
       - absorbs all radiation falling on it, at all frequencies
@@ -54,7 +55,7 @@
     - for a given energy there is a highest possible frequency that a blackbody can emit
       - 
 
-- ***photoelectric effect:***
+### ***photoelectric effect:***
   - electromagnetic radiation transmits energy, so when this radiation interacts with a piece of metal, the surface of the metal absorbs some of the radiated energy
   - some of the electrons in the atoms at the surface of the metal absorb enough energy to delocalise them
     - these electrons are called photoelectrons
@@ -86,7 +87,7 @@
       - the maximum kinetic energy of the emitted electrons was determined from $${E}_{k}=q{V}_{0}$$
       - confirmed that maximum kinetic energy given by $${E}_{k}=q{V}_{0}$$ independent of intensity, linear with light frequency, confirming Einstein’s photoelectric equation $${E}_{k}=hf-\mathit{\phi}$$
       
-- ***de broglie wavelength:***
+### ***de broglie wavelength:***
   -  $$$${\mathit{\lambda}}_{d}=\frac{h}{p}$$$$
 $$$$\ \ \ \ \ \ =\frac{h}{mv}$$$$
   - any particle with momentum has a wavelength
@@ -113,7 +114,7 @@ $$$$\ \ \ \ \ \ =\frac{h}{mv}$$$$
       - this light then strikes a phosphor layer on the inner surface of the tube the phosphors are excited by the absorption of the UV photons and fluoresce, decaying to give lower frequency photons that combine to produce white light
       - different phosphors can be used to produced different colours of light
     - 
-- ***photovoltaic cells:***
+### ***photovoltaic cells:***
   - a photovoltaic cell is a device that converts light energy directly into electrical energy utilising the photoelectric effect
   - *how it works:*
     1. light hits the cell
@@ -126,7 +127,7 @@ $$$$\ \ \ \ \ \ =\frac{h}{mv}$$$$
     4. current generation
       - separated charge carriers flow through an external circuit, producing a direct current
       - the output voltage is set by the junction potential, while current depends on light intensity
-- ***lasers:***
+### ***lasers:***
   - stands for **l**ight **a**mplification by **s**timulated **e**mission of **r**adiation
   - produces highly focused, coherent, and monochromatic light
   - *how it works:*
@@ -142,7 +143,7 @@ $$$$\ \ \ \ \ \ =\frac{h}{mv}$$$$
 # **special relativity:**
 - at high speeds, the laws of classical mechanics break down and cannot be used to explain or predict observed behaviour and phenomenon
 - the special theory of relativity explains and quantifies the behaviour of objects travelling at relativistic ($$>0.1c$$) speeds
-- ***experiments:***
+### ***experiments:***
   - *michelson-morley experiment:*
     - aim was to detect earth's movement through the aether by measuring changes in light speed in different directions
     - used an interferometer to split a beam of light into two perpendicular paths
@@ -155,7 +156,7 @@ $$$$\ \ \ \ \ \ =\frac{h}{mv}$$$$
     - this is because the relative length from a muon's frame of reference is significantly shorter, allowing it to travel further in its proper mean lifetime
 
 # **particles of the standard model:**
-- ***bosons (force-mediating particles):***
+### ***bosons (force-mediating particles):***
   - follow bose-einstein statistics and have integer spin
   - *elementary bosons:*
     - gauge bosons:
@@ -172,7 +173,7 @@ $$$$\ \ \ \ \ \ =\frac{h}{mv}$$$$
   - *composite bosons:*
     - mesons:
       - bosonic hadrons composed of a quark-antiquark pair
-- ***fermions (matter particles):***
+### ***fermions (matter particles):***
   - follow fermi-dirac statistics and have half-integer spin
   - *elementary fermions:*
     - leptons:
@@ -188,29 +189,31 @@ $$$$\ \ \ \ \ \ =\frac{h}{mv}$$$$
   - *composite fermions:*
     - baryons:
       - fermionic hadrons composed of 3 quarks
-***rules for feynman diagrams:***
+
+### ***rules for feynman diagrams:***
 1. fermions are drawn as straight lines
 2. bosons are drawn as wavy lines and are locked between vertices
 3. time goes forwards up the page and space to the right
   - direction through space is only assigned to conserve other properties
 4. matter travels upwards and antimatter travels downwards
 5. arrows maintain direction at vertices
-**the universe:**
-- ***astronomical measures:***
+
+# **the universe:**
+### ***astronomical measures:***
   - light year
   - astronomical unit (
   - parsec
-- ***doppler shift:***
+### ***doppler shift:***
   - doppler shift is the change in wavelength of radiation due to the relative motion between the source and observer along the line of sight
     - if a source is travelling away from us, we observe red shift
     - if a source is travelling towards us, we observe blue shift
-- ***hubble's law:***
+### ***hubble's law:***
   - the redshift of a cosmic object is directly proportional to its distance through $${v}_{object}={H}_{0}d$$
     - where $${H}_{0}$$ is hubble's constant ($$km\ {s}^{-1}\ {Mpc}^{-1}$$) and $$d$$ is the distance of the object ($$Mpc$$)
   - the inverse of $${H}_{0}$$ is proposed to give the time that the universe had zero volume and existed at a single point in space known as a singularity
   - one issue that can impact data is that the closer galaxies can be moving towards us, and rotating spiral galaxies close to us can be approaching on one side and receding on the other
     - however, further galaxies all show a common recession as these irregularities become negligible due to the proposed expansion of the universe
-- ***evidence for the big bang theory:***
+### ***evidence for the big bang theory:***
   - *cosmic microwave background radiation (CMBR):*
     - theory predicts that after the big bang there would have been a large release of high energy radiation
     - this radiation would have experienced redshift and decreased in frequency as it moves away from us
@@ -225,12 +228,12 @@ $$$$\ \ \ \ \ \ =\frac{h}{mv}$$$$
     - this result is matched experimentally
     - furthermore, galaxies that have formed recently appear markedly different from galaxies formed at similar distances but shortly after the big bang due to their environments
       - this is a strong argument against the steady-state model
-- ***nuclear fusion in stars:***
+### ***nuclear fusion in stars:***
   - *proton-proton chain:*
     - ![File:Proton-proton reaction chain.svg - Wikimedia Commons](./images/image_4.65d25dcf.png)
   - *CNO cycle:*
     - ![CNO Cycle | Physics Feed](./images/image_5.11e4dcec.jpg)
-- ***chronology of the universe:***
+### ***chronology of the universe:***
   1. planck epoch
     - separation of gravity from the electronuclear force
   2. grand unification epoch

@@ -3,12 +3,12 @@
 - direction is constantly changing and hence velocity is always changing despite no change in speed
   - $$\left| \overrightharpoon{v}\right|=2\pi rf$$
 - the direction of velocity is always tangential to the path of motion, while the direction of acceleration is always perpendicular to the velocity of the body
-- ***centripetal force:***
+### ***centripetal force:***
   - centripetal force is the net force directed towards the centre of curvature that keeps an object moving in uniform circular motion
   - as it is a description of the direction the net force is acting in and thus should not be drawn on free-body diagrams
   - $$
 \begin{aligned}\overrightharpoon{F}_c &= m \overrightharpoon{a}_c = \frac{m \left| \overrightharpoon{v} \right|^2}{r} \, \hat{r} \\[1ex]\left| \overrightharpoon{F}_c \right| &= \frac{m v^2}{r} \\[1ex]&= \frac{m \left( 2\pi r f \right)^2}{r} \\[1ex]&= 4 \pi^2 m r f^2\end{aligned}$$
-- ***centrifugal force:***
+### ***centrifugal force:***
   - centrifugal force is the sensation that a body feels while moving in a circular path due to being in a non-inertial reference frame
   - it is not to be confused with centripetal force or any other force for that matter as it is only a descriptive tool for the physical sensation of centripetal acceleration
 - ***constant speed vs constant period:***
@@ -24,7 +24,7 @@
   - if $${v}_{body}<{v}_{opt}$$, the required $$\left| \overrightharpoon{F}_c \right|$$ is decreased assuming $$m$$ and $$g$$ are constant
     - to maintain the ratio of $${v}^{2}:r$$, the radius of the path of the body must decrease
     - this means there must be friction acting between the body and the slope to keep it from sliding down the incline
-- ***derivation of $$\bm{v_{opt}}$$***
+### ***derivation of $$\bm{v_{opt}}$$***
 
   $$
   \begin{aligned}
@@ -37,13 +37,13 @@
   \end{aligned}
   $$
 
-- ***example question:***
+### ***example question:***
   - ![](./images/image_2.518856ba.png)
 
 # **vertical centripetal motion:**
-- ***upwards circular path:***
+### ***upwards circular path:***
   - ![](./images/image_3.d4adc590.png)
-- ***downwards circular path:***
+### ***downwards circular path:***
   - ![](./images/image_4.db8ba1ad.png)
-- ***loop-the-loop:***
+### ***loop-the-loop:***
   - ![](./images/image_5.3e9dcf7b.png)

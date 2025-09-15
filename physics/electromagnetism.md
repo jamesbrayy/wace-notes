@@ -1,15 +1,15 @@
 
 -----
 # **electrostatics:**
-- ***charge:***
+### ***charge:***
   - charge is a fundamental property of subatomic particles that governs how they are affected by an external electric or magnetic field.
   - units of $$C$$
-- ***electrostatic force:***
+### ***electrostatic force:***
   - coulomb's law states that the magnitude of an electric force between two point charges is directly proportional to the product of the charges and inversely proportional to the square of the distance between them
     - $$\begin{aligned}\overrightharpoon{F}_E = \frac{1}{4\pi\varepsilon_0} \frac{q_1 q_2}{r^2}\end{aligned}$$
   - in a tri-charge system, calculate the forces exerted from other charges and use the pythagorean theorem or…
     - $$\begin{aligned}\overrightharpoon{F}_{E \to q_0} = \frac{q_0}{4\pi\varepsilon_0} \sum_{i=1}^{N} \frac{ \overrightharpoon{r} - \overrightharpoon{r}_i }{ \left| \overrightharpoon{r} - \overrightharpoon{r}_i \right|^3 }q_i \end{aligned}$$
-- ***electric fields:***
+### ***electric fields:***
   - an electric field is a region of influence that surrounds a charged particle
   - the assigned direction of an electric field at a given point is the direction in which a positive test charge would move under the influence of the field
   - uniform electric fields produce the parabolic motion of a charge as they provide constant acceleration in the same direction
@@ -32,7 +32,7 @@
     - uniform electric fields produce parallel and evenly spaced lines
 
 # **magnetism:**
-- ***domain theory of magnetism:***
+### ***domain theory of magnetism:***
   - a domain is a small region of spontaneous magnetism that exists even when no external magnetic field is present due to the alignment of magnetic moments of a group of atoms
   - to magnetise a material, these domains must change so that they coalesce to form a singular domain
   - *ferromagnetic materials:*
@@ -52,12 +52,12 @@
     - the area bound by a hysteresis loop of represents the amount of energy required to take it through a complete magnetisation and demagnetisation cycle
     - materials with narrow loops (*e.g.* soft iron) require very little energy to lose domain alignment, making them ideal for minimising energy loss in AC applications like transformer cores
     - materials with wide loops (*e.g.* hard iron) retain domain alignment, making them ideal for permanent magnets
-- ***magnetic force:***
+### ***magnetic force:***
   - on a moving charged particle:
     - $$\begin{aligned}    \overrightharpoon{F}_B &= q \left( \overrightharpoon{v} \times \overrightharpoon{B} \right) \\ \left| \overrightharpoon{F}_B \right|&= q \left| v \right| \left| B \right| \sin\theta \end{aligned}$$
   - on a current-carrying conductor:
     - $$\begin{aligned} \overrightharpoon{F}_B &= I \left( \overrightharpoon{L} \times \overrightharpoon{B} \right) \\ \left| \overrightharpoon{F}_B \right| &= I \left| \overrightharpoon{L}\right| \left| \overrightharpoon{B} \right| \sin\theta \end{aligned}$$
-- ***magnetic fields:***
+### ***magnetic fields:***
   - a magnetic field is a region of influence that surrounds a magnetic material
   - magnets are always dipolar unlike electric charges which can exist as isolated monopoles
   - uniform magnetic fields produce the circular motion of a charge as they act perpendicular to the particle's velocity, providing a constant centripetal acceleration without changing the particle's speed
@@ -67,7 +67,7 @@
   - *earth's magnetic field:*
     - the earth's magnetic field is caused by convection currents within the core generating electric current through the friction between the molten layers of rocks
     - magnetic declination is the angular difference between the magnetic and geographic poles, while magnetic inclination is the angle that the earth's magnetic field makes with the ground
-- ***magnetic flux:***
+### ***magnetic flux:***
   - magnetic flux is a measurement of the total magnetic field that passes through a given area
     - effectively a measurement of the concentration of the magnetic field
   - $$\begin{aligned} \Phi &= \overrightharpoon{B} \cdot \overrightharpoon{A}_\perp \\ &= \left| \overrightharpoon{B} \right| \, \left| \overrightharpoon{A} \right| \cos\theta \end{aligned}$$
@@ -75,10 +75,10 @@
     - units of $$Wb$$ or $$T{m}^{2}$$ or $$Vs$$
 
 # **principles of electromagnetism:**
-- ***electromotive force (EMF):***
+### ***electromotive force (EMF):***
   - electromotive force is a difference in potential that gives rise to an electric current
     - units of $$V$$ or $$J{C}^{-1}$$ or $$kg\ {m}^{2}\ {s}^{-3}\ {A}^{-1}$$
-- ***electromagnetic induction:***
+### ***electromagnetic induction:***
   - electromagnetic induction is the production of an electromotive force and thus current across an electrical conductor due to its interaction with an external magnetic field
   - *faraday's law:*
     - "the induced EMF in a conductor is proportional to the rate of change of magnetic flux with respect to time"
@@ -100,7 +100,7 @@
     - the forces on the different charges will be in different directions, creating a separation of charges across its direction of movement and thus an induced EMF
     - realistically, only the delocalised electrons within the metal will move as the positively charged atomic nuclei are locked into a lattice
     - $$\begin{aligned} \varepsilon &= \left( \overrightharpoon{v} \times \overrightharpoon{B} \right) \cdot \overrightharpoon{L} \\ &= \left| \overrightharpoon{v} \right| \left| \overrightharpoon{B} \right| \left| \overrightharpoon{L} \right| \sin\theta \end{aligned}$$
-- ***hand rules (thumb, $$\bm{1^{st}}$$, $$\bm{2^{nd}}$$):***
+### ***hand rules (thumb, $$\bm{1^{st}}$$, $$\bm{2^{nd}}$$):***
   - *fleming's left-hand rule ($$\overrightharpoon{F}$$, $$\overrightharpoon{B}$$, $$I$$):*
     - use when a current is flowing through a conductor in a magnetic field and you want to find the direction of the force on that conductor
     - also called the motor rule
@@ -115,7 +115,7 @@
     - fingers curl in the direction of the magnetic field $$\overrightharpoon{B}$$ and thumb points in the direction of the current $$I$$
 
 # **applications of electromagnetism:**
-- ***DC motors:***
+### ***DC motors:***
   - a motor is a device that converts electrical energy into mechanical energy
   - *components of a DC motor:*
     - rotor: the moving part of a motor that carries the windings through which current flows
@@ -130,7 +130,7 @@
   - ![DC Electric Motors](./images/image_2.40808227.png)
   - *torque:*
     - $$\begin{aligned} \vec{\tau} &= r \overrightharpoon{F}_\perp \\ &= r |\overrightharpoon{\overrightharpoon{F}}| \sin\theta \\ \vec{\tau}_{\max} &= n\,2r\,|\overrightharpoon{F}| \sin\theta \\ &= n\,2r\,I\,|\overrightharpoon{L}|\,|\overrightharpoon{B}| \sin\theta \\ &= n\,A\,I\,|\overrightharpoon{B}| \sin\theta \end{aligned}$$
-- ***generators:***
+### ***generators:***
   - a generator is a device that converts mechanical energy into electrical energy
   - *components of an AC generator:*
     - rotor: the moving part of a generator that carries the windings in which current is generated
@@ -148,8 +148,7 @@
       - $$\begin{aligned}\Phi &= n |\overrightharpoon{B}| |\overrightharpoon{A}| \cos(2\pi f t) \\[1.2ex] \frac{d\Phi}{dt} &= 2\pi f n |\overrightharpoon{B}|  |\overrightharpoon{A}| \sin(2\pi f t) \quad \quad , \text{maximum will occur when} \sin(2\pi f t)=1\\[1.2ex] \therefore \varepsilon_{\max} &= 2\pi |\overrightharpoon{B}| |\overrightharpoon{A}| n f \\ &= 2 n \left| \overrightharpoon{v} \right| \left| \overrightharpoon{B} \right| \left| \overrightharpoon{L} \right| \end{aligned} $$
     - in order to apply standard circuit equations to the AC, the root mean square (RMS) voltage must be considered instead of the peak voltage
       - the RMS voltage represents the equivalent DC voltage that would deliver the same power to a resistive load
-      
-- ***self-induction:***
+### ***self-induction:***
   - self-induction is the process by which a changing current in a conductor induces EMF in the same conductor
   - *consider the below circuit:*
     - ![A battery, an open switch and a resistor are connected in series as sh](./images/image_3.3791af6a.png)
@@ -169,7 +168,7 @@
       - when the motor is under load, the rotational speed and back EMF decrease, resulting in an increase in the net EMF and current as well as torque (if the motor runs too slowly, the large current can cause overheating)
       - if the motor is jammed, the rotational speed and back EMF are zero leading to a large current and potentially overheating
       - when the motor is spinning freely, the rotational speed and back EMF are at their maximum, so net EMF and current are at a minimum (current is just sufficient to provide the torque to overcome friction and air resistance)
-- ***eddy currents:***
+### ***eddy currents:***
   - faraday's law states that the induced EMF in a conductor is proportional to the rate of change of magnetic flux with respect to time
   - when a bulk piece of metal experiences a change in magnetic flux, an EMF and corresponding currents are induced due to electrons circulating throughout the metal
     - these currents are known as eddy currents
@@ -180,7 +179,7 @@
     - the eddy currents induced will experience a force opposing the direction of motion of the plate due to their interactions with the external magnetic field
     - when the plate is entirely within the magnetic field, $$\mathrm{\Delta}\mathrm{\Phi}=0$$ and therefore no more EMF is induced
   - if slots are cut into the plate, the eddy currents and corresponding retarding forces due to the external magnetic field are reduced as they prevent the formation of large current loops thus reducing the magnitude of current
-- ***transformers:***
+### ***transformers:***
   - a transformer is a device for transferring power from one coil to another to either raise or lower AC voltage
   - an ideal transformer neglects losses to resistive heating in the primary coil and assumed ideal coupling through the core to the secondary coil
     - in reality there will be power loss and a decrease in efficiency
