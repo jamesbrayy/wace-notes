@@ -7,7 +7,7 @@
 * $$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2 + (z_2 - z_1)^2}$$
 * $$\text{midpoint} = \left(\frac{x_1+x_2}{2}, \frac{y_1+y_2}{2}, \frac{z_1+z_2}{2}\right)$$
 * ### _vector projection:_
-  * ![](../specialist/images/image_1.a2a38ccd.png)
+  * ![](images/image_1.a2a38ccd.png)
 
 **cross product:**
 
@@ -16,7 +16,7 @@
 * $$\left|\underset{\sim}{\bm{a}}\times \underset{\sim}{\bm{b}}\right|=\left|\underset{\sim}{\bm{a}}\right|\left|\underset{\sim}{\bm{b}}\right|\mathrm{sin}\mathit{\theta}$$, where $$\theta$$is the angle between $$\underset{\sim}{\bm{a}}$$ and $$\underset{\sim}{\bm{b}}$$
   * this also gives the area bounded by the parallelogram formed from $$\underset{\sim}{\bm{a}}$$ and $$\underset{\sim}{\bm{b}}$$
 * _manually calculating cross product:_
-  * ![](../specialist/images/image_2.7bab86df.png)
+  * ![](images/image_2.7bab86df.png)
 
 **lines:**
 
@@ -43,9 +43,9 @@
 * consider a plane passing through position vector $$\underset{\sim}{\bm{a}}$$ and containing two non-parallel vectors $$\underset{\sim}{\bm{b}}$$ and $$\underset{\sim}{\bm{c}}$$
 * _vector equation:_
   * $$\underset{\sim}{\bm{r}} = \underset{\sim}{\bm{a}} + \lambda \underset{\sim}{\bm{b}} + \mu \underset{\sim}{\bm{c}}$$
-  * ![](../specialist/images/image_3.57965e1e.png)
+  * ![](images/image_3.57965e1e.png)
 * _cartesian equation:_
-  * ![](../specialist/images/image_4.9942acb4.png)
+  * ![](images/image_4.9942acb4.png)
   * $$
     \begin{aligned}
     (\underset{\sim}{\bm{r}} - \underset{\sim}{\bm{a}})\cdot \underset{\sim}{\bm{n}} &= 0 \\
@@ -61,7 +61,7 @@
   * where:
     * $$r$$ is the radius
     * $$\underset{\sim}{\bm{c}}$$ is the position vector of the centre
-  * ![](../specialist/images/image_5.ca78936e.png)
+  * ![](images/image_5.ca78936e.png)
 * _cartesian equation:_
   * $$(x-a)^2 + (y-b)^2 + (z-c)^2 = r^2$$
   * where:
@@ -72,13 +72,13 @@
 
 * _gaussian elimination:_
   1. form an augmented matrix from equations
-  * ![](../specialist/images/image_6.d2f641e0.png)
+  * ![](images/image_6.d2f641e0.png)
   2. conduct forward elimination
   * choose a pivot entry and eliminate all entries below the pivot by replacing rows
   * repeat for each column until the matrix is in row echelon form
-  * ![](../specialist/images/image_7.49b6a461.png)
+  * ![](images/image_7.49b6a461.png)
   3. conduct back-substitution to solve for variables
-  * ![](../specialist/images/image_8.5d9d05cd.png) note that cases 1,2, and 3 have no simultaneous solution as no point lies on all three planes at once
+  * ![](images/image_8.5d9d05cd.png) note that cases 1,2, and 3 have no simultaneous solution as no point lies on all three planes at once
 
 1. three parallel planes
 
@@ -105,10 +105,10 @@
 * \*i.e. \*$${\stackrel{~}{n}}_{1}\cdot \left({\stackrel{~}{n}}_{2}\times {\stackrel{~}{n}}_{3}\right)\ne 0$$
 * note that cases 1,2, and 3 have no simultaneous solution as no point lies on all three planes at once **closest distance:**
 * _line to point:_
-  * ![](../specialist/images/image_9.d0e0c80b.png)
+  * ![](images/image_9.d0e0c80b.png)
 * _plane to point:_
-  * ![](../specialist/images/image_10.1e6361a2.png)
+  * ![](images/image_10.1e6361a2.png)
 * _line to line:_
-  * ![](../specialist/images/image_11.0adeadff.png)
+  * ![](images/image_11.0adeadff.png)
 
 ***

@@ -27,18 +27,10 @@
 
 #### _loci:_
 
-*
-
-    ![](images/image_4.2b9ad501.png)
-*
-
-    ![](images/image_5.b3cc7a66.png)
-*
-
-    ![](images/image_6.4a4ec6c2.png)
-*
-
-    ![](images/image_7.2da05688.png)
+* ![](images/image_4.2b9ad501.png)
+* ![](images/image_5.b3cc7a66.png)
+* ![](images/image_6.4a4ec6c2.png)
+* ![](images/image_7.2da05688.png)
 
 ## **roots:**
 
