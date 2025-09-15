@@ -92,7 +92,9 @@ consider a plane passing through position vector $$\underset{\sim}{\bm{a}}$$ and
 
   3. conduct back-substitution to solve for variables
 
-  ![](images/image_8.5d9d05cd.png) note that cases 1,2, and 3 have no simultaneous solution as no point lies on all three planes at once
+  ![](images/image_8.5d9d05cd.png)
+  
+  - note that cases 1,2, and 3 have no simultaneous solution as no point lies on all three planes at once
 
 #### *_intersecting planes_*
 1. three parallel planes
