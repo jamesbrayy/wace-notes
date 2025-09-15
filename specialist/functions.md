@@ -11,10 +11,11 @@
 ## **inverse**
 - inverse functions are geometric reflections across the line $$y=x$$
 #### *domain and range:*
-  - the domain of $${f}^{-1}\left(x\right)$$ is the same as the range of $$f\left(x\right)$$
-    - *i.e.* $$dom\left({f}^{-1}\right)=ran\left(f\right)$$
-  - the range of $${f}^{-1}\left(x\right)$$ is the same as the domain of $$f\left(x\right)$$
+  - the domain of $${f}^{-1}\left(x\right)$$ is the same as the range of $$f\left(x\right)$$, but $$f(x)$$ must be restricted a one-to-one (injective) portion of its domain to ensure $${f}^{-1}$$ is a function
+    - *i.e.* $$dom\left({f}^{-1}\right)=ran\left(f\right), \quad f \text{ restricted to be injective}$$
+  - the range of $${f}^{-1}\left(x\right)$$ is the same as the domain of $$f\left(x\right)$$ (with restrictions if required)
     - *i.e.* $$ran\left({f}^{-1}\right)=dom\left(f\right)$$
+
 ## **reciprocal**
 #### *domain and range:*
   - the domain of $$\frac{1}{f\left(x\right)}$$ is all $$x$$ where $$f\left(x\right)$$ is defined and not equal to $$0$$
