@@ -20,10 +20,10 @@
 - substances that dissociate/ionise in water to form a solution that conducts electricity
 - there are strong electrolytes which completely dissociate in water and exist as ions in solution
   - $$\mathrm{NaCl}(s) \rightarrow \mathrm{Na}^{+}(aq) + \mathrm{Cl}^{-}(aq)$$
-  - ==dissociation involves two ions splitting into two separate ions==
+  - dissociation involves two ions splitting into two separate ions
 - there are also weak electrolytes which partially ionise in water and exist as both molecules and the composite ions of the molecule in solution
   - $$\mathrm{NH_3}(aq) + \mathrm{H_2O}(l) \rightleftharpoons \mathrm{NH_4}^{+}(aq) + \mathrm{OH}^{-}(aq)$$
-  - ==ionisation involves a non-ionic molecule splitting into ions==
+  - ionisation involves a non-ionic molecule splitting into ions
 
 ## **hydrolysis of salts**
 - salts are strong electrolytes and so they completely dissociate into ions
@@ -68,10 +68,10 @@
 
 ## **ocean issues**
 #### *reactions*
-  - 1. $$\mathrm{CO_2}(g) \rightleftharpoons \mathrm{CO_2}(aq)$$
-  - 2. $$\mathrm{CO_2}(aq) + \mathrm{H_2O}(l) \rightleftharpoons \mathrm{H_2CO_3}(aq)$$
-  - 3. $$\mathrm{H_2CO_3}(aq) + \mathrm{H_2O}(l) \rightleftharpoons \mathrm{HCO_3^{-}}(aq) + \mathrm{H_3O^{+}}(aq)\quad (K_1 = 2.50\times10^{-4}\ \text{at }25^\circ\mathrm{C})$$
-  - 4. $$\mathrm{HCO_3^{-}}(aq) + \mathrm{H_2O}(l) \rightleftharpoons \mathrm{CO_3^{2-}}(aq) + \mathrm{H_3O^{+}}(aq)\quad (K_2 = 4.69\times10^{-11}\ \text{at }25^\circ\mathrm{C})$$
+  1. $$\mathrm{CO_2}(g) \rightleftharpoons \mathrm{CO_2}(aq)$$
+  2. $$\mathrm{CO_2}(aq) + \mathrm{H_2O}(l) \rightleftharpoons \mathrm{H_2CO_3}(aq)$$
+  3. $$\mathrm{H_2CO_3}(aq) + \mathrm{H_2O}(l) \rightleftharpoons \mathrm{HCO_3^{-}}(aq) + \mathrm{H_3O^{+}}(aq)\quad (K_1 = 2.50\times10^{-4}\ \text{at }25^\circ\mathrm{C})$$
+  4. $$\mathrm{HCO_3^{-}}(aq) + \mathrm{H_2O}(l) \rightleftharpoons \mathrm{CO_3^{2-}}(aq) + \mathrm{H_3O^{+}}(aq)\quad (K_2 = 4.69\times10^{-11}\ \text{at }25^\circ\mathrm{C})$$
 #### *ocean acidification*
   - le châtelier's principle states that if a system at equilibrium is subjected to a change in conditions, the system will adjust to re-establish equilibrium in such a way as to partially counteract the imposed change
   - an increase in concentration of atmospheric carbon dioxide would cause equilibrium 1 to shift to the right as it dissolves into the seawater, increasing $$[\mathrm{CO_2}(aq)]$$

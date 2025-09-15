@@ -6,6 +6,8 @@
 
 * $$\begin{aligned} a\mathrm{A} + b\mathrm{B} &\rightleftharpoons c\mathrm{C} + d\mathrm{D} \quad (\text{reactants})\ (\text{products}) \end{aligned}$$
 * for any reaction, such as the one above, at equilibrium constant at a certain temperature is given by:
+  
+  $$K = \frac{[C]^c [D]^d}{[A]^a [B]^b}$$
 
 ## **le châtelier's principle**
 
