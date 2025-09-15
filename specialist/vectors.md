@@ -3,12 +3,11 @@
 ***
 
 ## **basics**
-$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2 + (z_2 - z_1)^2}$$
-
-$$\text{midpoint} = \left(\frac{x_1+x_2}{2}, \frac{y_1+y_2}{2}, \frac{z_1+z_2}{2}\right)$$
+- $$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2 + (z_2 - z_1)^2}$$
+- $$\text{midpoint} = \left(\frac{x_1+x_2}{2}, \frac{y_1+y_2}{2}, \frac{z_1+z_2}{2}\right)$$
 
 #### _vector projection:_
-$$\mathrm{proj}_{\overrightharpoon{b}}\overrightharpoon{a} = (\overrightharpoon{a} \cdot \hat{\overrightharpoon{b}})\,\hat{\overrightharpoon{b}}$$
+- $$\mathrm{proj}_{\overrightharpoon{b}}\overrightharpoon{a} = (\overrightharpoon{a} \cdot \hat{\overrightharpoon{b}})\,\hat{\overrightharpoon{b}}$$
 
 ![](images/image_1.a2a38ccd.png)
 
