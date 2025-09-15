@@ -38,12 +38,14 @@
   $$
 
 ### ***example question***
-  - ![](./images/image_2.518856ba.png)
+  <img src="./images/image_2.518856ba.png" width="800">
 
 # **vertical centripetal motion**
 ### ***upwards circular path***
-  - ![](./images/image_3.d4adc590.png)
+  <img src="./images/image_3.d4adc590.png" width="800">
+
 ### ***downwards circular path***
-  - ![](./images/image_4.db8ba1ad.png)
+  <img src="./images/image_4.db8ba1ad.png" width="800">
+
 ### ***loop-the-loop***
-  - ![](./images/image_5.3e9dcf7b.png)
+  <img src="./images/image_5.3e9dcf7b.png" width="800">

@@ -27,11 +27,11 @@
 
 # **kepler's laws**
 1. all planets move in elliptical orbits with the sun at one focus of the ellipse
-    - ![](./images/image_1.7364466c.jpg)
+    - <img src="./images/image_1.7364466c.jpg" width="600">
 2. a line from the sun to a given planet sweeps out equal areas in equal times
-    - ![](./images/image_2.38ec0da5.jpg)
+    - <img src="./images/image_2.38ec0da5.jpg" width="600">
 3. the square of the orbital period of any planet is proportional to the cube of the semi-major axis of the elliptical orbit
-    - ![](./images/image_3.c7423826.jpg)
+    - <img src="./images/image_3.c7423826.jpg" width="600">
     - *derivation:*
     
       $$

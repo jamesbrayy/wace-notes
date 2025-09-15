@@ -38,16 +38,17 @@
   - *slipping vs tipping:*
     - if the force applied is larger than the static friction between the object and the surface but not large enough to cause tipping the object will start to tip
 ### ***types of problems***
-  - *translational equilibrium:*
-    - ![](./images/image_1.5714c339.png)
-  - *rotational equilibrium:*
-    - ![](./images/image_2.69d1d1b2.png)
-  - *static equilibrium:*
-    - ![](./images/image_3.4b061b8d.png)
-  - *tipping/toppling:*
-    - ![](./images/image_4.0a5a590a.png)
-  - *rolling up a step:*
-    - ![](./images/image_5.8178e12a.png)
-  - *atwood apparatus:*
-    - ![](./images/image_6.e9722360.png)
+- *translational equilibrium:*  
+  <img src="./images/image_1.5714c339.png" width="800">
+- *rotational equilibrium:*  
+  <img src="./images/image_2.69d1d1b2.png" width="800">
+- *static equilibrium:*  
+  <img src="./images/image_3.4b061b8d.png" width="800">
+- *tipping/toppling:*  
+  <img src="./images/image_4.0a5a590a.png" width="800">
+- *rolling up a step:*  
+  <img src="./images/image_5.8178e12a.png" width="800">
+- *atwood apparatus:*  
+  <img src="./images/image_6.e9722360.png" width="800">
+
 -----
