@@ -16,7 +16,7 @@
   * pressure of 10 - 25 MPa
   * porous catalyst based on Fe~~3~~O~~4~~
 * _flowchart:_
-  * ![](../chemistry/images/image_1.d02ac0d7.emf)
+  * ![](images/image_1.d02ac0d7.emf)
 * to obtain hydrogen for the haber process, two methods are used in succession
   1. _steam reforming_
   * CH~~4 (g)~~ + H~~2~~O\~ (g) ~~⇌ CO~~ (g)\~ + 3H~~2 (g)~~ ∆H = +206kJ
@@ -76,7 +76,7 @@
 * some of this 100% is diluted back to 98% and re-used
 * water is not used because dilution of SO~~3~~ is highly exothermic
 * flow chart:
-  * ![](../chemistry/images/image_2.927e1bdd.png)
+  * ![](images/image_2.927e1bdd.png)
 
 **ethanol production:**
 
@@ -88,7 +88,7 @@
   * ethene can be obtained from the catalytic cracking of larger hydrocarbon molecules in crude oil
     * this ethene is then reacted with steam to produce ethanol according to this addition reaction:
     * H~~2~~C=CH~~2 (aq)~~ + H~~2~~O\~ (l)\~ → CH~~3~~CH~~2~~OH\~ (aq)\~
-* ![](../chemistry/images/image_3.a15be0c0.png)
+* ![](images/image_3.a15be0c0.png)
 * the reduced temperatures and pressures for fermentation result in a significant saving in costs, compared to the hydration of ethene
   * the advantage of producing ethanol from the hydration of ethene is that the reaction has \_\_no byproduct\_\_s, so the products are only ethanol and water
   * in the fermentation process, many different organic molecules are produced or present in small quantities due to the many different enzymes in yeast and the different compounds present in the starting mixture
@@ -97,7 +97,7 @@
 **biodiesel production:**
 
 * biodiesel can be made through a number of different methods:
-  * ![](../chemistry/images/image_4.81f28763.emf)
+  * ![](images/image_4.81f28763.emf)
   * _base catalysed transesterification:_
     * have to heat up
     * catalyst must be neutralised to recover glycerol

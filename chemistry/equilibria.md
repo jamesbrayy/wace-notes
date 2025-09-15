@@ -1,62 +1,60 @@
 # equilibria
 
-**equilibrium constant:**
+***
 
-* _&#x61;_&#x41; + _&#x62;_&#x42; ⇌ _&#x63;_&#x43; + _&#x64;_&#x44; (reactants) (products)
+## **the equilibrium constant**
+
+* $$\begin{aligned} a\mathrm{A} + b\mathrm{B} &\rightleftharpoons c\mathrm{C} + d\mathrm{D} \quad (\text{reactants})\ (\text{products}) \end{aligned}$$
 * for any reaction, such as the one above, at equilibrium constant at a certain temperature is given by:
 
-**le châtelier's principle:**
+## **le châtelier's principle**
 
 * "if a system at equilibrium is subjected to a change in conditions, the system will adjust to re-establish equilibrium in such a way as to partially counteract the imposed change"
-* _change in concentration:_
-  * \*e.g. \*2CrO~~4~~^2-^~~(aq)~~ + 2H^+^~~(aq) n Cr2~~O~~7~~^2-^~~(aq)~~ + H~~2~~O\~(l)\~ , increasing \[H^+^]
+#### _change in concentration:_
+  * \*e.g. \* $$\begin{aligned} 2\mathrm{CrO}_4^{2-}(aq) + 2\mathrm{H}^+(aq) &\rightleftharpoons \mathrm{Cr}_2\mathrm{O}_7^{2-}(aq) + \mathrm{H}_2\mathrm{O}(l) \end{aligned}$$ , increasing $$[\mathrm{H}^+]$$
     * _rate vs time:_
-      * an increase in \[H^+^] causes collisions to occur more frequently between the reactants than the products
+      * an increase in $$[\mathrm{H}^+]$$ causes collisions to occur more frequently between the reactants than the products
       * this causes the initial rate of the forwards reaction to increase while the reverse rate is initially unaffected
       * this increases the concentration of the products as more are being produced than consumed, thus allowing the rate of the reverse reaction to begin to increase until equilibrium is re-established at a higher rate
-      * ![](../chemistry/images/image_1.7df34e23.png)
+      * ![](images/image_1.7df34e23.png)
     * _concentration vs time:_
-      * ![](../chemistry/images/image_2.6a1119d3.png)
-* _change in pressure/volume:_
-  * \*e.g. \*2NO~~2 (g) n N2~~O~~4 (g)~~ , increased pressure
+      * ![](images/image_2.6a1119d3.png)
+#### _change in pressure/volume:_
+  * \*e.g. \* $$\begin{aligned} 2\mathrm{NO}_2(g) &\rightleftharpoons \mathrm{N}_2\mathrm{O}_4(g) \end{aligned}$$ , increased pressure
     * _rate vs time:_
       * an increase in pressure is equivalent to a decrease in volume, and as concentration is inversely proportional to volume while the amount of all substances remains constant, all concentrations are increased
       * thus when the pressure is increased, the rate of both forward and reverse reactions increases immediately; however, the rate of the forwards reaction will increase by a greater extent as there are more participating moles of gas
-      * this will cause the concentration of N~~2~~O~~4~~ to decrease more rapidly than it is replaced until equilibrium is re-established at a higher rate
-      * ![](../chemistry/images/image_3.8f602956.png)
+      * this will cause the concentration of $$\mathrm{N}_2\mathrm{O}_4$$ to decrease more rapidly than it is replaced until equilibrium is re-established at a higher rate
+      * ![](images/image_3.8f602956.png)
     * _concentration vs time:_
-      * ![](../chemistry/images/image_4.c538dfdf.png)
+      * ![](images/image_4.c538dfdf.png)
   *
-* _change in temperature:_
-  * ### _e.g._ 2NO~~2 (g) ⇌ N2~~O~~4 (g)~~ , ΔH = - 57kJ\* or\* 2NO~~2 (g) ⇌ N2~~O~~4 (g)~~ + 57kJ
+#### _change in temperature:_
+  * ### _e.g._ $$\begin{aligned} 2\mathrm{NO}_2(g) &\rightleftharpoons \mathrm{N}_2\mathrm{O}_4(g) \\ \text{forward: }\Delta H &= -57\ \mathrm{kJ} \\ \text{reverse: }\Delta H &= +57\ \mathrm{kJ} \end{aligned}$$
     * _rate vs time:_
       * an increase in temperature causes an increase in both the frequency of collisions and the proportion of collisions with energy greater than the activation energy, resulting in an increase in the rates of both the forward and reverse reactions
       * the endothermic rate of reaction is affected to a greater extent due to its higher activation energy, and so the rate of the reverse reaction is increased more than that of the forwards reaction
-      * thus the products are consumed more rapidly than they are produced, meaning \[N~~2~~O~~4~~] decreases while \[NO~~2~~] increases, which continues until equilibrium is re-established at a higher rate
-      * ![](../chemistry/images/image_5.3406953b.png)
+      * thus the products are consumed more rapidly than they are produced, meaning $$[\mathrm{N}_2\mathrm{O}_4]$$ decreases while $$[\mathrm{NO}_2]$$ increases, which continues until equilibrium is re-established at a higher rate
+      * ![](images/image_5.3406953b.png)
     * _concentration vs time:_
-      * ![](../chemistry/images/image_6.c80094a2.png)
-* _addition of catalysts:_
+      * ![](images/image_6.c80094a2.png)
+#### _addition of catalysts:_
   * catalysts are agents that provide an alternative reaction pathway with a lower activation energy and are not permanently consumed in the reaction.
   * as there is no change to the proportions of either reactants or products the system is still in equilibrium
   * the rates of forward and reverse reactions increase by the same amount
-* _addition of inert gas:_
-  * _e.g._ 2NO~~2 (g) ⇌ N2~~O~~4 (g)~~
+#### _addition of inert gas:_
+  * _e.g._ $$\begin{aligned} 2\mathrm{NO}_2(g) &\rightleftharpoons \mathrm{N}_2\mathrm{O}_4(g) \end{aligned}$$
     * _at constant volume:_
       * no effect as partial pressures remain constant
     * _at constant pressure:_
       * the addition of an inert gas causes a decrease in the partial pressures of both gases, resulting in a decrease in their concentrations; however, as there are more participating reactant particles than product particles, the rate of the forward reaction will decrease by a greater extent than the reverse reaction
-      * thus the reactants are consumed more rapidly than they are produced, meaning \[N~~2~~O~~4~~] increases while \[NO~~2~~] decreases, which continues until equilibrium is re-established at a lower rate
-      * ![](../chemistry/images/image_7.e7b6ccf8.png)
+      * thus the reactants are consumed more rapidly than they are produced, meaning $$[\mathrm{N}_2\mathrm{O}_4]$$ increases while $$[\mathrm{NO}_2]$$ decreases, which continues until equilibrium is re-established at a lower rate
+      * ![](images/image_7.e7b6ccf8.png)
 
-**partial pressure:**
+## **partial pressure**
 
-* 2NO~~2 (g) ⇌ N2~~O~~4 (g)~~
+* $$\begin{aligned} 2\mathrm{NO}_2(g) &\rightleftharpoons \mathrm{N}_2\mathrm{O}_4(g) \end{aligned}$$
 * a part of the total pressure is generated by each of the gases in the equation
   * this is proportionate to their concentration
-* ### partial pressure is the contribution of the substance to the total pressure
+* partial pressure is the contribution of the substance to the total pressure
   * equivalent to concentration in explanations
-
-***
-
-***

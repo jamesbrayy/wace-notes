@@ -46,13 +46,13 @@
 * if an acid is polyprotic, then there will be multiple equivalence points along the way
 * _strong acid added to a strong base:_
   * the salt will be approximately neutral at equivalence, indicator must change anywhere within the almost vertical region of the graph
-  * ![](../chemistry/images/image_1.b9da0e4a.emf)
+  * ![](images/image_1.b9da0e4a.emf)
 * _weak acid added to strong base:_
   * the conjugate base of the weak acid is relatively strong; thus the salt will be slightly basic at equivalence, indicator must change above 7
-  * ![](../chemistry/images/image_2.6687c7d9.emf)
+  * ![](images/image_2.6687c7d9.emf)
 * _strong acid added to weak base:_
   * the salt will be slightly acidic at equivalence, indicator must change below 7
-  * ![](../chemistry/images/image_3.161e9512.emf)
+  * ![](images/image_3.161e9512.emf)
 * _weak acid added to weak base:_
   * you cannot effectively titrate a weak acid and weak base as the end point is not easily discernible
 

@@ -52,7 +52,7 @@
 **electrochemical cells:**
 
 * _galvanic cells:_
-  * ![](../chemistry/images/image_1.31e2d899.emf)
+  * ![](images/image_1.31e2d899.emf)
   * through the salt bridge:
     * anions move into oxidation half-cell
     * cations move into reduction half-cell
@@ -63,7 +63,7 @@
     * cell potential will vary depending on the chemistry of the half cells being used, the concentration of dissolved substances, pressure, and temperature
     * under standard conditions of 1 molL-1, 101.3 kPa (1 atm) and 25°C, the cell potential becomes E°
 * _standard hydrogen electrode:_
-  * ![](../chemistry/images/image_2.0c01a45e.emf)
+  * ![](images/image_2.0c01a45e.emf)
   * at STP, the standard reduction potential for the reduction of hydrogen ions is zero volts
     * 2H^+^~~(aq)~~ + 2e^-^ → H~~2 (g)~~
   * this 'reference' electrode enables standard reduction potentials to be determined for a range of substances
@@ -74,11 +74,11 @@
   * unlike electrolysis, electrorefining involves the oxidation of the anode itself
   * in electrolysis, the anode is inert, but in this process it is involved in the reaction
     * the anode in electrorefining is made out of the material that is intended to be refined and the cathode can be made out of any highly-conductive substance like graphite and gold
-  * ![](../chemistry/images/image_3.8e72333d.emf)
+  * ![](images/image_3.8e72333d.emf)
 * _electroplating:_
   * involves depositing a thin layer of one metal over another
   * thin metal layer may act as protection for underlying metal or look better
-  * ![](../chemistry/images/image_4.90762a31.emf)
+  * ![](images/image_4.90762a31.emf)
 
 **commercial cells:**
 
@@ -95,7 +95,7 @@
   * they are the oldest example of a rechargeable battery (secondary cells)
   * as they are rechargeable, there are two states:
     * _discharging (producing voltage)_
-      * ![](../chemistry/images/image_5.553aca21.png)
+      * ![](images/image_5.553aca21.png)
       * _at the anode:_ Pb\~ (aq)\~ + SO~~4~~^2-^~~(aq)~~ → PbSO~~4 (s)~~ + 2e^-^
       * _at the cathode:_ PbO~~2~~ + 4H^+^ + SO~~4~~^2-^ + 2e^-^ → PbSO~~4~~ + 2H~~2~~O
       * _overall:_ Pb\~(aq)\~ + PbO~~2~~
