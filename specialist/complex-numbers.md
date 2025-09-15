@@ -56,5 +56,3 @@
 #### _remainder theorem_
 
 * if $$f\left(x\right)$$ is divided by $$(x-a)$$, the remainder will be $$f\left(a\right)$$
-
-***
