@@ -1,4 +1,4 @@
-**quantum theory:**
+# **quantum theory:**
 - ***evidence for wave-particle duality:***
   - *young's double-slit experiment:*
     - thomas young proposed that light was a wave and so it was therefore subject to the superposition principle
@@ -139,7 +139,7 @@ $$$$\ \ \ \ \ \ =\frac{h}{mv}$$$$
     - the excited state to be metastable, so stimulated emission occurs before spontaneous emission
     - the emitted photons need to stay in the system long enough to stimulate other excited atoms
 
-**special relativity:**
+# **special relativity:**
 - at high speeds, the laws of classical mechanics break down and cannot be used to explain or predict observed behaviour and phenomenon
 - the special theory of relativity explains and quantifies the behaviour of objects travelling at relativistic ($$>0.1c$$) speeds
 - ***experiments:***
@@ -154,7 +154,7 @@ $$$$\ \ \ \ \ \ =\frac{h}{mv}$$$$
     - the classical expectation predicts significantly fewer muons reaching the surface than are observed due to the distance they must travel
     - this is because the relative length from a muon's frame of reference is significantly shorter, allowing it to travel further in its proper mean lifetime
 
-**particles of the standard model:**
+# **particles of the standard model:**
 - ***bosons (force-mediating particles):***
   - follow bose-einstein statistics and have integer spin
   - *elementary bosons:*

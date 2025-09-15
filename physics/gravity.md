@@ -1,13 +1,13 @@
 
 -----
-**gravitation:**
+# **gravitation:**
 - anything that has energy-momentum generates a gravitational field which influences other masses with a force
 - ***gravitational fields:***
   - a gravitational field is a region of influence that extends outwards from an object, within which another object can be acted upon by the mediators of gravitational force
   - $$\overrightharpoon{g} = \dfrac{\overrightharpoon{F}_g}{m} = \dfrac{GM}{r^2}$$
     - where $$G$$ is the Newtonian constant of gravitation (units of $$N{m}^{2}{kg}^{-2}$$)
 
-**gravity of the earth:**
+# **gravity of the earth:**
 - ***impacts of rotation:***
   - because the earth is rotating about its axis, it is a non-inertial frame of reference and thus on any point other than the poles of rotation a body's measured weight will not be its true weight
     - this is because there is a centripetal acceleration towards the centre of curvature which reduces the normal force slightly
@@ -25,7 +25,7 @@
     - while it could be expected that this value is infinite, as the acceleration due to gravity decreases by the inverse square law effectively all work is done within 10000km of the earth
   - $$v_\mathrm{esc} = \sqrt{2G \dfrac{m_e}{r}}$$
 
-**kepler's laws:**
+# **kepler's laws:**
 1. all planets move in elliptical orbits with the sun at one focus of the ellipse
     - ![](./images/image_1.7364466c.jpg)
 2. a line from the sun to a given planet sweeps out equal areas in equal times
@@ -44,7 +44,7 @@
       \end{aligned}
       $$
 
-**satellites:**
+# **satellites:**
 - ***circular motion of satellites:***
   - a satellite must be accelerated to a sufficiently high tangential speed such that the earth's curvature becomes significant to achieve stable orbit
     - this allows it to 'constantly fall' around the earth at the right speed to keep the distance from the satellite to the earth constant

@@ -1,4 +1,4 @@
-## **uniform circular motion:**
+# **uniform circular motion:**
 - uniform circular motion occurs when a body travels at a constant speed and is constantly accelerating towards the centre curvature
 - direction is constantly changing and hence velocity is always changing despite no change in speed
   - $$\left| \overrightharpoon{v}\right|=2\pi rf$$
@@ -14,7 +14,7 @@
 - ***constant speed vs constant period:***
   - ![](./images/image_1.846ae21b.png)
 
-## **banked curves:**
+# **banked curves:**
 - for a body travelling at a certain speed, it is possible to bank a curve such that no frictional force between the body and the incline to maintain a stable circular path
   - this can be achieved through allowing the horizontal component of the normal force to provide the centripetal force
 - for a curve with optimal velocity of $${v}_{opt}$$:
@@ -40,7 +40,7 @@
 - ***example question:***
   - ![](./images/image_2.518856ba.png)
 
-## **vertical centripetal motion:**
+# **vertical centripetal motion:**
 - ***upwards circular path:***
   - ![](./images/image_3.d4adc590.png)
 - ***downwards circular path:***

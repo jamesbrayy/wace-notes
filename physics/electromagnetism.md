@@ -1,6 +1,6 @@
 
 -----
-## **electrostatics:**
+# **electrostatics:**
 - ***charge:***
   - charge is a fundamental property of subatomic particles that governs how they are affected by an external electric or magnetic field.
   - units of $$C$$
@@ -31,7 +31,7 @@
     - arrows are oriented towards negative and away from positive charges
     - uniform electric fields produce parallel and evenly spaced lines
 
-## **magnetism:**
+# **magnetism:**
 - ***domain theory of magnetism:***
   - a domain is a small region of spontaneous magnetism that exists even when no external magnetic field is present due to the alignment of magnetic moments of a group of atoms
   - to magnetise a material, these domains must change so that they coalesce to form a singular domain
@@ -74,7 +74,7 @@
     - where $$\mathit{\theta}$$ is the angle between the normal vector of the area and the direction of the magnetic field
     - units of $$Wb$$ or $$T{m}^{2}$$ or $$Vs$$
 
-## **principles of electromagnetism:**
+# **principles of electromagnetism:**
 - ***electromotive force (EMF):***
   - electromotive force is a difference in potential that gives rise to an electric current
     - units of $$V$$ or $$J{C}^{-1}$$ or $$kg\ {m}^{2}\ {s}^{-3}\ {A}^{-1}$$
@@ -114,7 +114,7 @@
     - use to find the direction of the magnetic field around a current-carrying conductor
     - fingers curl in the direction of the magnetic field $$\overrightharpoon{B}$$ and thumb points in the direction of the current $$I$$
 
-## **applications of electromagnetism:**
+# **applications of electromagnetism:**
 - ***DC motors:***
   - a motor is a device that converts electrical energy into mechanical energy
   - *components of a DC motor:*
