@@ -8,14 +8,13 @@
       - used a monochromatic light source with two narrow slits
       - the light emerging from the slits is coherent (in phase) because a single source produced both beams of light
     - ![Single and Double Slit Comparison](./images/image_1.59f91fea.png)
-    - 
   - *the photoelectric effect:*
     - einstein attributed the quantisation of energy that planck suggested to be intrinsic to the light itself, called the particles photons
     - the photons were extremely localised in that they give all of their energy to one electron in the metal
       -  $$brightness\propto {n}_{photons}$$ and f$$\propto {E}_{photons}$$
     - if the energy of a photon is greater than or equal to the work function for a metal, a photoelectron can be emitted
       - the energy of this photoelectron is given by the formula:
-        - 
+        - $$\begin{aligned}E_k &= h f - \phi\end{aligned}$$
       - the excess energy of the photon (after overcoming the work function) becomes the kinetic energy of the ejected electron
       - the work done by the stopping potential is equal to the maximum kinetic energy of the photoelectrons:
     - ![](./images/image_2.4d214fe4.png)
@@ -38,22 +37,22 @@
       2. making an object hotter produces a higher intensity of radiation across all frequencies
       3. the higher the temperature the higher the frequency peak
       4. the visible spectrum is only a small region of the whole emission spectrum
-    - 
+    - $$\begin{aligned}\lambda_{\max} &\propto \frac{1}{T}\end{aligned}$$
     - wien’s law could only accurately describes the short wavelength (high frequency) spectrum of thermal emission of objects, BUT fails to accurately fit the experimental data for long wavelengths (low frequency emissions)
     - ![](./images/image_3.6c0f82af.png)
   - *planck:*
     - planck successfully derived the correct formula by assuming that electromagnetic radiation can only be emitted or absorbed in discrete quanta of energy
-    - 
+    - $$\begin{aligned}I(\lambda, T) &= \frac{2 \pi h c^2}{\lambda^5 \left( e^{\frac{h c}{\lambda k_B T}} - 1 \right)}\end{aligned}$$
       - where:
-        -  $$h$$ is planck's constant ($$~6.626\times {10}^{-34}\ \mathrm{Js}$$)
-        -  $$k$$ is boltzmann's constant ($$~1.381\times {10}^{-23}\ \mathrm{J}{\mathrm{K}}^{-1}$$
+        -  $$h$$ is planck's constant ($$6.63\times {10}^{-34}\ \mathrm{Js}$$)
+        -  $$k$$ is boltzmann's constant ($$1.38\times {10}^{-23}\ \mathrm{J}{\mathrm{K}}^{-1}$$)
     - this formula produces two bold results about the atoms at the surface of a blackbody:
       1. the atoms can only have discrete values of energy
       2. the atoms emit or absorb energy in discrete amounts
     - this means that there is not a continuous distribution of oscillator energies, but instead the oscillators could only have specific discrete energies that were dependent on their frequency
     - while for classical waves energy is proportional to amplitude, for electromagnetic waves it is proportional to frequency
     - for a given energy there is a highest possible frequency that a blackbody can emit
-      - 
+      - $$\begin{aligned}E &= n h f$$
 
 ### ***photoelectric effect***
   - electromagnetic radiation transmits energy, so when this radiation interacts with a piece of metal, the surface of the metal absorbs some of the radiated energy
@@ -61,14 +60,14 @@
     - these electrons are called photoelectrons
   - first noted in 1887 by Heinrich Rudolf Hertz
   - *key terms:*
-    -  $${f}_{0}$$* = threshold frequency*
-      - *the frequency below which no electrons are ejected from the metal surface*
-    -  $${V}_{0}$$* = stopping voltage*
-      - *to measure the *$${E}_{k}$$* of ejected electrons, a voltage can be applied in the opposite direction of electron current*
-      - *stopping voltage is the voltage required to stop the most energetic photoelectron (when the photocurrent is reduced to zero)*
-      - *the energy of photoelectrons can then be measured as *$${E}_{k}=q{V}_{0}$$
-    -  $$\mathit{\phi}$$* = work function*
-      - *the energy required to liberate the least bound electron from the surface of the metal*
+    -  $$f_{0}$$ = threshold frequency
+      - the frequency below which no electrons are ejected from the metal surface
+    -  $$V_{0}$$ = stopping voltage
+      - to measure the $${E}_{k}$$ of ejected electrons, a voltage can be applied in the opposite direction of electron current
+      - stopping voltage is the voltage required to stop the most energetic photoelectron (when the photocurrent is reduced to zero)
+      - the energy of photoelectrons can then be measured as $${E}_{k}=q{V}_{0}$$
+    -  $$\phi$$ = work function
+      - the energy required to liberate the least bound electron from the surface of the metal
   - *experiments:*
     - experiment 1 (- cathode, + anode):
       - aim was to observe the emission of electrons from a metal surface when illuminated
@@ -88,15 +87,14 @@
       - confirmed that maximum kinetic energy given by $${E}_{k}=q{V}_{0}$$ independent of intensity, linear with light frequency, confirming Einstein’s photoelectric equation $${E}_{k}=hf-\mathit{\phi}$$
       
 ### ***de broglie wavelength***
-  -  $$$${\mathit{\lambda}}_{d}=\frac{h}{p}$$$$
-$$$$\ \ \ \ \ \ =\frac{h}{mv}$$$$
+  -  $$\begin{aligned}\lambda_d &= \frac{h}{p} \\ &= \frac{h}{m v}\end{aligned}$$
   - any particle with momentum has a wavelength
     - for large objects this wavelength is so small it is undetectable but for subatomic particles it is increasingly important
 - ***phosphorescence***
-  - *once excited an atom or molecule will spontaneously decay quickly*
-  - *some levels, however, have significantly longer lifetimes, and are said to be metastable*
-    - *when visible and UV light excites the atoms or molecules to metastable states, decay occurs slowly and phosphorescence occurs*
-  - *glow in the dark paints and luminescent dials on watches utilise phosphorescence*
+  - once excited an atom or molecule will spontaneously decay quickly
+  - some levels, however, have significantly longer lifetimes, and are said to be metastable
+    - when visible and UV light excites the atoms or molecules to metastable states, decay occurs slowly and phosphorescence occurs
+  - glow in the dark paints and luminescent dials on watches utilise phosphorescence
 - ***fluorescence***
   - occurs when an atom is excited to a level several steps above its ground state, typically by the absorption of a relatively high energy photon
     - electric discharges can also induce fluorescence (*i.e.* doesn’t have to be absorption of UV)
@@ -201,7 +199,7 @@ $$$$\ \ \ \ \ \ =\frac{h}{mv}$$$$
 # **the universe**
 ### ***astronomical measures***
   - light year
-  - astronomical unit (
+  - astronomical unit
   - parsec
 ### ***doppler shift***
   - doppler shift is the change in wavelength of radiation due to the relative motion between the source and observer along the line of sight
