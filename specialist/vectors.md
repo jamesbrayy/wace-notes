@@ -1,15 +1,14 @@
-# vectors
 
 ***
 
-**basics:**
+## **basics**
 
 * $$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2 + (z_2 - z_1)^2}$$
 * $$\text{midpoint} = \left(\frac{x_1+x_2}{2}, \frac{y_1+y_2}{2}, \frac{z_1+z_2}{2}\right)$$
 * ### _vector projection:_
   * ![](images/image_1.a2a38ccd.png)
 
-**cross product:**
+## **cross product**
 
 * for vectors $$\underset{\sim}{\bm{a}}$$ and $$\underset{\sim}{\bm{b}}$$, the cross product $$\underset{\sim}{\bm{a}}\times \underset{\sim}{\bm{b}}$$ is a vector perpendicular to $$\underset{\sim}{\bm{a}}$$ and $$\underset{\sim}{\bm{b}}$$
   * _i.e._ it is normal to the plane containing $$\underset{\sim}{\bm{a}}$$ and $$\underset{\sim}{\bm{b}}$$
@@ -18,7 +17,7 @@
 * _manually calculating cross product:_
   * ![](images/image_2.7bab86df.png)
 
-**lines:**
+## **lines**
 
 * consider a line passing through $$\left(\begin{array}{c}2\\ -1\\ 3\end{array}\right)$$ and parallel to $$\left(\begin{array}{c}1\\ 2\\ 3\end{array}\right)$$
 * _vector equation:_
@@ -38,7 +37,7 @@
     \frac{x-2}{1} = \frac{y+1}{2} = \frac{z-3}{3}
     $$
 
-**planes:**
+## **planes**
 
 * consider a plane passing through position vector $$\underset{\sim}{\bm{a}}$$ and containing two non-parallel vectors $$\underset{\sim}{\bm{b}}$$ and $$\underset{\sim}{\bm{c}}$$
 * _vector equation:_
@@ -54,7 +53,7 @@
     \end{aligned}
     $$
 
-**spheres:**
+## **spheres**
 
 * _vector equation:_
   * $$|\underset{\sim}{\bm{r}} - \underset{\sim}{\bm{c}}| = r$$
@@ -68,9 +67,9 @@
     * $$r$$ is the radius
     * $$\left(\begin{array}{c}a\\ b\\ c\end{array}\right)$$ is the position vector of the centre
 
-**systems of linear equations:**
+## **systems of linear equations**
 
-* _gaussian elimination:_
+* _gaussian elimination_
   1. form an augmented matrix from equations
   * ![](images/image_6.d2f641e0.png)
   2. conduct forward elimination
