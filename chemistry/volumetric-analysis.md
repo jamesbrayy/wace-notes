@@ -9,7 +9,7 @@
   * has a relatively high molar mass
 * two common substances that meet these criteria are anhydrous sodium carbonate, potassium hydrogen phthalate, and oxalic acid
 * _preparing a standard solution:_
-  * to prepare a primary standard solution of Na~~2~~CO~~3~~
+  * to prepare a primary standard solution of $$\mathrm{Na_2CO_3}$$
     1. weigh out a mass of sodium carbonate and dissolve in a small amount of distilled water
     2. transfer to a volumetric flask and make up to the line with distilled water (a volumetric flask has a known and precise volume)
 
@@ -24,10 +24,10 @@
   * the volume of this second solution is measured accurately using the pipette
   * the solution in the pipette is called the aliquot
 * indicator
-  * alizarin yellow (pH )
-  * methyl orange (pH )
-  * bromothymol blue (pH )
-  * phenolphthalein (pH 10-11)
+  * alizarin yellow
+  * methyl orange
+  * bromothymol blue
+  * phenolphthalein
 
 **equivalence point:**
 
@@ -42,7 +42,7 @@
 * for other combinations of weak acids and bases the salts produced in the reaction do not form solutions with a pH of 7 due to hydrolysis
 * because of this, an indicator must be chosen with an end point that matches the pH of the solution at the equivalence point **pH changes in acid-base titrations:**
 * when an acid is added to a base solution, the pH does not change in a linear way
-  * pH = -log~~10~~ \[H^+^]
+  $$\mathrm{pH} = -\log_{10} [\mathrm{H_3O^+}]$$
 * if an acid is polyprotic, then there will be multiple equivalence points along the way
 * _strong acid added to a strong base:_
   * the salt will be approximately neutral at equivalence, indicator must change anywhere within the almost vertical region of the graph
@@ -69,6 +69,6 @@
     * do the same thing
 * if it hydrolyses, explain why
   * give equation
-  * produces either H~~3~~O^+^ or OH^-^
-  * as \[H~~3~~O^+^] > \[OH^-^], acidic or as \[H~~3~~O^+^] < \[OH^-^], basic at equilibrium
+  * produces either $$\mathrm{H_3O^+}$$ or $$\mathrm{OH^-}$$
+  * acidic if $$[\mathrm{H_3O^+}] > [\mathrm{OH^-}]$$, basic if $$[\mathrm{H_3O^+}] < [\mathrm{OH^-}]$$ at equilibrium
   * therefore as the indicator must change in this range, the end point is sufficiently close to equivalence and this indicator should be used
