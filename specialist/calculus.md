@@ -11,7 +11,7 @@
 
 #### _trig substitution:_
 
-* ![](../specialist/images/image_1.13eda047.png)
+* ![](./image_1.13eda047.png)
 
 #### _partial fractions:_
 
@@ -24,7 +24,7 @@
 #### _volumes of revolution:_
 
 * $$\begin{aligned}V &= \pi \int_a^b f^2(x) \, dx \quad \mathrm{or} \quad \pi \int_c^d f^2(y) \, dy \end{aligned}$$
-* ![](../specialist/images/image_2.474f03f1.png)
+* ![](.images/image_2.474f03f1.png)
 
 ## **differentiation:**
 
@@ -34,7 +34,7 @@
 
 #### _logarithmic differentiation:_
 
-* ![](../specialist/images/image_3.bf30445b.png)
+* ![](./images/image_3.bf30445b.png)
 
 #### _differential equations:_
 
@@ -47,10 +47,10 @@
 #### logistic curves:
 
 * $$\begin{aligned}\frac{dP}{dt} &= r P (k - P) \\P &= \frac{k}{1 + \left( \frac{k}{P_0} - 1 \right) e^{-r k t}}\end{aligned}$$
-* ![](../specialist/images/image_4.cdceb8f1.png)
+* ![](./images/image_4.cdceb8f1.png)
 * to go from $\frac{dP}{dt}$ to $P$, separate and use partial fractions
 * to go from $P$ to $\frac{dP}{dt}$, use a u- substitution for the denominator and implicitly differentiate
-  * ![](../specialist/images/image_5.661d2628.png)
+  * ![](./images/image_5.661d2628.png)
 
 ## **motion:**
 
