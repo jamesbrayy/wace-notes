@@ -11,7 +11,7 @@
 
 #### _trig substitution:_
 
-* ![](../specialist/images/image_1.13eda047.jpg)
+* ![](../specialist/images/image_1.13eda047.png)
 
 #### _partial fractions:_
 
