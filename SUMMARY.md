@@ -1,5 +1,5 @@
-# Table of contents
-
+# table of contents
+* [index](readme.md)
 * [specialist](specialist/intro.md)
   * [complex numbers](<specialist/complex numbers.md>)
   * [functions](specialist/functions.md)
