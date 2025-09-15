@@ -108,8 +108,11 @@
 
 ## **closest distance**
 * _line to point:_
+
   ![](images/image_9.d0e0c80b.png)
 * _plane to point:_
+
   ![](images/image_10.1e6361a2.png)
 * _line to line:_
+
   ![](images/image_11.0adeadff.png)
