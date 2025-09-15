@@ -26,3 +26,4 @@
   * [the fountainhead](literature/the-fountainhead.md)
   * [equus](literature/equus.md)
   * [o me! o life!](literature/o-me-o-life.md)
+  * [close reading](literature/close-reading.md)
