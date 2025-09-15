@@ -7,7 +7,7 @@
     - the experiment:
       - used a monochromatic light source with two narrow slits
       - the light emerging from the slits is coherent (in phase) because a single source produced both beams of light
-    - <img src="./images/image_1.59f91fea.jpg" width=400>
+    - <img src="./images/image_1.59f91fea.jpg" width=800>
   - *the photoelectric effect:*
     - einstein attributed the quantisation of energy that planck suggested to be intrinsic to the light itself, called the particles photons
     - the photons were extremely localised in that they give all of their energy to one electron in the metal
@@ -17,7 +17,7 @@
         - $$\begin{aligned}E_k &= h f - \phi\end{aligned}$$
       - the excess energy of the photon (after overcoming the work function) becomes the kinetic energy of the ejected electron
       - the work done by the stopping potential is equal to the maximum kinetic energy of the photoelectrons:
-    - <img src="./images/image_2.4d214fe4.png" width=600>
+    - <img src="./images/image_2.4d214fe4.png" width=800>
 
 ### ***uv catastrophe***
   - *black body radiation:*
@@ -39,7 +39,7 @@
       4. the visible spectrum is only a small region of the whole emission spectrum
     - $$\begin{aligned}\lambda_{\max} &\propto \frac{1}{T}\end{aligned}$$
     - wien’s law could only accurately describes the short wavelength (high frequency) spectrum of thermal emission of objects, BUT fails to accurately fit the experimental data for long wavelengths (low frequency emissions)
-    - <img src="./images/image_3.6c0f82af.png" width=400>
+    - <img src="./images/image_3.6c0f82af.png" width=800>
   - *planck:*
     - planck successfully derived the correct formula by assuming that electromagnetic radiation can only be emitted or absorbed in discrete quanta of energy
     - $$\begin{aligned}I(\lambda, T) &= \frac{2 \pi h c^2}{\lambda^5 \left( e^{\frac{h c}{\lambda k_B T}} - 1 \right)}\end{aligned}$$

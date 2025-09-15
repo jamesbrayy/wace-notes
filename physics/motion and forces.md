@@ -39,16 +39,16 @@
     - if the force applied is larger than the static friction between the object and the surface but not large enough to cause tipping the object will start to tip
 ### ***types of problems***
 - *translational equilibrium:*  
-  <img src="./images/image_1.5714c339.png" width="800">
+  <img src="./images/image_1.5714c339.png" width="1200">
 - *rotational equilibrium:*  
-  <img src="./images/image_2.69d1d1b2.png" width="800">
+  <img src="./images/image_2.69d1d1b2.png" width="1200">
 - *static equilibrium:*  
-  <img src="./images/image_3.4b061b8d.png" width="800">
+  <img src="./images/image_3.4b061b8d.png" width="1200">
 - *tipping/toppling:*  
-  <img src="./images/image_4.0a5a590a.png" width="800">
+  <img src="./images/image_4.0a5a590a.png" width="1200">
 - *rolling up a step:*  
-  <img src="./images/image_5.8178e12a.png" width="800">
+  <img src="./images/image_5.8178e12a.png" width="1200">
 - *atwood apparatus:*  
-  <img src="./images/image_6.e9722360.png" width="800">
+  <img src="./images/image_6.e9722360.png" width="1200">
 
 -----
