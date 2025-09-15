@@ -104,7 +104,7 @@
 5. planes intersecting at a point
     * if the triple scalar product of the normals does not equal zero, there is a single point of intersection
     * \*i.e. \*$${\stackrel{~}{n}}_{1}\cdot \left({\stackrel{~}{n}}_{2}\times {\stackrel{~}{n}}_{3}\right)\ne 0$$
-    * note that cases 1,2, and 3 have no simultaneous solution as no point lies on all three planes at once **closest distance:**
+    * note that cases 1,2, and 3 have no simultaneous solution as no point lies on all three planes at once
 
 ## **closest distance**
 * _line to point:_
@@ -113,4 +113,3 @@
   ![](images/image_10.1e6361a2.png)
 * _line to line:_
   ![](images/image_11.0adeadff.png)
-  
