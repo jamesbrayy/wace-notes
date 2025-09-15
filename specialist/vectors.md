@@ -28,6 +28,7 @@ consider a line passing through $$\left(\begin{array}{c}2\\ -1\\ 3\end{array}\ri
   $$
   \underset{\sim}{\bm{r}} = \left(\begin{array}{c}2\\ -1\\ 3\end{array}\right) + \lambda \left(\begin{array}{c}1\\ 2\\ 3\end{array}\right)
   $$
+
 #### _parametric equation:_
   $$
   \begin{aligned}
@@ -36,6 +37,7 @@ consider a line passing through $$\left(\begin{array}{c}2\\ -1\\ 3\end{array}\ri
   z &= 3 + 3\lambda
   \end{aligned}
   $$
+
 #### _cartesian equation:_
   $$
   \frac{x-2}{1} = \frac{y+1}{2} = \frac{z-3}{3}
@@ -50,15 +52,15 @@ consider a line passing through $$\left(\begin{array}{c}2\\ -1\\ 3\end{array}\ri
   ![](images/image_3.57965e1e.png)
 
 #### _cartesian equation:_
-  ![](images/image_4.9942acb4.png)
-
-  $$
+    $$
   \begin{aligned}
   (\underset{\sim}{\bm{r}} - \underset{\sim}{\bm{a}})\cdot \underset{\sim}{\bm{n}} &= 0 \\
   \Rightarrow \underset{\sim}{\bm{r}} \cdot \underset{\sim}{\bm{n}} &= \underset{\sim}{\bm{a}} \cdot \underset{\sim}{\bm{n}} \\
   n_1 x + n_2 y + n_3 z &= k
   \end{aligned}
   $$
+
+  ![](images/image_4.9942acb4.png)
 
 ## **spheres**
 
@@ -70,6 +72,7 @@ consider a line passing through $$\left(\begin{array}{c}2\\ -1\\ 3\end{array}\ri
   * $$\underset{\sim}{\bm{c}}$$ is the position vector of the centre
 
   ![](images/image_5.ca78936e.png)
+  
 #### _cartesian equation:_
   $$(x-a)^2 + (y-b)^2 + (z-c)^2 = r^2$$
 
