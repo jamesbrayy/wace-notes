@@ -14,7 +14,7 @@
   - the domain of $${f}^{-1}\left(x\right)$$ is the same as the range of $$f\left(x\right)$$, but $$f(x)$$ must be restricted a one-to-one (injective) portion of its domain to ensure $${f}^{-1}$$ is a function
     - *i.e.* $$dom\left({f}^{-1}\right)=ran\left(f\right), \quad f \text{ restricted to be injective}$$
   - the range of $${f}^{-1}\left(x\right)$$ is the same as the domain of $$f\left(x\right)$$ (with restrictions if required)
-    - *i.e.* $$ran\left({f}^{-1}\right)=dom\left(f\right)$$
+    - *i.e.* $$ran\left({f}^{-1}\right)=dom\left(f\right), \quad f \text{ restricted to be injective}$$
 
 ## **reciprocal**
 #### *domain and range:*
