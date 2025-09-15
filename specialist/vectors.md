@@ -3,20 +3,22 @@
 ***
 
 ## **basics**
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2 + (z_2 - z_1)^2}$$
+$$\text{midpoint} = \left(\frac{x_1+x_2}{2}, \frac{y_1+y_2}{2}, \frac{z_1+z_2}{2}\right)$$
 
-* $$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2 + (z_2 - z_1)^2}$$
-* $$\text{midpoint} = \left(\frac{x_1+x_2}{2}, \frac{y_1+y_2}{2}, \frac{z_1+z_2}{2}\right)$$
 #### _vector projection:_
+$$\mathrm{proj}_{\overrightharpoon{b}}\overrightharpoon{a} = (\overrightharpoon{a} \cdot \hat{\overrightharpoon{b}})\,\hat{\overrightharpoon{b}}$$
 
-  * ![](images/image_1.a2a38ccd.png)
+![](images/image_1.a2a38ccd.png)
 
 ## **cross product**
 
-* for vectors $$\underset{\sim}{\bm{a}}$$ and $$\underset{\sim}{\bm{b}}$$, the cross product $$\underset{\sim}{\bm{a}}\times \underset{\sim}{\bm{b}}$$ is a vector perpendicular to $$\underset{\sim}{\bm{a}}$$ and $$\underset{\sim}{\bm{b}}$$
+for vectors $$\underset{\sim}{\bm{a}}$$ and $$\underset{\sim}{\bm{b}}$$, the cross product $$\underset{\sim}{\bm{a}}\times \underset{\sim}{\bm{b}}$$ is a vector perpendicular to $$\underset{\sim}{\bm{a}}$$ and $$\underset{\sim}{\bm{b}}$$
   * _i.e._ it is normal to the plane containing $$\underset{\sim}{\bm{a}}$$ and $$\underset{\sim}{\bm{b}}$$
-* $$\left|\underset{\sim}{\bm{a}}\times \underset{\sim}{\bm{b}}\right|=\left|\underset{\sim}{\bm{a}}\right|\left|\underset{\sim}{\bm{b}}\right|\mathrm{sin}\mathit{\theta}$$, where $$\theta$$is the angle between $$\underset{\sim}{\bm{a}}$$ and $$\underset{\sim}{\bm{b}}$$
+$$\left|\underset{\sim}{\bm{a}}\times \underset{\sim}{\bm{b}}\right|=\left|\underset{\sim}{\bm{a}}\right|\left|\underset{\sim}{\bm{b}}\right|\mathrm{sin}\mathit{\theta}$$, where $$\theta$$is the angle between $$\underset{\sim}{\bm{a}}$$ and $$\underset{\sim}{\bm{b}}$$
   * this also gives the area bounded by the parallelogram formed from $$\underset{\sim}{\bm{a}}$$ and $$\underset{\sim}{\bm{b}}$$
-* _manually calculating cross product:_
+
+#### _manually calculating cross product_
 
 ![](images/image_2.7bab86df.png)
 
@@ -45,20 +47,15 @@ consider a line passing through $$\left(\begin{array}{c}2\\ -1\\ 3\end{array}\ri
 
 ## **planes**
 
-* consider a plane passing through position vector $$\underset{\sim}{\bm{a}}$$ and containing two non-parallel vectors $$\underset{\sim}{\bm{b}}$$ and $$\underset{\sim}{\bm{c}}$$
+consider a plane passing through position vector $$\underset{\sim}{\bm{a}}$$ and containing two non-parallel vectors $$\underset{\sim}{\bm{b}}$$ and $$\underset{\sim}{\bm{c}}$$
+
 #### _vector equation:_
   $$\underset{\sim}{\bm{r}} = \underset{\sim}{\bm{a}} + \lambda \underset{\sim}{\bm{b}} + \mu \underset{\sim}{\bm{c}}$$
 
   ![](images/image_3.57965e1e.png)
 
 #### _cartesian equation:_
-    $$
-  \begin{aligned}
-  (\underset{\sim}{\bm{r}} - \underset{\sim}{\bm{a}})\cdot \underset{\sim}{\bm{n}} &= 0 \\
-  \Rightarrow \underset{\sim}{\bm{r}} \cdot \underset{\sim}{\bm{n}} &= \underset{\sim}{\bm{a}} \cdot \underset{\sim}{\bm{n}} \\
-  n_1 x + n_2 y + n_3 z &= k
-  \end{aligned}
-  $$
+  $$\begin{aligned} (\underset{\sim}{\bm{r}} - \underset{\sim}{\bm{a}})\cdot \underset{\sim}{\bm{n}} &= 0 \\ \Rightarrow \underset{\sim}{\bm{r}} \cdot \underset{\sim}{\bm{n}} &= \underset{\sim}{\bm{a}} \cdot \underset{\sim}{\bm{n}} \\ n_1 x + n_2 y + n_3 z &= k \end{aligned} $$
 
   ![](images/image_4.9942acb4.png)
 
@@ -72,7 +69,7 @@ consider a line passing through $$\left(\begin{array}{c}2\\ -1\\ 3\end{array}\ri
   * $$\underset{\sim}{\bm{c}}$$ is the position vector of the centre
 
   ![](images/image_5.ca78936e.png)
-  
+
 #### _cartesian equation:_
   $$(x-a)^2 + (y-b)^2 + (z-c)^2 = r^2$$
 
@@ -119,12 +116,12 @@ consider a line passing through $$\left(\begin{array}{c}2\\ -1\\ 3\end{array}\ri
     * note that cases 1,2, and 3 have no simultaneous solution as no point lies on all three planes at once
 
 ## **closest distance**
-* _line to point:_
+#### _line to point:_
 
   ![](images/image_9.d0e0c80b.png)
-* _plane to point:_
+#### _plane to point:_
 
   ![](images/image_10.1e6361a2.png)
-* _line to line:_
+#### _line to line:_
 
   ![](images/image_11.0adeadff.png)
