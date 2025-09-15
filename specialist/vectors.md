@@ -7,6 +7,7 @@
 * $$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2 + (z_2 - z_1)^2}$$
 * $$\text{midpoint} = \left(\frac{x_1+x_2}{2}, \frac{y_1+y_2}{2}, \frac{z_1+z_2}{2}\right)$$
 #### _vector projection:_
+
   * ![](images/image_1.a2a38ccd.png)
 
 ## **cross product**
@@ -16,11 +17,13 @@
 * $$\left|\underset{\sim}{\bm{a}}\times \underset{\sim}{\bm{b}}\right|=\left|\underset{\sim}{\bm{a}}\right|\left|\underset{\sim}{\bm{b}}\right|\mathrm{sin}\mathit{\theta}$$, where $$\theta$$is the angle between $$\underset{\sim}{\bm{a}}$$ and $$\underset{\sim}{\bm{b}}$$
   * this also gives the area bounded by the parallelogram formed from $$\underset{\sim}{\bm{a}}$$ and $$\underset{\sim}{\bm{b}}$$
 * _manually calculating cross product:_
-  * ![](images/image_2.7bab86df.png)
+
+![](images/image_2.7bab86df.png)
 
 ## **lines**
 
-* consider a line passing through $$\left(\begin{array}{c}2\\ -1\\ 3\end{array}\right)$$ and parallel to $$\left(\begin{array}{c}1\\ 2\\ 3\end{array}\right)$$
+consider a line passing through $$\left(\begin{array}{c}2\\ -1\\ 3\end{array}\right)$$ and parallel to $$\left(\begin{array}{c}1\\ 2\\ 3\end{array}\right)$$
+
 #### _vector equation:_
   $$
   \underset{\sim}{\bm{r}} = \left(\begin{array}{c}2\\ -1\\ 3\end{array}\right) + \lambda \left(\begin{array}{c}1\\ 2\\ 3\end{array}\right)
@@ -42,8 +45,10 @@
 
 * consider a plane passing through position vector $$\underset{\sim}{\bm{a}}$$ and containing two non-parallel vectors $$\underset{\sim}{\bm{b}}$$ and $$\underset{\sim}{\bm{c}}$$
 #### _vector equation:_
-  * $$\underset{\sim}{\bm{r}} = \underset{\sim}{\bm{a}} + \lambda \underset{\sim}{\bm{b}} + \mu \underset{\sim}{\bm{c}}$$
-  * ![](images/image_3.57965e1e.png)
+  $$\underset{\sim}{\bm{r}} = \underset{\sim}{\bm{a}} + \lambda \underset{\sim}{\bm{b}} + \mu \underset{\sim}{\bm{c}}$$
+
+  ![](images/image_3.57965e1e.png)
+
 #### _cartesian equation:_
   ![](images/image_4.9942acb4.png)
 
@@ -59,12 +64,15 @@
 
 #### _vector equation:_
   $$|\underset{\sim}{\bm{r}} - \underset{\sim}{\bm{c}}| = r$$
+  
   where:
   * $$r$$ is the radius
   * $$\underset{\sim}{\bm{c}}$$ is the position vector of the centre
+
   ![](images/image_5.ca78936e.png)
 #### _cartesian equation:_
   $$(x-a)^2 + (y-b)^2 + (z-c)^2 = r^2$$
+
   where:
   * $$r$$ is the radius
   * $$\left(\begin{array}{c}a\\ b\\ c\end{array}\right)$$ is the position vector of the centre
