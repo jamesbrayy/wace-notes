@@ -21,52 +21,53 @@
 ## **lines**
 
 * consider a line passing through $$\left(\begin{array}{c}2\\ -1\\ 3\end{array}\right)$$ and parallel to $$\left(\begin{array}{c}1\\ 2\\ 3\end{array}\right)$$
-#### * _vector equation:_
-  * $$
-    \underset{\sim}{\bm{r}} = \left(\begin{array}{c}2\\ -1\\ 3\end{array}\right) + \lambda \left(\begin{array}{c}1\\ 2\\ 3\end{array}\right)
-    $$
-#### * _parametric equation:_
-  * $$
-    \begin{aligned}
-    x &= 2 + \lambda \\
-    y &= -1 + 2\lambda \\
-    z &= 3 + 3\lambda
-    \end{aligned}
-    $$
-#### * _cartesian equation:_
-  * $$
-    \frac{x-2}{1} = \frac{y+1}{2} = \frac{z-3}{3}
-    $$
+#### _vector equation:_
+  $$
+  \underset{\sim}{\bm{r}} = \left(\begin{array}{c}2\\ -1\\ 3\end{array}\right) + \lambda \left(\begin{array}{c}1\\ 2\\ 3\end{array}\right)
+  $$
+#### _parametric equation:_
+  $$
+  \begin{aligned}
+  x &= 2 + \lambda \\
+  y &= -1 + 2\lambda \\
+  z &= 3 + 3\lambda
+  \end{aligned}
+  $$
+#### _cartesian equation:_
+  $$
+  \frac{x-2}{1} = \frac{y+1}{2} = \frac{z-3}{3}
+  $$
 
 ## **planes**
 
 * consider a plane passing through position vector $$\underset{\sim}{\bm{a}}$$ and containing two non-parallel vectors $$\underset{\sim}{\bm{b}}$$ and $$\underset{\sim}{\bm{c}}$$
-#### * _vector equation:_
+#### _vector equation:_
   * $$\underset{\sim}{\bm{r}} = \underset{\sim}{\bm{a}} + \lambda \underset{\sim}{\bm{b}} + \mu \underset{\sim}{\bm{c}}$$
   * ![](images/image_3.57965e1e.png)
-#### * _cartesian equation:_
-  * ![](images/image_4.9942acb4.png)
-  * $$
-    \begin{aligned}
-    (\underset{\sim}{\bm{r}} - \underset{\sim}{\bm{a}})\cdot \underset{\sim}{\bm{n}} &= 0 \\
-    \Rightarrow \underset{\sim}{\bm{r}} \cdot \underset{\sim}{\bm{n}} &= \underset{\sim}{\bm{a}} \cdot \underset{\sim}{\bm{n}} \\
-    n_1 x + n_2 y + n_3 z &= k
-    \end{aligned}
-    $$
+#### _cartesian equation:_
+  ![](images/image_4.9942acb4.png)
+
+  $$
+  \begin{aligned}
+  (\underset{\sim}{\bm{r}} - \underset{\sim}{\bm{a}})\cdot \underset{\sim}{\bm{n}} &= 0 \\
+  \Rightarrow \underset{\sim}{\bm{r}} \cdot \underset{\sim}{\bm{n}} &= \underset{\sim}{\bm{a}} \cdot \underset{\sim}{\bm{n}} \\
+  n_1 x + n_2 y + n_3 z &= k
+  \end{aligned}
+  $$
 
 ## **spheres**
 
-#### * _vector equation:_
-  * $$|\underset{\sim}{\bm{r}} - \underset{\sim}{\bm{c}}| = r$$
-  * where:
-    * $$r$$ is the radius
-    * $$\underset{\sim}{\bm{c}}$$ is the position vector of the centre
-  * ![](images/image_5.ca78936e.png)
-#### * _cartesian equation:_
-  * $$(x-a)^2 + (y-b)^2 + (z-c)^2 = r^2$$
-  * where:
-    * $$r$$ is the radius
-    * $$\left(\begin{array}{c}a\\ b\\ c\end{array}\right)$$ is the position vector of the centre
+#### _vector equation:_
+  $$|\underset{\sim}{\bm{r}} - \underset{\sim}{\bm{c}}| = r$$
+  where:
+  * $$r$$ is the radius
+  * $$\underset{\sim}{\bm{c}}$$ is the position vector of the centre
+  ![](images/image_5.ca78936e.png)
+#### _cartesian equation:_
+  $$(x-a)^2 + (y-b)^2 + (z-c)^2 = r^2$$
+  where:
+  * $$r$$ is the radius
+  * $$\left(\begin{array}{c}a\\ b\\ c\end{array}\right)$$ is the position vector of the centre
 
 ## **systems of linear equations**
 
