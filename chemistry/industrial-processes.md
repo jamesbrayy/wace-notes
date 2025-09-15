@@ -19,7 +19,7 @@
   * pressure of 10 - 25 MPa
   * porous catalyst based on $$Fe_3O_4$$
 * _flowchart:_
-  * ![](images/image_1.d02ac0d7.emf)
+  * ![](images/image_1.d02ac0d7.png)
 * to obtain hydrogen for the haber process, two methods are used in succession  
   1. _steam reforming_  
      $$CH_4 (g) + H_2O (g) \rightleftharpoons CO (g) + 3H_2 (g)$$ $$\Delta H = +206\text{ kJ}$$
@@ -100,7 +100,7 @@
 **biodiesel production:**
 
 * biodiesel can be made through a number of different methods:
-  * ![](images/image_4.81f28763.emf)
+  * ![](images/image_4.81f28763.png)
   * _base catalysed transesterification:_
     * have to heat up
     * catalyst must be neutralised to recover glycerol

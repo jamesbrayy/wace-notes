@@ -54,7 +54,7 @@
 ## **electrochemical cells:**
 
 #### _galvanic cells:_
-  * ![](images/image_1.31e2d899.emf)
+  * ![](images/image_1.31e2d899.png)
   * through the salt bridge:
     * anions move into oxidation half-cell
     * cations move into reduction half-cell
@@ -65,7 +65,7 @@
     * cell potential will vary depending on the chemistry of the half cells being used, the concentration of dissolved substances, pressure, and temperature
     * at STP, the cell potential becomes $$E^\circ$$
 #### _standard hydrogen electrode:_
-  * ![](images/image_2.0c01a45e.emf)
+  * ![](images/image_2.0c01a45e.png)
   * at STP, the standard reduction potential for the reduction of hydrogen ions is zero volts
     * $$2\mathrm{H^+}(aq) + 2e^- \rightarrow \mathrm{H_2 (g)}$$
   * this 'reference' electrode enables standard reduction potentials to be determined for a range of substances
@@ -76,11 +76,11 @@
   * unlike electrolysis, electrorefining involves the oxidation of the anode itself
   * in electrolysis, the anode is inert, but in this process it is involved in the reaction
     * the anode in electrorefining is made out of the material that is intended to be refined and the cathode can be made out of any highly-conductive substance like graphite and gold
-  * ![](images/image_3.8e72333d.emf)
+  * ![](images/image_3.8e72333d.png)
 #### _electroplating:_
   * involves depositing a thin layer of one metal over another
   * thin metal layer may act as protection for underlying metal or look better
-  * ![](images/image_4.90762a31.emf)
+  * ![](images/image_4.90762a31.png)
 
 ## **commercial cells:**
 
