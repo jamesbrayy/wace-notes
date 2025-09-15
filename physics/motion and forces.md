@@ -1,8 +1,9 @@
-**newton's laws of motion:**
+## **newton's laws of motion:**
 1. a body at rest will stay at rest and an object in motion will stay in uniform rectilinear motion unless acted upon by an unbalanced external force (law of inertia)
 2. the acceleration of a body will vary proportionate to the unbalanced external force and inversely to the mass of the body
 3. for every action force, there must exist an equal and opposite reaction force
-**torque and equilibrium**
+
+## **torque and equilibrium**
 - ***centre of mass:***
   - centre of mass is the mass-weighted average position of all particles in a system
     - if a homogenous body has a geometric centre, it is the centre of mass of the body
@@ -14,10 +15,7 @@
   - however, if the moment of force is applied elsewhere on an object, rotational motion will occur about the centre of mass as well as translational motion
 - ***torque:***
   - torque is the rotational correspondent of linear force that tends to produce torsion about a pivot
-  - $$\begin{aligned}
-      \vec{\tau} &= r \overrightharpoon{F}_\perp \\
-      &= r |\overrightharpoon{\overrightharpoon{F}}| \sin\theta
-      \end{aligned}$$
+  - $$\begin{aligned} \vec{\tau} &= r \overrightharpoon{F}_\perp \\&= r |\overrightharpoon{\overrightharpoon{F}}| \sin\theta \end{aligned}$$
     - units of $$Nm$$
 - ***equilibrium:***
   - a body is in translational equilibrium if the sum of all external forces acting on its centre of mass is zero, so it experiences no linear acceleration ($$\sum \overrightharpoon{F}=0$$)

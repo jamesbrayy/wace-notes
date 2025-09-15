@@ -1,4 +1,4 @@
-**uniform circular motion:**
+## **uniform circular motion:**
 - uniform circular motion occurs when a body travels at a constant speed and is constantly accelerating towards the centre curvature
 - direction is constantly changing and hence velocity is always changing despite no change in speed
   - $$\left| \overrightharpoon{v}\right|=2\pi rf$$
@@ -7,20 +7,14 @@
   - centripetal force is the net force directed towards the centre of curvature that keeps an object moving in uniform circular motion
   - as it is a description of the direction the net force is acting in and thus should not be drawn on free-body diagrams
   - $$
-\begin{aligned}
-\overrightharpoon{F}_c &= m \overrightharpoon{a}_c = \frac{m \left| \overrightharpoon{v} \right|^2}{r} \, \hat{r} \\[1ex]
-\left| \overrightharpoon{F}_c \right| &= \frac{m v^2}{r} \\[1ex]
-&= \frac{m \left( 2\pi r f \right)^2}{r} \\[1ex]
-&= 4 \pi^2 m r f^2
-\end{aligned}
-$$
+\begin{aligned}\overrightharpoon{F}_c &= m \overrightharpoon{a}_c = \frac{m \left| \overrightharpoon{v} \right|^2}{r} \, \hat{r} \\[1ex]\left| \overrightharpoon{F}_c \right| &= \frac{m v^2}{r} \\[1ex]&= \frac{m \left( 2\pi r f \right)^2}{r} \\[1ex]&= 4 \pi^2 m r f^2\end{aligned}$$
 - ***centrifugal force:***
   - centrifugal force is the sensation that a body feels while moving in a circular path due to being in a non-inertial reference frame
   - it is not to be confused with centripetal force or any other force for that matter as it is only a descriptive tool for the physical sensation of centripetal acceleration
 - ***constant speed vs constant period:***
   - ![](./images/image_1.846ae21b.png)
 
-**banked curves:**
+## **banked curves:**
 - for a body travelling at a certain speed, it is possible to bank a curve such that no frictional force between the body and the incline to maintain a stable circular path
   - this can be achieved through allowing the horizontal component of the normal force to provide the centripetal force
 - for a curve with optimal velocity of $${v}_{opt}$$:
@@ -46,7 +40,7 @@ $$
 - ***example question:***
   - ![](./images/image_2.518856ba.png)
 
-**vertical centripetal motion:**
+## **vertical centripetal motion:**
 - ***upwards circular path:***
   - ![](./images/image_3.d4adc590.png)
 - ***downwards circular path:***

@@ -1,6 +1,6 @@
 
 -----
-**electrostatics:**
+## **electrostatics:**
 - ***charge:***
   - charge is a fundamental property of subatomic particles that governs how they are affected by an external electric or magnetic field.
   - units of $$C$$
@@ -18,10 +18,7 @@
     - $$\begin{aligned}\overrightharpoon{E} &= \frac{\overrightharpoon{V}}{\overrightharpoon{s}} \\ &= \frac{\overrightharpoon{F}_E}{q} \end{aligned}$$
       - units of $$N{C}^{-1}$$ or $$V{m}^{-1}$$
   - *work:*
-    - $$\begin{aligned}
-    W &= \Delta E \\
-    &= q \Delta V
-    \end{aligned}$$
+    - $$\begin{aligned} W &= \Delta E \\ &= q \Delta V \end{aligned}$$
     - the field will do work on the charged particle when:
       - a positive charge moves with the field
       - a negative charge moves against the field
@@ -34,7 +31,7 @@
     - arrows are oriented towards negative and away from positive charges
     - uniform electric fields produce parallel and evenly spaced lines
 
-**magnetism:**
+## **magnetism:**
 - ***domain theory of magnetism:***
   - a domain is a small region of spontaneous magnetism that exists even when no external magnetic field is present due to the alignment of magnetic moments of a group of atoms
   - to magnetise a material, these domains must change so that they coalesce to form a singular domain
@@ -57,15 +54,9 @@
     - materials with wide loops (*e.g.* hard iron) retain domain alignment, making them ideal for permanent magnets
 - ***magnetic force:***
   - on a moving charged particle:
-    - $$\begin{aligned}
-    \overrightharpoon{F}_B &= q \left( \overrightharpoon{v} \times \overrightharpoon{B} \right) \\
-    \left| \overrightharpoon{F}_B \right|&= q \left| v \right| \left| B \right| \sin\theta
-    \end{aligned}$$
+    - $$\begin{aligned}    \overrightharpoon{F}_B &= q \left( \overrightharpoon{v} \times \overrightharpoon{B} \right) \\ \left| \overrightharpoon{F}_B \right|&= q \left| v \right| \left| B \right| \sin\theta \end{aligned}$$
   - on a current-carrying conductor:
-    - $$\begin{aligned}
-    \overrightharpoon{F}_B &= I \left( \overrightharpoon{L} \times \overrightharpoon{B} \right) \\
-    \left| \overrightharpoon{F}_B \right| &= I \left| \overrightharpoon{L}\right| \left| \overrightharpoon{B} \right| \sin\theta
-    \end{aligned}$$
+    - $$\begin{aligned} \overrightharpoon{F}_B &= I \left( \overrightharpoon{L} \times \overrightharpoon{B} \right) \\ \left| \overrightharpoon{F}_B \right| &= I \left| \overrightharpoon{L}\right| \left| \overrightharpoon{B} \right| \sin\theta \end{aligned}$$
 - ***magnetic fields:***
   - a magnetic field is a region of influence that surrounds a magnetic material
   - magnets are always dipolar unlike electric charges which can exist as isolated monopoles
@@ -79,14 +70,11 @@
 - ***magnetic flux:***
   - magnetic flux is a measurement of the total magnetic field that passes through a given area
     - effectively a measurement of the concentration of the magnetic field
-  - $$\begin{aligned}
-  \Phi &= \overrightharpoon{B} \cdot \overrightharpoon{A}_\perp \\
-  &= \left| \overrightharpoon{B} \right| \, \left| \overrightharpoon{A} \right| \cos\theta
-  \end{aligned}$$
+  - $$\begin{aligned} \Phi &= \overrightharpoon{B} \cdot \overrightharpoon{A}_\perp \\ &= \left| \overrightharpoon{B} \right| \, \left| \overrightharpoon{A} \right| \cos\theta \end{aligned}$$
     - where $$\mathit{\theta}$$ is the angle between the normal vector of the area and the direction of the magnetic field
     - units of $$Wb$$ or $$T{m}^{2}$$ or $$Vs$$
 
-**principles of electromagnetism:**
+## **principles of electromagnetism:**
 - ***electromotive force (EMF):***
   - electromotive force is a difference in potential that gives rise to an electric current
     - units of $$V$$ or $$J{C}^{-1}$$ or $$kg\ {m}^{2}\ {s}^{-3}\ {A}^{-1}$$
@@ -94,10 +82,7 @@
   - electromagnetic induction is the production of an electromotive force and thus current across an electrical conductor due to its interaction with an external magnetic field
   - *faraday's law:*
     - "the induced EMF in a conductor is proportional to the rate of change of magnetic flux with respect to time"
-    - $$\begin{aligned}
-    \varepsilon &= -\frac{d\Phi}{dt} \\
-    &\approx -\frac{\Delta\Phi}{\Delta t}
-    \end{aligned}$$
+    - $$\begin{aligned} \varepsilon &= -\frac{d\Phi}{dt} \\ &\approx -\frac{\Delta\Phi}{\Delta t} \end{aligned}$$
   - *lenz's law:*
     - "the direction of the induced EMF and thus the associated current will be such as to oppose the change in magnetic flux that induced it" or "if the magnetic flux increases, the induced EMF and current will be in such a direction to decrease the net magnetic flux"
     - required by the conservation of energy as otherwise magnets and solenoids would form positive feedback loops and accelerate without work being done on the system
@@ -114,10 +99,7 @@
     - when a metal conductor moves in an external magnetic field, forces will be exerted on the charged particles within it
     - the forces on the different charges will be in different directions, creating a separation of charges across its direction of movement and thus an induced EMF
     - realistically, only the delocalised electrons within the metal will move as the positively charged atomic nuclei are locked into a lattice
-    - $$\begin{aligned}
-    \varepsilon &= \left( \overrightharpoon{v} \times \overrightharpoon{B} \right) \cdot \overrightharpoon{L} \\
-    &= \left| \overrightharpoon{v} \right| \left| \overrightharpoon{B} \right| \left| \overrightharpoon{L} \right| \sin\theta
-    \end{aligned}$$
+    - $$\begin{aligned} \varepsilon &= \left( \overrightharpoon{v} \times \overrightharpoon{B} \right) \cdot \overrightharpoon{L} \\ &= \left| \overrightharpoon{v} \right| \left| \overrightharpoon{B} \right| \left| \overrightharpoon{L} \right| \sin\theta \end{aligned}$$
 - ***hand rules (thumb, $$\bm{1^{st}}$$, $$\bm{2^{nd}}$$):***
   - *fleming's left-hand rule ($$\overrightharpoon{F}$$, $$\overrightharpoon{B}$$, $$I$$):*
     - use when a current is flowing through a conductor in a magnetic field and you want to find the direction of the force on that conductor
@@ -132,7 +114,7 @@
     - use to find the direction of the magnetic field around a current-carrying conductor
     - fingers curl in the direction of the magnetic field $$\overrightharpoon{B}$$ and thumb points in the direction of the current $$I$$
 
-**applications of electromagnetism:**
+## **applications of electromagnetism:**
 - ***DC motors:***
   - a motor is a device that converts electrical energy into mechanical energy
   - *components of a DC motor:*
@@ -147,13 +129,7 @@
     4. the split-ring commutator reverses the current in the rotor every half rotation, maintaining the torque direction and enabling continuous rotation
   - ![DC Electric Motors](./images/image_2.40808227.png)
   - *torque:*
-    - $$\begin{aligned}
-      \vec{\tau} &= r \overrightharpoon{F}_\perp \\
-      &= r |\overrightharpoon{\overrightharpoon{F}}| \sin\theta \\
-      \vec{\tau}_{\max} &= n\,2r\,|\overrightharpoon{F}| \sin\theta \\
-      &= n\,2r\,I\,|\overrightharpoon{L}|\,|\overrightharpoon{B}| \sin\theta \\
-      &= n\,A\,I\,|\overrightharpoon{B}| \sin\theta
-      \end{aligned}$$
+    - $$\begin{aligned} \vec{\tau} &= r \overrightharpoon{F}_\perp \\ &= r |\overrightharpoon{\overrightharpoon{F}}| \sin\theta \\ \vec{\tau}_{\max} &= n\,2r\,|\overrightharpoon{F}| \sin\theta \\ &= n\,2r\,I\,|\overrightharpoon{L}|\,|\overrightharpoon{B}| \sin\theta \\ &= n\,A\,I\,|\overrightharpoon{B}| \sin\theta \end{aligned}$$
 - ***generators:***
   - a generator is a device that converts mechanical energy into electrical energy
   - *components of an AC generator:*
@@ -169,15 +145,7 @@
   - to produce DC, a split-ring commutator can be used which will ensure the polarity of the current is the same at all points in the cycle despite a changing magnitude
   - *maximum EMF:*
     - an AC generator produces an AC voltage, with the peak voltage given by the below formula
-      - $$\begin{aligned}
-\Phi
-   &= n |\overrightharpoon{B}| |\overrightharpoon{A}| \cos(2\pi f t) \\[1.2ex]
-\frac{d\Phi}{dt}
-   &= 2\pi f n |\overrightharpoon{B}|  |\overrightharpoon{A}| \sin(2\pi f t) \quad \quad , \text{maximum will occur when} \sin(2\pi f t)=1\\[1.2ex]
-\therefore \varepsilon_{\max}
-   &= 2\pi |\overrightharpoon{B}| |\overrightharpoon{A}| n f \\
-      &= 2 n \left| \overrightharpoon{v} \right| \left| \overrightharpoon{B} \right| \left| \overrightharpoon{L} \right|
-\end{aligned}
+      - $$\begin{aligned}\Phi &= n |\overrightharpoon{B}| |\overrightharpoon{A}| \cos(2\pi f t) \\[1.2ex] \frac{d\Phi}{dt} &= 2\pi f n |\overrightharpoon{B}|  |\overrightharpoon{A}| \sin(2\pi f t) \quad \quad , \text{maximum will occur when} \sin(2\pi f t)=1\\[1.2ex] \therefore \varepsilon_{\max} &= 2\pi |\overrightharpoon{B}| |\overrightharpoon{A}| n f \\ &= 2 n \left| \overrightharpoon{v} \right| \left| \overrightharpoon{B} \right| \left| \overrightharpoon{L} \right| \end{aligned}
 $$
     - in order to apply standard circuit equations to the AC, the root mean square (RMS) voltage must be considered instead of the peak voltage
       - the RMS voltage represents the equivalent DC voltage that would deliver the same power to a resistive load
