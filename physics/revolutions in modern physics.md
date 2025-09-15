@@ -7,7 +7,7 @@
     - the experiment:
       - used a monochromatic light source with two narrow slits
       - the light emerging from the slits is coherent (in phase) because a single source produced both beams of light
-    - ![Single and Double Slit Comparison](./images/image_1.59f91fea.png)
+    - ![Single and Double Slit Comparison](./images/image_1.59f91fea.jpg)
   - *the photoelectric effect:*
     - einstein attributed the quantisation of energy that planck suggested to be intrinsic to the light itself, called the particles photons
     - the photons were extremely localised in that they give all of their energy to one electron in the metal
@@ -52,7 +52,7 @@
     - this means that there is not a continuous distribution of oscillator energies, but instead the oscillators could only have specific discrete energies that were dependent on their frequency
     - while for classical waves energy is proportional to amplitude, for electromagnetic waves it is proportional to frequency
     - for a given energy there is a highest possible frequency that a blackbody can emit
-      - $$\begin{aligned}E &= n h f$$
+      - $$\begin{aligned}E &= n h f \end{aligned}$$
 
 ### ***photoelectric effect***
   - electromagnetic radiation transmits energy, so when this radiation interacts with a piece of metal, the surface of the metal absorbs some of the radiated energy
@@ -228,7 +228,7 @@
       - this is a strong argument against the steady-state model
 ### ***nuclear fusion in stars***
   - *proton-proton chain:*
-    - ![File:Proton-proton reaction chain.svg - Wikimedia Commons](./images/image_4.65d25dcf.png)
+    - ![File:Proton-proton reaction chain.svg - Wikimedia Commons](./images/image_4.65d25dcf.jpg)
   - *CNO cycle:*
     - ![CNO Cycle | Physics Feed](./images/image_5.11e4dcec.jpg)
 ### ***chronology of the universe***
