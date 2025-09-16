@@ -15,8 +15,8 @@
 
 #### _partial fractions_
 
-* given a function $\frac{f\left(x\right)}{g\left(x\right)}$ where the degree of $f$ is greater than the degree of $q$:
-  * for distinct linear factors $g\left(x\right)=\left(x-a\right)\left(x-b\right)\dots $
+* given a function $$\frac{f\left(x\right)}{g\left(x\right)}$$ where the degree of $f$ is greater than the degree of $q$:
+  * for distinct linear factors $$g\left(x\right)=\left(x-a\right)\left(x-b\right)\dots $$
     * $$\begin{aligned}\frac{f(x)}{g(x)} &= \frac{A}{x-a} + \frac{B}{x-b} + \dots \\f(x) &= A(x-b) + B(x-a) + \dots\end{aligned}$$
   * for repeated linear factors $g\left(x\right)={\left(x-a\right)}^{n}$
     * $$\begin{aligned}\frac{f(x)}{g(x)} &= \frac{A}{x-a} + \frac{B}{(x-a)^2} + \dots + \frac{N}{(x-a)^n} \\f(x) &= A(x-a)^{n-1} + B(x-a)^{n-2} + \dots + Y(x-a) + Z\end{aligned}$$
