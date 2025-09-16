@@ -15,10 +15,10 @@
 
 #### _partial fractions_
 
-* given a function $$\frac{f\left(x\right)}{g\left(x\right)}$$ where the degree of $f$ is greater than the degree of $q$:
+* given a function $$\frac{f\left(x\right)}{g\left(x\right)}$$ where the degree of $$f$$ is greater than the degree of $$q$$:
   * for distinct linear factors $$g\left(x\right)=\left(x-a\right)\left(x-b\right)\dots $$
     * $$\begin{aligned}\frac{f(x)}{g(x)} &= \frac{A}{x-a} + \frac{B}{x-b} + \dots \\f(x) &= A(x-b) + B(x-a) + \dots\end{aligned}$$
-  * for repeated linear factors $g\left(x\right)={\left(x-a\right)}^{n}$
+  * for repeated linear factors $$g\left(x\right)={\left(x-a\right)}^{n}$$
     * $$\begin{aligned}\frac{f(x)}{g(x)} &= \frac{A}{x-a} + \frac{B}{(x-a)^2} + \dots + \frac{N}{(x-a)^n} \\f(x) &= A(x-a)^{n-1} + B(x-a)^{n-2} + \dots + Y(x-a) + Z\end{aligned}$$
 
 #### _volumes of revolution_
@@ -42,14 +42,14 @@
 
 #### _related rates_
 
-* just write down all parameters at start of question and remember $\frac{dy}{dx}=\frac{dy}{dz}\times \frac{dz}{dx}$
+* just write down all parameters at start of question and remember $$\frac{dy}{dx}=\frac{dy}{dz}\times \frac{dz}{dx}$$
 
 #### logistic curves
 
 * $$\begin{aligned}\frac{dP}{dt} &= r P (k - P) \\P &= \frac{k}{1 + \left( \frac{k}{P_0} - 1 \right) e^{-r k t}}\end{aligned}$$
 * ![](images/image_4.cdceb8f1.png)
-* to go from $\frac{dP}{dt}$ to $P$, separate and use partial fractions
-* to go from $P$ to $\frac{dP}{dt}$, use a u- substitution for the denominator and implicitly differentiate
+* to go from $$\frac{dP}{dt}$$ to $$P$$, separate and use partial fractions
+* to go from $$P$$ to $$\frac{dP}{dt}$$, use a $$u$$- substitution for the denominator and implicitly differentiate
   * ![](images/image_5.661d2628.png)
 
 ## **motion**
@@ -65,6 +65,5 @@
 * $$v^2 = k^2 (A^2 - x^2)$$
 
 ## **vector calculus**
-
-* just normal calculus with vectors
-* not that deep
+* $$\begin{aligned} \text{distance travelled from }t_1 \text{ to } t_2 &= \int_{t_1}^{t_2} | \overrightharpoon{v}(t) | \: dt \\&= \int_{t_1}^{t_2} \sqrt{ \big(v_x(t)\big)^2 + \big(v_y(t)\big)^2 } \, dt\end{aligned}$$
+* $$\text{change in displacement} = \int_{t_1}^{t_2} \vec{v}(t) \, dt$$
