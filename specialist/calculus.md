@@ -65,5 +65,5 @@
 * $$v^2 = k^2 (A^2 - x^2)$$
 
 ## **vector calculus**
-* $$\begin{aligned} \text{distance travelled from }t_1 \text{ to } t_2 &= \int_{t_1}^{t_2} | \overrightharpoon{v}(t) | \: dt \\&= \int_{t_1}^{t_2} \sqrt{ \big(v_x(t)\big)^2 + \big(v_y(t)\big)^2 } \, dt\end{aligned}$$
-* $$\text{change in displacement} = \int_{t_1}^{t_2} \vec{v}(t) \, dt$$
+* $$\begin{aligned} \text{distance travelled from }t_1 \text{ to } t_2 &= \int_{t_1}^{t_2} | \underset{\sim}{{v}}(t) | \: dt \\&= \int_{t_1}^{t_2} \sqrt{ \big(v_x(t)\big)^2 + \big(v_y(t)\big)^2 } \, dt\end{aligned}$$
+* $$\text{change in displacement} = \int_{t_1}^{t_2} \underset{\sim}{{v}}(t) \, dt$$
