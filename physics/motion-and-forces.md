@@ -16,7 +16,7 @@
   * if a homogenous body has a geometric centre, it is the centre of mass of the body
   * if a body has an axis or axes of symmetry, the centre of mass will lie somewhere along it or on their intersection respectively
   * centre of mass can lie outside of a body (_e.g._ for a torus)
-&#x20;$$\begin{aligned} \left({x}_{c},{y}_{c},\ {z}_{c}\right) &= \left(\frac{{m}_{1}{x}_{1}+{m}_{2}{x}_{2}+\dots +{m}_{n}{x}_{n}}{{m}_{1}+{m}_{2}+\dots +{m}_{n}},\ \ \frac{{m}_{1}{y}_{1}+{m}_{2}{y}_{2}+\dots +{m}_{n}{y}_{n}}{{m}_{1}+{m}_{2}+\dots +{m}_{n}},\ \ \ \ \frac{{m}_{1}{z}_{1}+{m}_{2}{z}_{2}+\dots +{m}_{n}{z}_{n}}{{m}_{1}+{m}_{2}+\dots +{m}_{n}}\right) \\ &= \left(\frac{\sum _{i=1}^{n}{m}_{i}{x}_{i}}{\sum _{i=1}^{n}{m}_{i}},\ \ \frac{\sum _{i=1}^{n}{m}_{i}{y}_{i}}{\sum _{i=1}^{n}{m}_{i}},\ \ \frac{\sum _{i=1}^{n}{m}_{i}{z}_{i}}{\sum _{i=1}^{n}{m}_{i}}\right) \end{aligned}$$
+&#x20;$$\begin{aligned} \left({x}_{c},{y}_{c},\ {z}_{c}\right) &= \left(\frac{{m}_{1}{x}_{1}+\dots +{m}_{n}{x}_{n}}{{m}_{1}+\dots +{m}_{n}},\ \ \ \ \frac{{m}_{1}{y}_{1}+\dots +{m}_{n}{y}_{n}}{{m}_{1}+\dots +{m}_{n}},\ \ \ \ \frac{{m}_{1}{z}_{1}+\dots +{m}_{n}{z}_{n}}{{m}_{1}+\dots +{m}_{n}}\right) \\ &= \left(\frac{\sum _{i=1}^{n}{m}_{i}{x}_{i}}{\sum _{i=1}^{n}{m}_{i}},\ \ \frac{\sum _{i=1}^{n}{m}_{i}{y}_{i}}{\sum _{i=1}^{n}{m}_{i}},\ \ \frac{\sum _{i=1}^{n}{m}_{i}{z}_{i}}{\sum _{i=1}^{n}{m}_{i}}\right) \end{aligned}$$
 * applying a force through the centre of mass of an object will simply result in translational motion
 * however, if the moment of force is applied elsewhere on an object, rotational motion will occur about the centre of mass as well as translational motion
 
