@@ -23,7 +23,7 @@
 * [methods](methods/methods.md)
 * [engineering](engineering/engineering.md)
 * [literature](literature/README.md)
-  * [the fountainhead](literature/the-fountainhead.md)
   * [equus](literature/equus.md)
   * [o me! o life!](literature/o-me-o-life.md)
+  * [the fountainhead](literature/the-fountainhead.md)
   * [close reading](literature/close-reading.md)

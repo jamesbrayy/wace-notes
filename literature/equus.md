@@ -4,13 +4,17 @@ description: tragic drama written by Peter Shaffer (1973)
 
 # equus
 
+## nutshell
+
+Peter Shaffer's 1973 tragic drama Equus captures the nuanced intersection of contemporary spiritual alienation and raw, untamed emotion, as paediatric psychiatrist Martin Dysart endeavours to understand the disturbing case of 17-year-old Alan Strang, whose pious turned violent fascination with horses prompts an unwelcomed confrontation with the spiritual vacuity of his own 'normal' existence.
+
 ## primary evidence
 
 > _**Dysart:**_**&#x20;"In it I'm a chief priest in Homeric Greece. I'm wearing a golden mask, all noble and bearded, like the so-called Mask of Agamemnon found at Mycenae."**
 
 * allusion
   * dysart directly compares himself with agamemnon in his dream sequence, due to the sacrifice of his daughter that he performed for the betterment of others
-  * dysart feels the same way about the  treatment of mentally ill children in order to help them fit into society
+  * dysart feels the same way about the treatment of mentally ill children in order to help them fit into society
   * at the end of the sequence the eyes of the mask fill up with blood, links to oedipus with his relentless search for truth
 
 > _**Dysart:**_**&#x20;"Sacrifices to Zeus took at the most, surely, sixty seconds each. Sacrifices to the Normal can take as long as sixty months" \[The natural sound of the pencil resumes. Light changes back.]**
@@ -19,8 +23,7 @@ description: tragic drama written by Peter Shaffer (1973)
   * equates clinical treatment with ancient greek blood sacrifice
   * temporal contrast exposes how modern psychiatry is protracted and insidious, no less violent to individuality
 
-> _**Dora:**_**&#x20;"He saith among the trumpets - "**
-> \
+> _**Dora:**_**&#x20;"He saith among the trumpets - "**\
 > &#xNAN;_**Alan \[trumpeting]:**_**&#x20;"Ha! Ha!"**
 
 * dramatic irony
@@ -47,28 +50,47 @@ description: tragic drama written by Peter Shaffer (1973)
 
 > _**Dysart:**_**&#x20;"In an ultimate sense I cannot know what I do in this place - yet I do ultimate things. Essentially I cannot know what I do - yet I do essential things. Irreversible, terminal things. I stand in the dark with a pick in my hand, striking at heads!"**
 
-* paradoxical polyptoton&#x20;
+* paradoxical polyptoton
   * “ultimate” and “essential” are closely related but not identical
-  * the polyptoton highlights both the similarity and distinction, making dysart’s cognitive dissonance  more acute
+  * the polyptoton highlights both the similarity and distinction, making dysart’s cognitive dissonance more acute
 
 > _**Dysart:**_**&#x20;"My desire might be to make this boy an ardent husband—a caring citizen—a worshipper of abstract and unifying God. My achievement, however, is more likely to make a ghost!"**
 
 * antithesis
   * emphasises dysart’s despair and the futility of imposing societal or moral ideals onto human nature
 
-## general essay framework
+## genre
 
-#### introduction:
+### greek tragedy
 
-* Peter Shaffer's 1973 tragic drama Equus captures the nuanced intersection of contemporary spiritual alienation and raw, untamed emotion, as paediatric psychiatrist Martin Dysart endeavours to understand the disturbing case of 17-year-old Alan Strang, whose pious turned violent fascination with horses prompts an unwelcomed confrontation with the spiritual vacuity of his own 'normal' existence.
-* _\[thesis]_
+#### support
 
-#### topic sentences:
+* the staging of Equus parallels that seen in Ancient Greek theatre.
+* arguably an anagnorisis for Dysart
+* evocation of pathos and phobos in the audience
 
-* The _\[type of technique]_ of _\[techniques]_ are integral in the development of \_\_\_\_\_.
-* Underpinned by Shaffer's application of _\[techniques]_, the text effectively forwards \_\_\_\_\_.
-* The _\[concept]_ of \_\_\_\_\_  is developed in Equus through the deliberate inclusion of _\[techniques]._
+#### challenge
 
-#### conclusion:
+* classical unities are disrupted (most notably time and place due to analepsis)
+* spectacle plays a significant role
+* lack of true catharsis
 
-* A thorough analysis of Shaffer's 1973 tragic drama Equus highlights how the use of \[techniques] allows for \_\_\_\_\_.
+### modern tragedy
+
+#### support
+
+* use of temporal distortion (analepsis and prolepsis)
+* conflict driven by flaws in society as well as individual
+* Dysart fits with Miller's formulation of tragic hero
+* aesthetic considerations
+
+#### challenge
+
+* set design and costuming are more expressionistic than realistic
+* strong sense of spectacle not found in typical modern tragedy
+
+## ideology
+
+### antipsychiatry
+
+### existentialism

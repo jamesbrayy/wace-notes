@@ -4,6 +4,10 @@ description: philosophical fiction novel written by Ayn Rand (1943)
 
 # the fountainhead
 
+## nutshell
+
+Ayn Rand's 1943 philosophical fiction novel The Fountainhead follows the career of uncompromising architect Howard Roark, whose resistance to moral and aesthetic conformity positions him in perpetual conflict with authority and broader society. The text explores the conditions under which independent reason and integrity can assert themselves against the pressures of a collectivist society, articulating a defence of core objectivist ideals.
+
 ## primary evidence
 
 > "Independence is the only gauge of human virtue and value. What a man is and makes of himself; not what he has or hasn't done for others." _- Howard Roark_
@@ -37,20 +41,3 @@ description: philosophical fiction novel written by Ayn Rand (1943)
 > "No man can live for another. He cannot share his spirit just as he cannot share his body."   _- Howard Roark_
 
 *
-
-## general essay framework
-
-### introduction:
-
-* Ayn Rand's 1943 philosophical fiction novel The Fountainhead follows the career of uncompromising architect Howard Roark, whose resistance to moral and aesthetic conformity positions him in perpetual conflict with authority and broader society. The text explores the conditions under which independent reason and integrity can assert themselves against the pressures of a collectivist society, articulating a defence of core objectivist ideals.
-* _\[thesis]_
-
-### topic sentences:
-
-* The _\[type of technique]_ of _\[techniques]_ are integral in the development of \_\_\_\_\_.
-* Underpinned by Rand's application of _\[techniques]_, the text effectively forwards \_\_\_\_\_.
-* The _\[concept]_ of \_\_\_\_\_  is developed in The Fountainhead through the deliberate inclusion of _\[techniques]_.
-
-### conclusion:
-
-* A thorough analysis of Rand's 1943 philosophical fiction novel The Fountainhead highlights how the use of \[techniques] allows for \_\_\_\_\_.

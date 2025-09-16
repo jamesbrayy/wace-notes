@@ -4,6 +4,10 @@ description: transcendentalist poem written by Walt Whitman (1867)
 
 # o me! o life!
 
+## nutshell
+
+Walt Whitman's 1867 free verse poem 'O Me! O Life!' presents an introspective mediation on existential questions amid societal disillusionment, reflecting upon the complexities of the individual within the broader context of life's challenges and uncertainties.
+
 ## full poem
 
 > O me! O life! Of the questions of these recurring,
@@ -26,19 +30,54 @@ description: transcendentalist poem written by Walt Whitman (1867)
 >
 > That the powerful play goes on, and you may contribute a verse.
 
-## general essay framework
+## transcendentalism
 
-### introduction:
+### the values of existential agency and authenticity
 
-* Walt Whitman's 1867 free verse poem 'O Me! O Life!' presents an introspective mediation on existential questions amid societal disillusionment, reflecting upon the complexities of the individual within the broader context of life's challenges and uncertainties.
-* _\[thesis]_
+**connotations of free verse**
 
-### topic sentences:
+* signifies a rejection of traditional, rigid forms, mirroring the speaker's desire for individual expression and autonomy
+* it reinforces transcendentalist values by allowing the speaker to express personal struggles and existential dilemmas without constraints
 
-* The _\[type of technique]_ of _\[techniques]_ are integral in the development of \_\_\_\_\_.
-* Underpinned by Whitman's application of _\[techniques]_, the text effectively forwards \_\_\_\_\_.
-* The _\[concept]_ of \_\_\_\_\_  is developed in 'O Me! O Life!' through the deliberate inclusion of _\[techniques]_.
+**anaphora**
 
-### conclusion:
+* repetition enforces the cyclical nature of his existential questions
 
-* A thorough analysis of Whitman's 1973 free verse transcendentalist poem 'O Me! O Life!' highlights how the use of \[techniques] allows for \_\_\_\_\_.
+**sentence type**
+
+* exclamatory sentence "O me! O life!" expresses frustration and an emotional reaction to the world’s challenges
+* interrogative "What good amid these, O me, O life?" highlights the speaker's search for meaning and purpose
+* emphasise the speaker's internal struggle and desire to confront life authentically
+
+### a contemplative attitude towards life and its problems
+
+**fricative alliteration**
+
+* harsh, grating /f/ sound reflects the speaker's disillusionment with society
+* contributes to contemplative mood, suggesting the speaker's struggle to come to terms with the complexity of the world
+
+assonance
+
+* long /ay/ sound d that links "vainly", "crave" "trains", and "faithless" evokes just how long those cynical processions feel
+* the proximity of the /f/ to the /ay/ intensifies the effect of each
+
+caesura and enjambment
+
+* use of caesura slows the pace, forcing the reader to pause and reflect alongside the speaker, mirroring the contemplative nature of the speaker’s search for meaning
+
+### the assumption that humans possess innate moral goodness but are susceptible to social corruption
+
+**volta and tone shift**
+
+* _"Answer."_
+* tone goes from despondent and aporetic to optimistic and epiphanic
+
+**metaphor**
+
+* “That the powerful play goes on, and you may contribute a verse.”
+* suggests that life is an ongoing performance, and each individual has the potential to contribute positively
+
+**apostrophe**
+
+* use of apostrophe in addressing 'you' creates a direct connection between the speaker and
+* highlights the speaker’s realisation that despite life's challenges, individuals have the power to contribute meaningfully to the greater “play,” suggesting inherent goodness and the possibility of spiritual redemption.
