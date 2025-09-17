@@ -13,9 +13,10 @@
 
 * centripetal force is the net force directed towards the centre of curvature that keeps an object moving in uniform circular motion
 * as it is a description of the direction the net force is acting in and thus should not be drawn on free-body diagrams
-*
 
-\begin{aligned}\overrightharpoon{F}\_c &= m \overrightharpoon{a}\_c = \frac{m \left| \overrightharpoon{v} \right|^2}{r} , \hat{r} \\\[1ex]\left| \overrightharpoon{F}\_c \right| &= \frac{m v^2}{r} \\\[1ex]&= \frac{m \left( 2\pi r f \right)^2}{r} \\\[1ex]&= 4 \pi^2 m r f^2\end{aligned}\$$
+$$\begin{aligned}\overrightharpoon{F}_c  = m \overrightharpoon{a}_c &= \frac{m\lvert\overrightharpoon{v}\rvert^2}{r}\,\hat r \\[1ex]\left\lvert \overrightharpoon{F}_c \right\rvert &= \frac{m v^2}{r} \\[1ex] &= \frac{m\left(2\pi r f\right)^2}{r} \\[1ex] &= 4\pi^2 m r f^2\end{aligned}$$
+
+
 
 #### _**centrifugal force**_
 
