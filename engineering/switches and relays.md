@@ -36,7 +36,7 @@
 
 #### _advantages and disadvantages_
 
-- ![](images/image_1.736772bc.emf)
+- ![](images/image_1.736772bc.png)
 
 
 
@@ -77,5 +77,5 @@
 
 advantages and disadvantages
 
-- ![](images/image_2.3c9fe358.emf)
+- ![](images/image_2.3c9fe358.png)
 

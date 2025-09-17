@@ -136,7 +136,7 @@ ULN2803A motor driver
 - alternatively, a ULN2803A motor driver can be used instead of individual transistors and diodes
   - this simplifies the circuit design by integrating multiple transistors and diodes into a single package, providing higher current gain and better performance for driving stepper motors
 
-- ![](images/image_6.bffd9730.emf)
+- ![](images/image_6.bffd9730.png)
 
 
 
