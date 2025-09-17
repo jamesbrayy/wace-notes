@@ -5,11 +5,11 @@
 ## resistors
 
 #### _types of resistors_
-- **fixed value resistor: **the resistance cannot change, and is indicated by the coloured bands on the resistor
-- **variable resistor/rheostat: **the resistance can be adjusted with the dial, spindle, or wiper, and there are two connection points to this resistor
-- **potentiometer/trimpot: **the resistance can be adjusted with the dial, spindle, or wiper, and there are three connections to this resistor
-- **NIC photoresistor: **the resistance is inversely proportional to the intensity of light falling on the resistor
-- **NTC thermistor: **the resistance is inversely proportional to the temperature detected by the resistor
+- **fixed value resistor:** the resistance cannot change, and is indicated by the coloured bands on the resistor
+- **variable resistor/rheostat:** the resistance can be adjusted with the dial, spindle, or wiper, and there are two connection points to this resistor
+- **potentiometer/trimpot:** the resistance can be adjusted with the dial, spindle, or wiper, and there are three connections to this resistor
+- **NIC photoresistor:** the resistance is inversely proportional to the intensity of light falling on the resistor
+- **NTC thermistor:** the resistance is inversely proportional to the temperature detected by the resistor
 
 #### _4-band resistor colour codes_
 - ![](images/image_1.1c3653fd.png)
