@@ -71,7 +71,7 @@
 - **automotive:** used in car headlights, starter motors, etc
 - **industrial automation:** controls machinery and safety systems
 - **telecommunications:** used in signal switching and data transmission
-- **microcontrollers: **relays allow microcontrollers to control devices that require higher voltages or currents than the microcontroller can handle directly
+- **microcontrollers:** relays allow microcontrollers to control devices that require higher voltages or currents than the microcontroller can handle directly
 
 
 

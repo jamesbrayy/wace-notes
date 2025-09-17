@@ -26,7 +26,7 @@
 
 #### _overview_
 - batteries and capacitors are both components used in electronics to store and release electrical energy
-- *key differences:*
+- _key differences:_
   - capacitors store electrical energy in an electric field between two conductive plates. they can store less energy compared to batteries but can release it much faster
   - capacitors release energy much more rapidly than batteries, making them suitable for applications requiring quick bursts of power, such as camera flashes or smoothing out voltage fluctuations in electronic circuits
   - capacitors can be charged and discharged repeatedly without significant degradation, unlike some batteries, making them ideal for applications where frequent energy storage and release cycles are needed

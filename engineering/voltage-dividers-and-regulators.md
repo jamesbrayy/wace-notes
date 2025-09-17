@@ -15,17 +15,17 @@
 
 #### _applications of voltage dividers_
 
-- **w/ variable resistor: **as you adjust the variable resistor, you change the ratio of resistance in the circuit, hence changing the output voltage.
+- **w/ variable resistor:** as you adjust the variable resistor, you change the ratio of resistance in the circuit, hence changing the output voltage.
   - ![](images/image_2.474d1742.png)
 
-- **w/ potentiometer: **as you adjust the potentiometer, you change the resistance between the middle and the outer terminals, hence changing the output voltage
+- **w/ potentiometer:** as you adjust the potentiometer, you change the resistance between the middle and the outer terminals, hence changing the output voltage
   - ![](images/image_3.9636fe02.png)
 
-- **w/ thermistor: **one resistor is a fixed value, and the other is the negative temperature coefficient (NTC) thermistor, meaning <!--[if mathML]><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mo>∆</mml:mo><mml:mi>T</mml:mi><mml:mo>∝</mml:mo><mml:mrow><mml:mn>1</mml:mn><mml:mo>/</mml:mo><mml:mi>R</mml:mi></mml:mrow></mml:math><![endif]-->
+- **w/ thermistor:** one resistor is a fixed value, and the other is the negative temperature coefficient (NTC) thermistor, meaning <!--[if mathML]><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mo>∆</mml:mo><mml:mi>T</mml:mi><mml:mo>∝</mml:mo><mml:mrow><mml:mn>1</mml:mn><mml:mo>/</mml:mo><mml:mi>R</mml:mi></mml:mrow></mml:math><![endif]-->
   - when it’s a higher temperature, the thermistor's resistance decreases, hence inducing a higher output voltage. vice versa for lower temperature.
   - ![](images/image_4.f127f373.png)
 
-- **w/ photoresistor: **one resistor is a fixed value, and the other is the photoresistor, meaning <!--[if mathML]><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mo>∆</mml:mo><mml:mi mathvariant="normal">I</mml:mi><mml:mo>∝</mml:mo><mml:mrow><mml:mn>1</mml:mn><mml:mo>/</mml:mo><mml:mi>R</mml:mi></mml:mrow></mml:math><![endif]-->.
+- **w/ photoresistor:** one resistor is a fixed value, and the other is the photoresistor, meaning <!--[if mathML]><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mo>∆</mml:mo><mml:mi mathvariant="normal">I</mml:mi><mml:mo>∝</mml:mo><mml:mrow><mml:mn>1</mml:mn><mml:mo>/</mml:mo><mml:mi>R</mml:mi></mml:mrow></mml:math><![endif]-->.
   - when the light intensity is greater, the photoresistor's resistance decreases. hence inducing a higher output voltage. vice versa for lower light intensity.
   - ![](images/image_5.b600c81f.png)
 
