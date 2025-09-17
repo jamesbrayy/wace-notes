@@ -27,3 +27,4 @@
   * [o me! o life!](literature/o-me-o-life.md)
   * [the fountainhead](literature/the-fountainhead.md)
   * [close reading](literature/close-reading.md)
+  * [time management](literature/time-management.md)
