@@ -1,4 +1,4 @@
-# Table of contents
+# table of contents
 
 * [index](README.md)
 * [physics](physics/README.md)
@@ -22,12 +22,12 @@
   * [sample means](specialist/sample-means.md)
 * [methods](methods/README.md)
 * [engineering](engineering/README.md)
-  * [basic circuits](engineeering/basic-circuits.md)
-  * [passive components](engineeering/passive-components.md)
-  * [switches and relays](engineeering/switches-and-relays.md)
-  * [voltage dividers and regulators](engineeering/voltage-dividers-and-relays.md)
-  * [semiconductors](engineeering/semiconductors.md)
-  * [motors](engineeering/motors.md)
+  * [basic circuits](engineering/basic-circuits.md)
+  * [passive components](engineering/passive-components.md)
+  * [switches and relays](engineering/switches-and-relays.md)
+  * [voltage dividers and regulators](engineering/voltage-dividers-and-relays.md)
+  * [semiconductors](engineering/semiconductors.md)
+  * [motors](engineering/motors.md)
 * [literature](literature/README.md)
   * [equus](literature/equus.md)
   * [o me! o life!](literature/o-me-o-life.md)
