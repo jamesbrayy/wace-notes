@@ -43,7 +43,7 @@
   * i.e. for solutions of $${\mathrm{z}}^{\mathrm{n}}=1$$:
     * $$\sum_{k=0}^{n-1} z_k = 0$$
     * $$\prod_{k=0}^{n-1} z_k = (-1)^{n-1}$$
-* _complex n_\*^th^\*\* roots:\*
+* _complex $$n^{th}$$ roots:_
   * _i.e._ a solution to $${z}^{5}=-4+4i$$ is $$z=1-i$$. find all solutions.
     * ![](images/image_10.1bfb698d.png)
 
