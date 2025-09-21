@@ -17,9 +17,9 @@
 - **random access memory (RAM):** memory that can be accessed as required. data is not held when power to the microcontroller is turned off
 - **electronically erasable programmable read only memory (EEPROM):** this type of memory can be programmed with data and read back. it is stored even if power is turned off. EEPROM makes up most of the memory used by a microcontroller
 - **I/O**: a general connection point for input (like sensors) and output (like LEDs). it can handle multiple signals simultaneously (parallel), such as turning on several LEDs or reading multiple switches. I/O ports can be either digital (on/off) or analogue (variable values)
-- **serial: **specifically designed for communication between devices. it transmits data one bit at a time (serial), similar to sending a message letter by letter. serial ports include protocols like UART, SPI, and I2C
+- **serial:** specifically designed for communication between devices. it transmits data one bit at a time (serial), similar to sending a message letter by letter. serial ports include protocols like UART, SPI, and I2C
 - **analogue to digital converter (ADC):** analogue sensors provide a signal in the form of varying voltages, usually in the range 0 – 5 V. the ADC converts this input voltage into digital data
-- **clock: **a resonator, sometimes incorporated in the microcontroller and sometimes fitted as an external component, is used to determine the speed at which information is processed. typically, this is at a frequency of 4 MHz or more
+- **clock:** a resonator, sometimes incorporated in the microcontroller and sometimes fitted as an external component, is used to determine the speed at which information is processed. typically, this is at a frequency of 4 MHz or more
 - **bus:** information is carried between the various blocks of the microcontroller along 'groups' of wires called buses. the data bus carries the 8-bit data between the ALU and RAM / I/O registers, and the program bus carries the 13-bit program instructions from the ROM. the size of the data bus provides a description for the microcontroller. therefore an '8-bit microcontroller' has a data bus '8-bits' wide. microcontrollers with 16-bit and 32-bit data buses are also available
 
 
