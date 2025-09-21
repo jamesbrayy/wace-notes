@@ -12,7 +12,7 @@
 ## universal system diagram
 - all systems can be analysed in terms of their inputs, processes, and outputs
 - the universal system diagram is the simplest way to represent a system to a layperson
-- ![What is Closed-Loop Control System? Definition, Operation and Transfer  Function of Closed-Loop Control System - Electronics Coach](image_1.7b232cd1.jpg)
+- ![](../images/image_1.7b232cd1.jpg)
 - *e.g. kettle*
   - the purpose of a kettle is to take cold water (input), heat it (process), and produce hot water (output)
   - however, if we think a little harder it becomes obvious that there are actually a lot more inputs and outputs for this system. Thus the universal block diagram for this example should look like:
