@@ -54,7 +54,7 @@
 ## electrical noise and floating
 - one of the most basic faults in programming is ‘floating’
   - this can affect the value read by pins of microcontrollers
-- ![](../images/image_2.5a9d8547.emf)
+- ![](../images/image_2.5a9d8547.png)
 - when the switch is closed it connects the VCC to the input pin, so the microcontroller would register the input as a high (5 V)
 - when the switch is opened, you would assume the microcontroller would register the input as a low (0 V). however, this is not the case because the input is not connected to GND. rather, we say that it is ‘floating’
 - without being connected directly to VCC or GND, the input pin is susceptible to electrical noise that makes it randomly fluctuate between high and low values. such sources include thermal noise and electromagnetic interference since the pins acts like tiny antennas when they are ‘floating’
@@ -62,7 +62,7 @@
 #### *solution*
 - there are some adjustments that could be made to the code, but we can also alter the circuit physically to solve the issue
 - by connecting the input pin to ground with a resistor, then it will be able to register a low rather than floating while the switch is open
-- ![](../images/image_3.be497018.emf)
+- ![](../images/image_3.be497018.png)
 
 
 

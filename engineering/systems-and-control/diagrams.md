@@ -26,7 +26,7 @@
 - *e.g. washing machine*
   - the processes involved in a washing machine are more complex than most people realise
   - illustrated below is a sub-systems diagram that can be used to explain them in more detail
-  - ![](../images/image_3.56dbdbb1.emf)
+  - ![](../images/image_3.56dbdbb1.png)
 
 
 
@@ -80,7 +80,7 @@
 #### *positive feedback*
 - the opposite effect where the actual output level constantly moves further away from the desired output level can also happen (error is increased)
 - a common example of this is with public address systems when the microphone is held too close to the speakers, which can be seen in the graph below
-  - ![](../images/image_11.507c9656.emf)
+  - ![](../images/image_11.507c9656.png)
   - a sound is picked up by the microphone, amplified, and then output through the speaker
   - the amplified sound is then picked up, re-amplified and so on
   - the net result is a much louder sound than anticipated
