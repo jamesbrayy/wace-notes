@@ -112,7 +112,7 @@ consider a plane passing through position vector $$\underset{\sim}{{a}}$$ and co
 
 5. planes intersecting at a point
     * if the triple scalar product of the normals does not equal zero, there is a single point of intersection
-    * \*i.e. \*$${\underset{\sim}{n}}_{1}\cdot \left({\underset{\sim}{n}}_{2}\times {{\underset{\sim}{n}}_{3}}\right)\ne 0$$
+    * *i.e.* $${\underset{\sim}{n}}_{1}\cdot \left({\underset{\sim}{n}}_{2}\times {{\underset{\sim}{n}}_{3}}\right)\ne 0$$
     * note that cases 1,2, and 3 have no simultaneous solution as no point lies on all three planes at once
 
 ## **closest distance**

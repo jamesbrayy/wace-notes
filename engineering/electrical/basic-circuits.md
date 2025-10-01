@@ -10,7 +10,7 @@
 * charge exists in discrete amounts
 * units of coulombs (C)
 * it is defined as the amount of charge transferred by 1A of current in one second
-* the charge of a proton or electron is approximately 1.602×10^−19^ C.
+* the charge of a proton or electron is approximately $$1.602 \times 10^{−19} C$$
 
 #### _direction of charge_
 
@@ -19,25 +19,25 @@
 
 #### _supply of charge_
 
-* **cells:** cells are individual electrochemical devices that produce electrical energy through chemical reactions. they have two terminals, positive and negative, and are commonly used in small electronic devices like watches, calculators, and remote controls.
-* **batteries:** batteries are collections of multiple cells connected in series to increase voltage, or in parallel to increase current capacity. they store chemical energy and convert it into electrical energy. batteries are used in a wide range of applications, from portable electronics to automotive and industrial systems.
-* **DC power supplies:** direct current power supplies are devices that convert AC voltage from a wall outlet or another source into steady DC voltage. they provide a constant voltage output, which is essential for many electronic devices that require a stable power source.
-* **AC power supplies:** alternating current power supplies are devices that provide AC voltage output. they are commonly used in household and industrial applications to supply power to devices that operate on AC, such as appliances, lighting systems, and motors.
+* **cells:** cells are individual electrochemical devices that produce electrical energy through chemical reactions. they have two terminals, positive and negative, and are commonly used in small electronic devices like watches, calculators, and remote controls
+* **batteries:** batteries are collections of multiple cells connected in series to increase voltage, or in parallel to increase current capacity. they store chemical energy and convert it into electrical energy. batteries are used in a wide range of applications, from portable electronics to automotive and industrial systems
+* **DC power supplies:** direct current power supplies are devices that convert AC voltage from a wall outlet or another source into steady DC voltage. they provide a constant voltage output, which is essential for many electronic devices that require a stable power source
+* **AC power supplies:** alternating current power supplies are devices that provide AC voltage output. they are commonly used in household and industrial applications to supply power to devices that operate on AC, such as appliances, lighting systems, and motors
 
 ## attributes of electricity:
 
-* **voltage:** voltage is the charge differential between two points in a circuit.
-  * voltage is measured in volts (V), in which one volt is equal to joules per coulomb \[JC^-1^]. Put into an equation, this means .
-* **current:** current is the rate at which charge flows through a circuit.
-  * the unit of current is the ampere (A), which is defined as the rate of flow of coulomb per second \[Cs^-1^]. Put into an equation, this means .
-* **resistance:** resistance is a material’s tendency to resist the flow of charge.
-  * resistance is measured in ohms (Ω), where 1 ohm is defined as the resistance between two points in a conductor when a constant potential difference of one volt produces a current of one ampere. ()
+* **voltage:** voltage is the charge differential between two points in a circuit
+  * voltage is measured in volts (V), in which one volt is equal to joules per coulomb $$JC^{-1}$$
+* **current:** current is the rate at which charge flows through a circuit
+  * the unit of current is the ampere (A), which is defined as the rate of flow of coulomb per second $$Cs^{-1}$$
+* **resistance:** resistance is a material’s tendency to resist the flow of charge
+  * resistance is measured in ohms (Ω), where 1 ohm is defined as the resistance between two points in a conductor when a constant potential difference of one volt produces a current of one amp
   * some components do not obey ohm's law. this is because their resistance is not constant and changes with voltage or current. non-ohmic devices include:
     * thermistors
     * light-dependent resistors
     * diodes
     * transistors
-* **power:** power can be defined as the rate at which energy is converted from the electrical energy of the moving charges to some other form of energy (like mechanical energy or thermal energy).
+* **power:** power can be defined as the rate at which energy is converted from the electrical energy of the moving charges to some other form of energy (like mechanical energy or thermal energy)
 
 
 
@@ -78,9 +78,7 @@
 
 * according to this law, the sum of the voltages around a closed loop is equal to zero ()
 * this property is due to conservation of energy
-*
-
-    ![](../images/image_4.121f3de0.png)
+* ![](../images/image_4.121f3de0.png)
 * entering a negative terminal indicates a rise, positive means drop
 * some components have such a low resistance that they drop an insignificant amount of voltage and should be ignored in KVL calculations
 * _exceptions:_
@@ -106,6 +104,6 @@
 
 * **multimeter:** a multimeter is an electronic measuring instrument which can measure voltage, current, and resistance. It combines the functionalities of a voltmeter, ammeter, and ohmmeter into a single device.
   * the red probe should be placed on the positive side of a component, and the black probe should be placed on the negative side of a component.
-* **voltmeter:** used to measure the voltage (potential difference / E.M.F.) between two points in a circuit. the voltmeter must be connected in parallel to measure voltage.
+* **voltmeter:** used to measure the voltage (potential difference / EMF) between two points in a circuit. the voltmeter must be connected in parallel to measure voltage.
 * **ammeter:** used to measure the current at a point in the circuit. the ammeter must be connected in series to measure current.
 * **ohmmeter:** used to measure the resistance between two points in a circuit. the ohmmeter must be connected in parallel to measure resistance.

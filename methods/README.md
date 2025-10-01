@@ -3,4 +3,3 @@ icon: function
 ---
 
 # methods
-

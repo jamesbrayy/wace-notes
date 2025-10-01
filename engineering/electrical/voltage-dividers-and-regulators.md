@@ -41,7 +41,6 @@
 - a voltage regulator has two main functions:
   - to take a higher input voltage and release a lower output voltage that is more suitable for the components in the circuit.
   - to protect from potential voltage surges that could damage components in the circuit.
-
 - ![](../images/image_6.fafa78f2.png)
 
 

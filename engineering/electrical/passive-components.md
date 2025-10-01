@@ -34,14 +34,6 @@
   * capacitors can be charged and discharged repeatedly without significant degradation, unlike some batteries, making them ideal for applications where frequent energy storage and release cycles are needed
   * capacitors are generally smaller and lighter than batteries of similar energy storage capacity, which can be advantageous in compact electronic devices
 
-#### _formulae_
-
-*
-*
-*
-* in series:
-* in parallel:
-
 #### _types of capacitors_
 
 * _non-polarised:_
