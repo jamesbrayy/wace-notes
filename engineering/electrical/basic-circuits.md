@@ -39,8 +39,6 @@
     * transistors
 * **power:** power can be defined as the rate at which energy is converted from the electrical energy of the moving charges to some other form of energy (like mechanical energy or thermal energy)
 
-
-
 ## circuits
 
 #### _series_
@@ -52,8 +50,6 @@
 
 * a circuit is said to be connected in parallel when current has multiple different pathways to flow through
 * ![](../images/image_2.b5df0c85.png)
-
-
 
 ## kirchhoff's laws
 
@@ -78,7 +74,9 @@
 
 * according to this law, the sum of the voltages around a closed loop is equal to zero ()
 * this property is due to conservation of energy
-* ![](../images/image_4.121f3de0.png)
+*
+
+    ![](../images/image_4.121f3de0.png)
 * entering a negative terminal indicates a rise, positive means drop
 * some components have such a low resistance that they drop an insignificant amount of voltage and should be ignored in KVL calculations
 * _exceptions:_
@@ -97,8 +95,6 @@
     if the sign is (−) minus, then there will be a voltage rise going through the element. Add the element voltage.
 
     4. continue around the loop until you reach the starting point, including element voltages all the way around.
-
-
 
 ## test equipment
 

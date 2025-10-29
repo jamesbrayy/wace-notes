@@ -6,7 +6,7 @@ description: tragic drama written by Peter Shaffer (1973)
 
 ## nutshell
 
-Peter Shaffer's 1973 tragic drama Equus captures the nuanced intersection of contemporary spiritual alienation and raw, untamed emotion, as paediatric psychiatrist Martin Dysart endeavours to understand the disturbing case of 17-year-old Alan Strang, whose pious turned violent fascination with horses prompts an unwelcomed confrontation with the spiritual vacuity of his own 'normal' existence.
+Peter Shaffer's 1973 tragic drama Equus captures the nuanced intersection of contemporary spiritual alienation and untamed emotional authenticity. It follows paediatric psychiatrist Martin Dysart as he endeavours to understand the disturbing case of 17-year-old Alan Strang, whose pious turned violent fascination with horses prompts an unwelcomed confrontation with the spiritual vacuity of his own 'normal' existence.
 
 ## primary evidence
 
@@ -22,19 +22,6 @@ Peter Shaffer's 1973 tragic drama Equus captures the nuanced intersection of con
 * extended metaphor
   * equates clinical treatment with ancient greek blood sacrifice
   * temporal contrast exposes how modern psychiatry is protracted and insidious, no less violent to individuality
-
-> _**Dora:**_**&#x20;"He saith among the trumpets - "**\
-> &#xNAN;_**Alan \[trumpeting]:**_**&#x20;"Ha! Ha!"**
-
-* dramatic irony
-  * dora's interpretation of the passage as a demonstration of god's power starkly contrasts with alan's interpretation of it as a show of the raw power and wonder of the horse; this is evident in his excitement
-  * underscores how religious texts are re-encoded by alan's piety with humorous tension
-
-> _**Alan:**_**&#x20;"…Neckwus begat Fleckwus, the King of Spit! And Fleckwus spoke out of his chinkle-chankle! And he said "Behold - I give you Equus, my only begotten son!"**
-
-* parodic allusion, anadiplosis of sorts
-  * irreverent pastiche of the lists of genealogy found in the Bible
-  * the “chinkle-chankle” ridicules solemnity, linking christ’s bondage to equus’ harness
 
 > _**Dysart:**_**&#x20;"The Normal is the good smile in a child's eyes - all right. It is also the dead stare in a million adults. It both sustains and kills - like a God."**
 
@@ -58,6 +45,29 @@ Peter Shaffer's 1973 tragic drama Equus captures the nuanced intersection of con
 
 * antithesis
   * emphasises dysart’s despair and the futility of imposing societal or moral ideals onto human nature
+
+> _**Dora:**_**&#x20;"He saith among the trumpets - "**\
+> &#xNAN;_**Alan \[trumpeting]:**_**&#x20;"Ha! Ha!"**
+
+* dramatic irony
+  * dora's interpretation of the passage as a demonstration of god's power starkly contrasts with alan's interpretation of it as a show of the raw power and wonder of the horse; this is evident in his excitement
+  * underscores how religious texts are re-encoded by alan's piety with humorous tension
+
+> _**Alan:**_**&#x20;"…Neckwus begat Fleckwus, the King of Spit! And Fleckwus spoke out of his chinkle-chankle! And he said "Behold - I give you Equus, my only begotten son!"**
+
+* parodic allusion, anadiplosis of sorts
+  * irreverent pastiche of the lists of genealogy found in the Bible
+  * the “chinkle-chankle” ridicules solemnity, linking christ’s bondage to equus’ harness
+
+> _**"I have in mind a choric effect, made by all the actors"**_
+
+* resonances from ancient greek theatre
+* rhythmic, spectacle
+
+> _**"The actors own heads are seen beneath \[their masks]: no attempt should be made to conceal them"**_
+
+* resonances from ancient greek theatre
+* expressionistic staging
 
 ## genre
 
@@ -89,8 +99,14 @@ Peter Shaffer's 1973 tragic drama Equus captures the nuanced intersection of con
 * set design and costuming are more expressionistic than realistic
 * strong sense of spectacle not found in typical modern tragedy
 
-## ideology
+## aesthetic
 
-### antipsychiatry
+the overall aesthetic of _equus_ is a **hybrid of greek tragic form and modern expressionism**, characterised by ritualised spectacle, symbolic minimalism, and heightened, poetic language. shaffer fuses mythic and religious allusion with contemporary psychological realism, producing a play that is simultaneously archetypal and intimate. key features:
 
-### existentialism
+* **mythic and ritualised imagery**: masks, horse choreography, and stylised lighting evoke classical tragedy and sacrificial ritual.
+* **expressionistic abstraction**: non-naturalistic sets, fragmented time, and choreographed ensemble convey internal emotional and spiritual states rather than external realism.
+* **poetic, paradoxical language**: monologues, extended metaphors, and polyptoton emphasise cognitive and moral conflict.
+* **tonal hybridity**: parody, irony, and grotesque humour coexist with intense psychological drama, generating aesthetic tension that mirrors ideological critique.
+* **focus on spectacle and embodiment**: actors’ bodies, movement, and sound act as carriers of meaning, externalising psychological and spiritual forces.
+
+the cumulative effect is an aesthetic that **performs ideology**: it makes the audience viscerally aware of the violence, repression, and spiritual consequences of imposing “normality” on human desire and individuality.
