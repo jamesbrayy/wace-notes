@@ -28,7 +28,7 @@ Peter Shaffer's 1973 tragic drama Equus captures the nuanced intersection of con
 
 * dramatic irony
   * dora's interpretation of the passage as a demonstration of god's power starkly contrasts with alan's interpretation of it as a show of the raw power and wonder of the horse; this is evident in his excitement
-  * underscores how religious texts are re-encoded by alan's pietry with humorous tension
+  * underscores how religious texts are re-encoded by alan's piety with humorous tension
 
 > _**Alan:**_**&#x20;"…Neckwus begat Fleckwus, the King of Spit! And Fleckwus spoke out of his chinkle-chankle! And he said "Behold - I give you Equus, my only begotten son!"**
 
