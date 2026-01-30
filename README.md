@@ -2,6 +2,8 @@
 
 ***
 
+https://jamesbrayy.gitbook.io/wace-notes/
+
 contains all the stuff you probably forgot.
 
 centralised reference for:
