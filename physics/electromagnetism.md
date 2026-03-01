@@ -114,7 +114,7 @@
   * the induced magnetic field interacts with the external magnetic field to create a \_\_\_\_\_ force
 * _graphing changes in EMF:_
   * for a magnet dropped through a coil (accelerating):
-    * ![](../physics/images/image_1.e3c40bbc.jpg)
+    * ![](../.gitbook/assets/image_1.e3c40bbc.jpg)
 * _motional induced EMF:_
   * when a metal conductor moves in an external magnetic field, forces will be exerted on the charged particles within it
   * the forces on the different charges will be in different directions, creating a separation of charges across its direction of movement and thus an induced EMF
@@ -151,7 +151,7 @@
   2. the rotor field interacts with the approximately uniform stator field, producing equal and opposite forces to be exerted on the rotor and stator by newton's $$3^{\mathrm{rd}}$$ law
   3. the forces exerted on opposite sides of the rotor act at a distance from the rotation axis in opposing directions, producing a net torque that rotates the rotor in a single direction while the fixed stator experiences no motion
   4. the split-ring commutator reverses the current in the rotor every half rotation, maintaining the torque direction and enabling continuous rotation
-* ![](../physics/images/image_2.40808227.jpg)
+* ![](../.gitbook/assets/image_2.40808227.jpg)
 * _torque:_
   * $$\begin{aligned} \vec{\tau} &= r \overrightharpoon{F}_\perp \\ &= r |\overrightharpoon{\overrightharpoon{F}}| \sin\theta \\ \vec{\tau}_{\max} &= n\,2r\,|\overrightharpoon{F}| \sin\theta \\ &= n\,2r\,I\,|\overrightharpoon{L}|\,|\overrightharpoon{B}| \sin\theta \\ &= n\,A\,I\,|\overrightharpoon{B}| \sin\theta \end{aligned}$$
 
@@ -179,7 +179,7 @@
 
 * self-induction is the process by which a changing current in a conductor induces EMF in the same conductor
 * _consider the below circuit:_
-  * ![](../physics/images/image_3.3791af6a.jpg)
+  * ![](../.gitbook/assets/image_3.3791af6a.jpg)
   * when the switch is closed, current flows through the circuit due to the voltage supply
   * this $$\mathrm{\Delta}I$$ results in a $$\mathrm{\Delta}\mathrm{\Phi}$$ and thus an induced EMF by faraday's law
   * this EMF is known as back EMF and will oppose the change in current that caused it by lenz's law, reducing the net rate at which current is drawn

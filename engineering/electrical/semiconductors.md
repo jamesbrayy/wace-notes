@@ -6,7 +6,7 @@
 
 #### _overview_
 
-* ![](../images/image_1.bbf6e19d.png)
+* ![](../../.gitbook/assets/image_1.bbf6e19d.png)
 * rectifier diodes are the electrical equivalent of a one-way valve
 * they are classified as a semiconductor because they conduct electricity in one direction but not in the other
 * most rectifier diodes are made from silicon
@@ -16,7 +16,7 @@
 
 *
 
-    ![](../images/image_2.b5a67f39.png)
+    ![](../../.gitbook/assets/image_2.b5a67f39.png)
 * _a diode consists of three main regions:_
   * P-type semiconductor material, which has an excess of holes (positively charged)
   * depletion layer, which has a lack of electrons and holes (neutral charge)
@@ -44,7 +44,7 @@
 
 * if the DC power supply is connected with the correct polarity, then the diode would be forward-biased, and current will be able to flow through the circuit.
 * if it was connected with an incorrect polarity, then the diode would be reverse-biased, and this would block current from flowing though the circuit.
-* ![](../images/image_3.45c6c244.png)
+* ![](../../.gitbook/assets/image_3.45c6c244.png)
 
 #### _protection against back E.M.F. when switching inductive devices_
 
@@ -62,18 +62,18 @@
 * this creates a large voltage spike known as back emf.
 * a rectifier diode can be connected in parallel with the inductor to provide a safe path for the energy to dissipate.
 * this prevents the voltage spike from harming other components in the circuit (in this case the transistor).
-* ![](../images/image_4.c2309b4a.png)
+* ![](../../.gitbook/assets/image_4.c2309b4a.png)
 
 #### _AC rectification_
 
 * _half-wave rectification:_
   * each time the voltage reverses to become negative, the resulting negative current is blocked by the diode (called a rectifier).
   * only the positive half of the voltage can pass across the load, which results in a pulsating DC output.
-  * ![](../images/image_5.84c3f1f1.png)
+  * ![](../../.gitbook/assets/image_5.84c3f1f1.png)
 * _full-wave rectification:_
   * each time the voltage reverses to become negative, the resulting negative current has its direction reversed by the arrangement of diodes (called a bridge rectifier).
   * both the positive and negative half of the voltage can pass across the load, which results in a constant DC output.
-  * ![](../images/image_6.fdc1c691.png)
+  * ![](../../.gitbook/assets/image_6.fdc1c691.png)
 
 ## light-emitting diodes (LEDs)
 
@@ -82,7 +82,7 @@
 * light-emitting diodes will emit light when forward biased but not when they are reversed biased
 * light-emitting diodes emit different coloured light depending on the semiconductor material used in construction
 * the voltage they require typically varies from 1.8-3.3 V
-* ![](../images/image_7.d4cb0745.png)
+* ![](../../.gitbook/assets/image_7.d4cb0745.png)
 
 #### _applications_
 
@@ -125,24 +125,24 @@
   * when a transistor is in the fully-off state (like an open switch)
   * , and thus there is no collector or emitter current either
   * is equal to the supply voltage
-  * ![](../images/image_9.7e261eaf.png)
+  * ![](../../.gitbook/assets/image_9.7e261eaf.png)
 * _forward-active:_
   * when a transistor is somewhere between the cut-off and saturated state
   * the region between cut-off and saturation is known as the forward-active region
   * the transistor will function normally in this region
   * in the active state, collector current is  times the base current
-  * ![](../images/image_10.61792602.png)
+  * ![](../../.gitbook/assets/image_10.61792602.png)
 * _saturated:_
   * when a transistor is fully conductive between emitter and collector (passing as much current as the power supply will allow)
   * the base current asks for more collector current than can be produced by the power supply
   * the collector current is at a maximum
   * the collector and emitter are effectively a short circuit
   * the transistor behaves as though a switch has been closed between the collector and emitter
-  * ![](../images/image_11.e62c0160.png)
+  * ![](../../.gitbook/assets/image_11.e62c0160.png)
 
 ## example transistor question
 
-* ![](../images/image_12.87efd423.png)
+* ![](../../.gitbook/assets/image_12.87efd423.png)
   * calculate the voltage across the 120 kΩ resistor when the relay is activated (the transistor is on)
 * calculate the power dissipated in the 120 kΩ resistor when the relay is activated
 * determine the current required to operate the relay

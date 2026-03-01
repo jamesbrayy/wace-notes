@@ -29,7 +29,7 @@
 
 #### _advantages and disadvantages_
 
-* ![](../images/image_1.736772bc.png)
+* ![](../../.gitbook/assets/image_1.736772bc.png)
 
 ## relays
 
@@ -60,4 +60,4 @@
 
 advantages and disadvantages
 
-* ![](../images/image_2.3c9fe358.png)
+* ![](../../.gitbook/assets/image_2.3c9fe358.png)

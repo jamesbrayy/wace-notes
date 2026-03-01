@@ -11,12 +11,12 @@
 
 #### _trig substitution_
 
-* ![](images/image_1.13eda047.png)
+* ![](../.gitbook/assets/image_1.13eda047.png)
 
 #### _partial fractions_
 
 * given a function $$\frac{f\left(x\right)}{g\left(x\right)}$$ where the degree of $$f$$ is greater than the degree of $$q$$:
-  * for distinct linear factors $$g\left(x\right)=\left(x-a\right)\left(x-b\right)\dots $$
+  * for distinct linear factors $$g\left(x\right)=\left(x-a\right)\left(x-b\right)\dots$$
     * $$\begin{aligned}\frac{f(x)}{g(x)} &= \frac{A}{x-a} + \frac{B}{x-b} + \dots \\f(x) &= A(x-b) + B(x-a) + \dots\end{aligned}$$
   * for repeated linear factors $$g\left(x\right)={\left(x-a\right)}^{n}$$
     * $$\begin{aligned}\frac{f(x)}{g(x)} &= \frac{A}{x-a} + \frac{B}{(x-a)^2} + \dots + \frac{N}{(x-a)^n} \\f(x) &= A(x-a)^{n-1} + B(x-a)^{n-2} + \dots + Y(x-a) + Z\end{aligned}$$
@@ -24,7 +24,7 @@
 #### _volumes of revolution_
 
 * $$\begin{aligned}V &= \pi \int_a^b f^2(x) \, dx \quad \mathrm{or} \quad \pi \int_c^d f^2(y) \, dy \end{aligned}$$
-* ![](images/image_2.474f03f1.png)
+* ![](../.gitbook/assets/image_2.474f03f1.png)
 
 ## **differentiation**
 
@@ -34,7 +34,7 @@
 
 #### _logarithmic differentiation_
 
-* ![](images/image_3.bf30445b.png)
+* ![](../.gitbook/assets/image_3.bf30445b.png)
 
 #### _differential equations_
 
@@ -47,10 +47,10 @@
 #### logistic curves
 
 * $$\begin{aligned}\frac{dP}{dt} &= r P (k - P) \\P &= \frac{k}{1 + \left( \frac{k}{P_0} - 1 \right) e^{-r k t}}\end{aligned}$$
-* ![](images/image_4.cdceb8f1.png)
+* ![](../.gitbook/assets/image_4.cdceb8f1.png)
 * to go from $$\frac{dP}{dt}$$ to $$P$$, separate and use partial fractions
 * to go from $$P$$ to $$\frac{dP}{dt}$$, use a $$u$$- substitution for the denominator and implicitly differentiate
-  * ![](images/image_5.661d2628.png)
+  * ![](../.gitbook/assets/image_5.661d2628.png)
 
 ## **motion**
 
@@ -65,5 +65,6 @@
 * $$v^2 = k^2 (A^2 - x^2)$$
 
 ## **vector calculus**
+
 * $$\begin{aligned} \text{distance travelled from }t_1 \text{ to } t_2 &= \int_{t_1}^{t_2} | \underset{\sim}{{v}}(t) | \: dt \\&= \int_{t_1}^{t_2} \sqrt{ \big(v_x(t)\big)^2 + \big(v_y(t)\big)^2 } \, dt\end{aligned}$$
 * $$\text{change in displacement} = \int_{t_1}^{t_2} \underset{\sim}{{v}}(t) \, dt$$

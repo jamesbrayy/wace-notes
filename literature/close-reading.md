@@ -76,4 +76,4 @@
 
 ## **sound devices**
 
-![](images/sounds.png)
+![](../.gitbook/assets/sounds.png)

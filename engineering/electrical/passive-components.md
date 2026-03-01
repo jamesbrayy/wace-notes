@@ -14,7 +14,7 @@
 
 #### _4-band resistor colour codes_
 
-* ![](../images/image_1.1c3653fd.png)
+* ![](../../.gitbook/assets/image_1.1c3653fd.png)
 * the 1st and 2nd bands are digits, the 3rd band is a multiplier, and the 4th band is the tolerance
 
 #### _E12 series preferred values_
@@ -63,14 +63,14 @@
 
 * a capacitor is made of two conducting plates that are separated by a dielectric material.
 * the plates accumulate opposing charges when connected to power source
-* ![](../images/image_2.571bed56.png)
+* ![](../../.gitbook/assets/image_2.571bed56.png)
 
 #### _factors that affect capacitance_
 
 * **plate area:** greater plate area gives greater capacitance; directly proportional
 * **plate spacing:** further plate spacing gives less capacitance; inversely proportional
 * **dielectric electric permittivity:** the greater the permittivity of the dielectric material, the greater the capacitance; directly proportional
-* ![](../images/image_3.0d1d6f82.png)
+* ![](../../.gitbook/assets/image_3.0d1d6f82.png)
 
 #### _smoothing_
 
@@ -85,4 +85,4 @@
 
 #### _capacitor codes_
 
-* ![](../images/image_4.7a74dadb.png)
+* ![](../../.gitbook/assets/image_4.7a74dadb.png)
