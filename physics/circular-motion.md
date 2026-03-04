@@ -14,16 +14,14 @@
 * centripetal force is the net force directed towards the centre of curvature that keeps an object moving in uniform circular motion
 * as it is a description of the direction the net force is acting in and thus should not be drawn on free-body diagrams
 
-$$\begin{aligned}\overrightharpoon{F}_c  = m \overrightharpoon{a}_c &= \frac{m\lvert\overrightharpoon{v}\rvert^2}{r}\,\hat r \\[1ex]\left\lvert \overrightharpoon{F}_c \right\rvert &= \frac{m v^2}{r} \\[1ex] &= \frac{m\left(2\pi r f\right)^2}{r} \\[1ex] &= 4\pi^2 m r f^2\end{aligned}$$
-
-
+$$\begin{aligned}\overrightharpoon{F}_c = m \overrightharpoon{a}_c &= -\frac{m\lvert\overrightharpoon{v}\rvert^2}{r}\,\hat r \\[1ex]\left\lvert \overrightharpoon{F}_c \right\rvert &= \frac{m v^2}{r} \\[1ex] &= \frac{m\left(2\pi r f\right)^2}{r} \\[1ex] &= 4\pi^2 m r f^2\end{aligned}$$
 
 #### _**centrifugal force**_
 
 * centrifugal force is the sensation that a body feels while moving in a circular path due to being in a non-inertial reference frame
 * it is not to be confused with centripetal force or any other force for that matter as it is only a descriptive tool for the physical sensation of centripetal acceleration
 * _**constant speed vs constant period**_
-  * ![](../physics/images/image_1.846ae21b.png)
+  * ![](../.gitbook/assets/image_1.846ae21b.png)
 
 ## **banked curves**
 
@@ -52,18 +50,18 @@ $$
 
 #### _**example question**_
 
-![](../physics/images/image_2.518856ba.png)
+![](../.gitbook/assets/image_2.518856ba.png)
 
 ## **vertical centripetal motion**
 
 #### _**upwards circular path**_
 
-![](../physics/images/image_3.d4adc590.png)
+![](../.gitbook/assets/image_3.d4adc590.png)
 
 #### _**downwards circular path**_
 
-![](../physics/images/image_4.db8ba1ad.png)
+![](../.gitbook/assets/image_4.db8ba1ad.png)
 
 #### _**loop-the-loop**_
 
-![](../physics/images/image_5.3e9dcf7b.png)
+![](../.gitbook/assets/image_5.3e9dcf7b.png)

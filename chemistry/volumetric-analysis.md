@@ -41,18 +41,17 @@
   * for a strong acid and base this is indeed the case
 * for other combinations of weak acids and bases the salts produced in the reaction do not form solutions with a pH of 7 due to hydrolysis
 * because of this, an indicator must be chosen with an end point that matches the pH of the solution at the equivalence point **pH changes in acid-base titrations:**
-* when an acid is added to a base solution, the pH does not change in a linear way
-  $$\mathrm{pH} = -\log_{10} [\mathrm{H_3O^+}]$$
+* when an acid is added to a base solution, the pH does not change in a linear way $$\mathrm{pH} = -\log_{10} [\mathrm{H_3O^+}]$$
 * if an acid is polyprotic, then there will be multiple equivalence points along the way
 * _strong acid added to a strong base:_
   * the salt will be approximately neutral at equivalence, indicator must change anywhere within the almost vertical region of the graph
-  * ![](images/image_1.b9da0e4a.png)
+  * ![](../.gitbook/assets/image_1.b9da0e4a.png)
 * _weak acid added to strong base:_
   * the conjugate base of the weak acid is relatively strong; thus the salt will be slightly basic at equivalence, indicator must change above 7
-  * ![](images/image_2.6687c7d9.png)
+  * ![](../.gitbook/assets/image_2.6687c7d9.png)
 * _strong acid added to weak base:_
   * the salt will be slightly acidic at equivalence, indicator must change below 7
-  * ![](images/image_3.161e9512.png)
+  * ![](../.gitbook/assets/image_3.161e9512.png)
 * _weak acid added to weak base:_
   * you cannot effectively titrate a weak acid and weak base as the end point is not easily discernible
 

@@ -44,12 +44,12 @@
 #### _series_
 
 * a circuit is said to be connected in series when there is only one route for current to flow.
-* ![](../images/image_1.119b6b6c.png)
+* ![](../../.gitbook/assets/image_1.119b6b6c.png)
 
 #### _parallel_
 
 * a circuit is said to be connected in parallel when current has multiple different pathways to flow through
-* ![](../images/image_2.b5df0c85.png)
+* ![](../../.gitbook/assets/image_2.b5df0c85.png)
 
 ## kirchhoff's laws
 
@@ -64,7 +64,7 @@
 * this law states that the total current entering a node must be equal to the total current leaving that node
 * put differently, the algebraic sum of every current entering and leaving the node must be equal to zero
 * this property is due to the conservation of charge
-* ![](../images/image_3.3ff79097.png)
+* ![](../../.gitbook/assets/image_3.3ff79097.png)
 * some components have such a high resistance that they only induce a negligible current and should be ignored in KCL calculations:
   * voltmeters
   * ohmmeters
@@ -76,7 +76,7 @@
 * this property is due to conservation of energy
 *
 
-    ![](../images/image_4.121f3de0.png)
+    ![](../../.gitbook/assets/image_4.121f3de0.png)
 * entering a negative terminal indicates a rise, positive means drop
 * some components have such a low resistance that they drop an insignificant amount of voltage and should be ignored in KVL calculations
 * _exceptions:_

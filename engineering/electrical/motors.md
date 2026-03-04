@@ -13,7 +13,7 @@ types of DC motor
 
 * brushed DC motors were traditionally more common due to their simpler design and lower cost
 * however, in recent years, brushless DC motors have gained popularity and are becoming more prevalent in many applications.
-* ![](../images/image_1.f72053a6.png)
+* ![](../../.gitbook/assets/image_1.f72053a6.png)
 
 driving DC motors
 
@@ -24,9 +24,9 @@ H-bridges
 * by closing and opening these switches in different combinations, the direction of the current/ voltage through the motor can be changed.
 * _improved H-bridge:_
   * a more effective solution involves using a DPDT switch, which allows you to change the motor's direction with a single switch. alternatively, a DPDT relay can be used to achieve the same effect without manual intervention by applying a specific current or voltage to it.
-  * ![](../images/image_2.2cd8efa0.png)
+  * ![](../../.gitbook/assets/image_2.2cd8efa0.png)
   * however, there is a limitation with these circuits: it is not possible to stop the motor without disconnecting the power supply. this issue can be resolved by including an SPST switch after the power supply, which allows us to easily turn the motor on or off.
-  * ![](../images/image_3.726165ec.png)
+  * ![](../../.gitbook/assets/image_3.726165ec.png)
 
 L293D motor driver
 
@@ -40,7 +40,7 @@ L293D motor driver
   * _voltage range:_ can operate within a wide voltage range, typically from 4.5V to 36V, making it suitable for a variety of motors.
   * _protection diodes:_ includes internal diodes to protect against back EMF generated when the motor is turned off, which helps to prevent damage to the circuit.
 * _pinout:_
-  * ![](../images/image_4.ce4523ce.png)
+  * ![](../../.gitbook/assets/image_4.ce4523ce.png)
   * _power:_
     * pin 8 is connected to the power supply (4.5 - 36 V) required for the motors.
     * pin 16 is connected to the power supply (5 V) required for the L293D to perform internal logic functions.
@@ -107,7 +107,7 @@ function
   * similarly, the direction of rotation can be reversed by reversing the order in which the coils are energised
 *
 
-    ![](../images/image_5.59f9dbfb.png)
+    ![](../../.gitbook/assets/image_5.59f9dbfb.png)
 
 ULN2803A motor driver
 
@@ -117,7 +117,7 @@ ULN2803A motor driver
   * this simplifies the circuit design by integrating multiple transistors and diodes into a single package, providing higher current gain and better performance for driving stepper motors
 *
 
-    ![](../images/image_6.bffd9730.png)
+    ![](../../.gitbook/assets/image_6.bffd9730.png)
 
 servo motors
 
