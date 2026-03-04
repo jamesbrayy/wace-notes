@@ -3,7 +3,7 @@
 ***
 
 ## material properties
-#### most commonly tested:
+#### most common:
 * **Strength**: Strength is the ability of a material to withstand mechanical stress without failure.
 * **Stiffness**: Stiffness is the ability of a material to resist deformation under load.
 * **Toughness**: Toughness is the ability of a material to absorb energy when being deformed and thus resist deformation and failure.
